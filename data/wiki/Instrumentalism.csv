@@ -1,0 +1,93 @@
+nword,data,tag,section,subsection,paragraph
+1,Instrumentalism,h1,0,0,0
+36,"In philosophy of science and in epistemology, instrumentalism is a methodological view that ideas are useful instruments, and that the worth of an idea is based on how effective it is in explaining and predicting phenomena.",p,0,0,1
+21,"According to instrumentalists, a successful scientific theory reveals nothing known either true or false about nature's unobservable objects, properties or processes.",p,0,0,2
+40,"Scientific theory is merely a tool whereby humans predict observations in a particular domain of nature by formulating laws, which state or summarize regularities, while theories themselves do not reveal supposedly hidden aspects of nature that somehow explain these laws.",p,0,0,2
+11,Instrumentalism is a perspective originally introduced by Pierre Duhem in 1906.,p,0,0,2
+31,"Rejecting scientific realism's ambitions to uncover metaphysical truth about nature, instrumentalism is usually categorized as an antirealism, although its mere lack of commitment to scientific theory's realism can be termed nonrealism.",p,0,0,3
+38,"Instrumentalism merely bypasses debate concerning whether, for example, a particle spoken about in particle physics is a discrete entity enjoying individual existence, or is an excitation mode of a region of a field, or is something else altogether.",p,0,0,3
+16,"Instrumentalism holds that theoretical terms need only be useful to predict the phenomena, the observed outcomes.",p,0,0,3
+6,There are multiple versions of instrumentalism.,p,0,0,4
+1,History,h2,1,0,5
+2,British empiricism,h3,1,1,6
+32,"Newton's theory of motion, whereby any object instantly interacts with all other objects across the universe, motivated the founder of British empiricism, John Locke, to speculate that matter is capable of thought.",p,1,1,7
+38,"The next leading British empiricist, George Berkeley, argued that an object's putative primary qualities as recognized by scientists, such as shape, extension, and impenetrability, are inconceivable without the putative secondary qualities of color, hardness, warmth, and so on.",p,1,1,7
+22,He also posed the question how or why an object could be properly conceived to exist independently of any perception of it.,p,1,1,7
+34,"Berkeley did not object to everyday talk about the reality of objects, but instead took issue with philosophers' talk, who spoke as if they knew something beyond sensory impressions that ordinary folk did not.",p,1,1,7
+23,"For Berkeley, a scientific theory does not state causes or explanations, but simply identifies perceived types of objects and traces their typical regularities.",p,1,1,8
+33,"Berkeley thus anticipated the basis of what Auguste Comte in the 1830s called positivism, although Comtean positivism added other principles concerning the scope, method, and uses of science that Berkeley would have disavowed.",p,1,1,8
+34,"Berkeley also noted the usefulness of a scientific theory having terms that merely serve to aid calculations without their having to refer to anything in particular, so long as they proved useful in practice.",p,1,1,8
+38,"Berkeley thus predated the insight that logical positivists—who originated in the late 1920s, but who, by the 1950s, had softened into logical empiricists—would be compelled to accept: theoretical terms in science do not always translate into observational terms.",p,1,1,8
+33,"The last great British empiricist, David Hume, posed a number of challenges to Francis Bacon's inductivism, which had been the prevailing, or at least the professed view concerning the attainment of scientific knowledge.",p,1,1,9
+27,"Regarding himself as having placed his own theory of knowledge on par with Newton's theory of motion, Hume supposed that he had championed inductivism over scientific realism.",p,1,1,9
+24,"Upon reading Hume's work, Immanuel Kant was ""awakened from dogmatic slumber"", and thus sought to neutralise any threat to science posed by Humean empiricism.",p,1,1,9
+9,Kant would develop the first stark philosophy of physics.,p,1,1,9
+2,German idealism,h3,1,2,10
+43,"To save Newton's law of universal gravitation, Immanuel Kant reasoned that the mind is the precondition of experience and so, as the bridge from the noumena, which are how the world's things exist in themselves, to the phenomena, which are humans' recognized experiences.",p,1,2,11
+35,"And so mind itself contains the structure that determines space, time, and substance, how mind's own categorization of noumena renders space Euclidean, time constant, and objects' motions exhibiting the very determinism predicted by Newtonian physics.",p,1,2,11
+26,"Kant apparently presumed that the human mind, rather than a phenomenon itself that had evolved, had been predetermined and set forth upon the formation of humankind.",p,1,2,11
+17,"In any event, the mind also was the veil of appearance that scientific methods could never lift.",p,1,2,11
+23,"And yet the mind could ponder itself and discover such truths, although not on a theoretical level, but only by means of ethics.",p,1,2,11
+29,"Kant's metaphysics, then, transcendental idealism, secured science from doubt—in that it was a case of ""synthetic a priori"" knowledge (""universal, necessary and informative"")—and yet discarded hope of scientific realism.",p,1,2,11
+31,"Meanwhile, it was a watershed for idealist metaphysics, and launched German idealism, most influentially Hegel's absolute idealism or objective idealism, or at least interpretations, often misinterpretations, and political misuses, of it.",p,1,2,11
+2,Logical empiricism,h3,1,3,12
+25,"Since the mind has virtually no power to know anything beyond direct sensory experience, Ernst Mach's early version of logical positivism (empirio-criticism) verged on idealism.",p,1,3,13
+17,"It was alleged to even be a surreptitious solipsism, whereby all that exists is one's own mind.",p,1,3,13
+12,Mach's positivism also strongly asserted the ultimate unity of the empirical sciences.,p,1,3,13
+41,"Mach's positivism asserted phenomenalism as to new basis of scientific theory, all scientific terms to refer to either actual or potential sensations, thus eliminating hypotheses while permitting such seemingly disparate scientific theories as physical and psychological to share terms and forms.",p,1,3,13
+32,"Phenomenalism was insuperably difficult to implement, yet heavily influenced a new generation of philosophers of science, who emerged in the 1920s while terming themselves logical positivists while pursuing a program termed verificationism.",p,1,3,13
+53,"Logical positivists aimed not to instruct or restrict scientists, but to enlighten and structure philosophical discourse to render scientific philosophy that would verify philosophical statements as well as scientific theories, and align all human knowledge into a scientific worldview, freeing humankind from so many of its problems due to confused or unclear language.",p,1,3,13
+19,"The verificationists expected a strict gap between theory versus observation, mirrored by a theory's theoretical terms versus observable terms.",p,1,3,14
+34,"Believing a theory's posited unobservables to always correspond to observations, the verificationists viewed a scientific theory's theoretical terms, such as electron, as metaphorical or elliptical at observations, such as white streak in cloud chamber.",p,1,3,14
+28,"They believed that scientific terms lacked meanings unto themselves, but acquired meanings from the logical structure that was the entire theory that in turn matched patterns of experience.",p,1,3,14
+35,"So by translating theoretical terms into observational terms and then decoding the theory's mathematical/logical structure, one could check whether the statement indeed matched patterns of experience, and thereby verify the scientific theory false or true.",p,1,3,14
+27,"Such verification would be possible, as never before in science, since translation of theoretical terms into observational terms would make the scientific theory purely empirical, none metaphysical.",p,1,3,14
+8,Yet the logical positivists ran into insuperable difficulties.,p,1,3,14
+24,Moritz Schlick debated with Otto Neurath over foundationalism—the traditional view traced to Descartes as founder of modern Western philosophy—whereupon only nonfoundationalism was found tenable.,p,1,3,14
+11,"Science, then, could not find a secure foundation of indubitable truth.",p,1,3,14
+35,"And since science aims to reveal not private but public truths, verificationists switched from phenomenalism to physicalism, whereby scientific theory refers to objects observable in space and at least in principle already recognizable by physicists.",p,1,3,15
+9,"Finding strict empiricism untenable, verificationism underwent ""liberalization of empiricism"".",p,1,3,15
+9,Rudolf Carnap even suggested that empiricism's basis was pragmatic.,p,1,3,15
+18,"Recognizing that verification—proving a theory false or true—was unattainable, they discarded that demand and focused on confirmation theory.",p,1,3,15
+31,"Carnap sought simply to quantify a universal law's degree of confirmation—its probable truth—but, despite his great mathematical and logical skill, discovered equations never operable to yield over zero degree of confirmation.",p,1,3,15
+7,Carl Hempel found the paradox of confirmation.,p,1,3,15
+16,"By the 1950s, the verificationists had established philosophy of science as subdiscipline within academia's philosophy departments.",p,1,3,15
+17,"By 1962, verificationists had asked and endeavored to answer seemingly all the great questions about scientific theory.",p,1,3,15
+11,Their discoveries showed that the idealized scientific worldview was naively mistaken.,p,1,3,15
+17,"By then the leader of the legendary venture, Hempel raised the white flag that signaled verificationism's demise.",p,1,3,15
+18,"Suddenly striking Western society, then, was Kuhn's landmark thesis, introduced by none other than Carnap, verificationism's greatest firebrand.",p,1,3,15
+13,Instrumentalism exhibited by scientists often does not even discern unobservable from observable entities.,p,1,3,15
+2,Historical turn,h3,1,4,16
+23,"From the 1930s until Thomas Kuhn's 1962 The Structure of Scientific Revolutions, there were roughly two prevailing views about the nature of science.",p,1,4,17
+26,"The popular view was scientific realism, which usually involved a belief that science was progressively unveiling a truer view, and building a better understanding, of nature.",p,1,4,17
+44,"The professional approach was logical empiricism, wherein a scientific theory was held to be a logical structure whose terms all ultimately refer to some form of observation, while an objective process neutrally arbiters theory choice, compelling scientists to decide which scientific theory was superior.",p,1,4,17
+39,"Physicists knew better, but, busy developing the Standard Model, were so steeped in developing quantum field theory, that their talk, largely metaphorical, perhaps even metaphysical, was unintelligible to the public, while the steep mathematics warded off philosophers of physics.",p,1,4,17
+35,"By the 1980s, physicists regarded not particles, but fields as the more fundamental, and no longer even hoped to discover what entities and processes might be truly fundamental to nature, perhaps not even the field.",p,1,4,17
+24,"Kuhn had not claimed to have developed a novel thesis, but instead hoped to synthesize more usefully recent developments in the philosophy of science.",p,1,4,17
+48,"In 1906, Duhem had introduced the problem of the underdetermination of theory by data, since any dataset could be consistent with several different explanations, how the success of any prediction does not, by affirming the consequent, a deductive fallacy, logically confirm the truth of the theory in question.",p,1,4,18
+38,"In the 1930s, Ludwik Fleck had explained the role of perspectivism (logology) in science whereby scientists are trained in thought collectives to adopt particular thought styles setting expectations for a proper scientific question, scientific experiment, and scientific data.",p,1,4,18
+35,Scientists manipulate experimental conditions to obtain results that cohere with their own expectations—what the scientists presuppose is realistic—and as a result might be tempted to invoke the experimenter's regress in order to reject unexpected results.,p,1,4,18
+15,They would then redo these experiments under what were supposedly better and more conducive conditions.,p,1,4,18
+14,"By the 1960s, physicists recognized two, differing roles of physical theory, formalism and interpretation.",p,1,4,18
+15,"Formalism involved mathematical equations and axioms that, upon input of physical data, yielded certain predictions.",p,1,4,18
+7,Interpretation sought to explain why they succeeded.,p,1,4,18
+19,"Widely read, Kuhn's 1962 thesis seemed to shatter logical empiricism, whose paradigmatic science was physics and which championed instrumentalism.",p,1,4,19
+21,"Yet scientific realists, who were far more tenacious, responded by attacking Kuhn's thesis, perennially depicted thereafter as either illuminated or infamous.",p,1,4,19
+18,Kuhn later indicated that his thesis had been so widely misunderstood that he himself was not a Kuhnian.,p,1,4,19
+17,"With logical empiricism's demise, Karl Popper's falsificationism was in the ascendancy, and Popper was knighted in 1965.",p,1,4,19
+20,"Yet in 1961, the molecular biology research program had made its first major empirical breakthrough in cracking the genetic code.",p,1,4,19
+14,"By the 1970s, molecular genetics' research tools could also be used for genetic engineering.",p,1,4,19
+47,"In 1975, philosopher of science Hilary Putnam famously resurrected scientific realism with his no miracles argument, whereby the best scientific theories' predictive successes would appear miraculous if those theories were not at least approximately true about reality as it exists in and of itself beyond human perception.",p,1,4,19
+6,Antirealist arguments were formulated in response.,p,1,4,19
+4,Karl Popper's scientific realism,h3,1,5,20
+31,"By rejecting all variants of positivism via its focus on sensations rather than realism, Karl Popper asserted his commitment to scientific realism, merely via the necessary uncertainty of his own falsificationism.",p,1,5,21
+13,Popper alleged that instrumentalism reduces basic science to what is merely applied science.,p,1,5,21
+34,"In his book ""The fabric of reality"", the British physicist David Deutsch followed Popper's critique of instrumentalism and argued that a scientific theory stripped of its explanatory content would be of strictly limited utility.",p,1,5,21
+7,Constructive empiricism as a form of instrumentalism,h3,1,6,22
+29,"Bas van Fraassen's (1980) project of constructive empiricism focuses on belief in the domain of the observable, so for this reason it is described as a form of instrumentalism.",p,1,6,23
+5,In the philosophy of mind,h2,2,6,24
+42,"In the philosophy of mind, Instrumentalism is the view that propositional attitudes like beliefs are not actually concepts on which we can base scientific investigations of mind and brain, but that acting as if other beings have beliefs is a successful strategy.",p,2,6,25
+3,Relation to pragmatism,h2,3,6,26
+21,"Instrumentalism is closely related to pragmatism, the position that practical consequences is an essential basis for determining meaning, truth or value.",p,3,6,27
+2,See also,h2,4,6,28
+2,Notable proponents,h3,4,7,29
