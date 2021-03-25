@@ -1,0 +1,409 @@
+subsubsection,subsection,section,content
+0,0,0,Vehicle Modular Decontamination System
+0,0,0,(VMDS)
+0,0,0,“Version B” Prototype System
+0,0,0,OPERATOR'S MANUAL
+0,0,0,ELIN A004
+0,0,0,September 2019
+0,0,0,"Modular, Vehicle Independent & Transportable Decontamination System"
+0,0,1,DATE REV NO. DESCRIPTION OF CHANGE APPROVED BY
+0,0,1,08/02/2019 2.k Operation Procedures
+0,0,1,Slurry Operations
+0,0,2,"Intelagard, Inc."
+0,0,2,
+0,0,3,WARNING! DEATH OR SEVERE INJURY MAY RESULT IF PERSONNEL FAIL TO OBSERVE WARNINGS
+0,0,3,
+0,0,4,ADDITIONAL WARNINGS ARE LOCATED TROUGHOUT THIS MANUAL
+0,0,4,
+0,0,4,WARNING SUMMARY - Continued
+0,0,4,VMDS.
+0,0,5,ADDITIONAL SYSTEM PERFORMANCE CHARACTERISTICS:
+0,1,7,Serial Number Locations
+0,1,7,VMDS Power Unit Serial No: ____________________________
+0,1,7,VMDS Tank Serial No: ______________________________
+0,1,7,VMDS Monitor Serial No: _______________________
+0,1,7,VMDS Spray Monitor Stanchion Serial No: _______________________
+0,1,7,VMDS Front Spray Bar (FSB) Serial No: _______________________
+0,1,7,VMDS Rear Spray Bar (RSB) Serial No: _______________________
+1,2,7,Figure 5. Engine
+1,2,7,Figure 6. Compressor
+1,2,7,Pneumatic Pump :
+1,2,7,Programmable Logic Control
+1,2,7,Pre-programmed
+1,2,7,Parker/Racor R20P
+1,2,7,Figure 10.  Fuel/Water Separator
+1,2,7,Power Unit Platform
+1,2,7,"WARNING: WHEN USING A FORKLIFT TO LIFT THE POWER UNIT PLATFORM, EXTENDED FORKS (AT LEAST 72 INCHES LONG) MUST BE USED. INSERT FORKS UNDER THE POWER UNIT PLATFORM FOR PROPER WEIGHT DISTRIBUTION! FAILURE TO USE THE CORRECT FORKS MAY RESULT IN INJURY AND SYSTEM DAMAGE."
+2,2,7,Plastic Guides
+2,2,7,Inspection/Cleanout Ports
+2,2,7,Figure 13.  Inspection/Cleanout Ports
+2,2,7,Figure 14. Tank Level Inspection Port/Dipstick
+4,2,7,Monitor Hose (Purple) Connection
+4,2,7,‘Blabber’/Actuator
+4,2,7,Stream & Fog Nozzle
+4,2,7,Halo
+4,2,7,Small Junction Box
+4,2,7,Figure 25. Monitor Control Hand Wheel Knobs
+4,2,7,Figure 26.  Remote Control Joystick Face Plate
+4,2,7,Stanchion
+4,2,7,Manual Control Hand Wheel Knob Left/Right
+4,2,7,Manual Control Hand Wheel Knob Up/Down
+0,0,8,REF # Control/Indicator Function
+0,0,8,Air Compressor Gauges
+0,0,8,Oil Temperature (max 318 o F)
+0,0,8,
+0,0,8,Selector Valves 1 & 2
+0,0,8,Air Compressor Gauges
+0,0,8,Pump Control Valve
+0,0,8,Programmable Logic Control
+0,0,8,7. Air Control Valve
+0,0,8,Selector Valves 1 & 2
+0,0,8,PUSH TO TURN (FUNCTIONS)
+0,0,8,Warning LED Lights
+0,0,8,Serial Number
+0,0,8,Warning/Operations Labels
+0,0,8,REF # Control/Indicator Function
+0,0,8,Line 1 Discharge
+0,0,8,Main Access Panel
+0,0,8,Engine Oil Drain
+0,0,8,Compressor Air Ports
+0,0,8,Line 2 Discharge
+0,0,8,Draft Input
+0,0,8,Fuel Cap/Gauge
+0,0,8,REF # Control/Indicator Function
+0,0,8,Tie Down
+0,0,8,Tie Down
+0,0,8,Side Access Panel
+0,0,8,Compressor Oil Sight Glasses
+0,0,8,Compressor Oil Drain
+0,0,8,Do Not Touch Contact CLS
+0,0,8,Cooling Fan
+0,0,8,REF # Control/Indicator Function
+0,0,8,Monitor Electrical Connection
+0,0,8,Agitator
+0,0,8,Draft Output
+0,0,8,Front Spray Bar
+0,0,8,Rear Spray Bar
+0,0,8,Monitor
+0,0,8,Fuel Input
+0,0,8,Fuel Output
+0,0,8,Radiator Cap
+0,0,8,Radiator Air Intake
+0,0,8,REF # Control/Indicator Function
+0,0,8,Tie Down
+0,0,8,Tie Down
+0,0,8,Battery Box
+0,0,8,Pump Access Panel
+0,0,8,Figure 39. Tank Connection Points
+0,0,8,REF # Control/Indicator Function
+0,0,8,Agitator Connector
+0,0,8,Hopper/Blender Connector
+0,0,8,Fluid Out/Drain Valve
+0,0,8,Tank Selector Valve
+0,0,8,REF # Control/Indicator Function
+0,0,8,‘Blabber’ Tip
+0,0,8,Stream & Fog Nozzle
+0,0,8,Monitor Hose Connection
+0,0,8,Halo
+0,0,8,Manual Control Up/Down
+0,0,8,Manual Control Left/Right
+0,0,8,Small Junction Box
+0,0,8,Stanchion Pin
+0,0,8,REF # Control/Indicator Function
+0,1,8,SELECTOR 1
+0,1,8,
+0,1,8,Stream/Fog Indicator
+0,1,8,Water Valve On/Off
+0,1,8,Power On/Off
+0,1,8,Joystick
+0,1,8,Power LED
+0,1,8,
+0,1,8,SELECTOR 2
+0,1,8,
+0,2,8,Figure 43. Programmable Logic Control (PLC)
+0,2,8,Main Status Display
+0,2,8,Start
+0,2,8,LED Indicator Lights
+0,2,8,Common Alarm Indicator
+0,2,8,Navigation Button
+0,2,8,Auto Select Mode
+0,2,8,REF # Control / Indicator Function
+0,0,9,Skid Cutouts
+0,1,9,4-Way Modular Skid
+0,1,9,Tank Selector Valve Trailer Position
+0,1,9,Tank Selector Valve Truck Position
+0,1,9,Figure 46. Tank Selector Valve
+0,3,9,Agitator Input
+0,4,9,"- NATO Slave Connector – Inverter, Heavy Duty"
+0,4,9,Figure 49. De-Icer Kit Components
+0,0,10,Quantity Control Function
+0,0,10,
+0,0,10,Stainless Steel Smoothbore Nozzles
+0,0,10,
+0,0,10,2-in-1 Flip-Tip Smoothbore Nozzle
+0,0,10,SPRAYING. THIS WILL DAMAGE THE THREADS .
+0,0,10,
+0,0,10,Monitor Stream & Fog Nozzle
+0,0,10,NOTE**
+0,0,10,A NOZZLE MUST BE ATTACHED TO THE HANDSET AT ALL TIMES FOR PROPER OPERATION.
+0,0,10,Monitor Stream & Fog Nozzle
+0,0,10,Stainless-steel Fogging Nozzle
+0,1,11,METHOD OF SECURING THE TANK TO THE TRUCK/TRAILER IS AUTHORIZED:
+0,3,11,Power Unit Tie Down Locations
+0,3,11,Adjustable Slide Bracket
+0,3,11,Adjustable Slide Bracket Placement
+0,3,11,Front Spray Bar - TRUCK
+0,3,11,SHORT
+0,3,11,(RSB)
+0,4,11,Davit Pocket
+0,4,11,Davit Pocket Cover
+0,4,11,Davit Pocket Pin Placement
+0,4,11,Hole
+0,4,11,Re-Insert Pin
+0,4,11,Davit Pocket Pin
+0,5,11,OPERATIONS)
+0,5,11,Figure 58.  Remote Control Monitor Electrical Connection
+0,5,11,Power Unit (REAR PANEL)
+0,5,11,Monitor Remote Connection Port
+0,5,11,Remote Wire-Thru- Cab Entry Point – Passenger Side Window
+0,1,12,Figure 60. Fuel/Water Separator Placement
+0,1,12,Engine Oil Dipstick
+0,1,12,Engine/Compressor Drive Belt
+0,1,12,Alternator Belt
+0,1,12,Belt Tension
+0,1,12,½ Twist ONLY
+0,1,12,Figure 61. Fuel/Water Separator
+0,1,12,Integrated Fuel Primer Pump Knob
+0,1,12,Drain Cock
+0,1,12,Changeable Filter Body
+0,1,12,Plastic Bowl Separator
+0,1,12,DO NOT DISPOSE OF
+0,1,12,THE SEPARATOR – IT
+0,1,12,IS REUSEABLE
+0,1,12,ENGINE SERVICE INTERVALS
+0,1,12,OIL CHANGE INTERVAL:
+0,2,12,Compressor Oil Fill
+0,2,12,Compressor Oil Sight Glasses
+0,2,12,Compressor Air Intake Filter Cover Clips
+0,2,12,Compressor Outer Air Intake Filter
+0,2,12,Compressor Inner Air Intake Filter
+0,3,12,Compressor Oil/Air Filter
+0,3,12,Compressor Oil Filter
+0,3,12,Limit Switch
+0,3,12,Gauge Needle
+0,4,12,Figure 70. Fuel Line Connections
+0,5,12,Figure 69. Battery Terminals
+0,5,12,Fluid Input
+0,5,12,Fluid In/Drain
+0,5,12,Draft Input
+0,5,12,Hopper Blender Cover
+0,1,13,Stop/Emergency Stop
+0,1,13,
+0,1,13,
+0,1,13,
+1,2,13,Fluid Out Fluid In
+1,2,13,Power Unit
+1,2,13,Trailer Hopper/Blender
+1,2,13,Suction Main Hose
+1,2,13,Truck Hopper/Blender
+1,2,13,Truck Tank
+1,2,13,Agitator Trailer
+1,2,13,Fluid Out Trailer Trailer Tank
+1,2,13,Fluid Out Truck
+1,2,13,Agitator Truck Tank
+2,2,13,7.2.2.1  Draft Fill:
+2,2,13,Start Power Unit (4);
+2,2,13,Fill tank
+2,2,13,Hydrant Fill:
+3,2,13,Filter Basket
+3,2,13,Start Power Unit (4);
+4,2,13,Start Power Unit (4);
+5,2,13,Tank Selector Valve (Pull From Trailer) Tank) Trailer Position
+5,2,13,Tank Selector Valve (Pull From Truck Tank)
+9,2,13,Start Up
+10,2,13,Start Up
+0,0,15,Figure 72. Fuel Supply Connections
+0,0,15,Figure 71. Battery Terminals
+0,0,15,
+0,1,16,Number Name Diameter Fittings Length Magnets
+0,1,16,Diameter &
+0,1,16,Material
+0,1,16,Fittings Label
+0,1,16,"Agitator 1"" F-F 8' 1"" Red Booster Hose Material 1"" Instalock F-F YELLOW"
+0,1,16,"Agitator Trailer 1"" F-F 35' 2 Magnets"
+0,1,16,"1"" Red Booster Hose Material"
+0,1,16,"1"" Instalock F-F"
+0,1,16,YELLOW X2
+0,1,16,"/2"" Red Booster Hose Material"
+0,1,16,"/2"" EZLink F-F"
+0,1,16,RED
+0,1,16,"5,6"
+0,1,16,"/2"" F-F 2 X 1'"
+0,1,16,"/2"" Red Booster Hose Material"
+0,1,16,"/2"" EZLink F-F"
+0,1,16,RED X2
+0,1,16,"Draft (Vertical) 1 "" M-M 20'"
+0,1,16,"/2"" Cam-Lock M-M"
+0,1,16,BLUE
+0,1,16,"Draft (Horizontal) 1 /2"" M-M 60'"
+0,1,16,"/2"" Cam-Lock M-M"
+0,1,16,BLUE X2
+0,1,16,
+0,1,16,Hopper/ Blender
+0,1,16,"/2"" F-F 35'"
+0,1,16,"/2"" Red Booster Hose Material"
+0,1,16,"/2"" EZLink F-F"
+0,1,16,WHITE
+0,1,16,
+0,1,16,Hopper/ Monitor
+0,1,16,"/2"" F-F 17'"
+0,1,16,"/2"" Red Booster Hose Material"
+0,1,16,"/2"" EZLink F-F"
+0,1,16,PURPLE
+0,1,16,"Spray Bar, Front (FSB) 1 "" F-F 25' 2 Magnets"
+0,1,16,"1"" Red Booster Hose Material"
+0,1,16,"1"" Instalock F-F"
+0,1,16,GREEN
+0,1,16,"12,13 Spray Bar, Rear (RSB) 1"" F-F 2 X 15' 2 Magnets"
+0,1,16,"1"" Red Booster Hose Material"
+0,1,16,"1"" Instalock F-F"
+0,1,16,ORANGE
+0,1,16,"Suction Main Tank 1 /2"" F-F 40"""
+0,1,16,"/2"" Instalock F- F"
+0,1,16,BLACK
+0,1,16,"Suction Trailer Tank 1 /2"" F-F 25'"
+0,1,16,"/2"" Instalock F- F"
+0,1,16,BLACK X2
+0,1,16,Bands) Hoses
+0,1,16,Hoses
+0,1,16,Hopper Blender Hose (White Band)
+0,1,16,Figure 19. Hopper-Blender Hose (White Band)
+0,1,16,Monitor Hose (Purple Band)
+0,1,16,Figure 20. Monitor Hose (Purple Band)
+0,1,16,Front Spray Bar Hose (Green Band)
+0,1,16,Figure 21. Front Spray Bar Hose (Green Band)
+0,1,16,Rear Spray Bar Hoses (Orange Bands)
+0,1,16,"Figure 22, Rear Spray Bar Hose (Orange Band)"
+0,1,16,Band)
+0,2,16,Function Label Color
+0,2,16,Associated Hose Color
+0,2,16,Associated Hose Material
+0,2,16,Discharge #1 & #2
+0,2,16,RED
+0,2,16,RED
+0,2,16,Draft Input
+0,2,16,BLUE
+0,2,16,Blue
+0,2,16,Agitator
+0,2,16,YELLOW
+0,2,16,Red 6' X 1” Booster
+0,2,16,Front Spray Bar
+0,2,16,GREEN
+0,2,16,Red 25' X 1” Booster
+0,2,16,Rear Spray Bar
+0,2,16,ORANGE
+0,2,16,Monitor
+0,2,16,PURPLE
+0,2,16,Red 17' X 1 ½” Booster Draft Output (Hopper/Blender)
+0,2,16,WHITE
+0,2,16,Red 35' X 1 ½” Booster
+0,2,16,Fluid Input (Suction)
+0,2,16,BLACK
+0,2,16,Blue
+0,0,17,Front Spray Bar
+0,0,17,Rear Spray Bar
+0,0,17,Rear Spray Bar
+0,0,17,Magnets
+0,1,18,Winterization/Blow-Down:
+0,1,19,PROBLEM
+0,1,19,CORRECTIVE ACTION REFERENCE NUMBER(S)
+0,1,19,(Continuing 13.1 Trouble Shooting - Problems)
+0,1,19,PROBLEM
+0,1,19,CORRECTIVE ACTION REFERENCE NUMBER(S)
+0,1,19,"2, 3, 4, 15, 16, 17, 18, 19"
+0,1,19,
+0,3,19,REF # POSSIBLE CAUSES CORRECTIVE ACTION(S)
+0,3,19,
+0,3,19,(Continuing 13.3 Trouble Shooting - Corrective Actions)
+0,3,19,REF # POSSIBLE CAUSES CORRECTIVE ACTION(S)
+0,3,19,
+0,3,19,(Continuing 13.3 Trouble Shooting – Corrective Actions)
+0,3,19,REF # POSSIBLE CAUSES CORRECTIVE ACTION(S)
+0,3,19,(Continuing 13.3 Trouble Shooting – Corrective Actions)
+0,3,19,REF # POSSIBLE CAUSES CORRECTIVE ACTION(S)
+0,3,19,
+0,0,20,MAKING STB DECONTAMINATING AGENT SLURRY
+0,0,20,PREPARATION OF THE POWER UNIT FOR MIXING SLURRY :
+0,0,20,
+0,0,20,
+0,0,20,CONFIGURATION OF THE TANKS AND HOSES
+0,0,20,Truck only
+0,0,20,Single Black
+0,0,20,Double Black
+0,0,20,Double Red Single Yellow
+0,0,20,White Double Yellow
+0,0,20,
+0,0,20,
+0,0,20,VMDS STB Slurry Mixing
+0,0,20,Proportions
+0,0,20,Standard M12A1-sized Batch
+0,0,20,LBS
+0,0,20,50# Drums
+0,0,20,Gallons
+0,0,20,Relative Percent (W/W)
+0,0,20,YIELD
+0,0,20,LBS
+0,0,20,50# Drums
+0,0,20,Gallons
+0,0,20,Relative Percent (W/W)
+0,0,20,YIELD
+0,0,20,
+0,0,20,
+0,0,20,
+0,0,20,CAUTION
+0,0,20,NOTE
+0,0,20,NOTE
+0,0,20,CAUTION
+0,0,20,AGITATING SLURRY IN TANK UNIT
+0,0,20,CAUTION
+0,0,20,
+0,0,20,CAUTION
+0,0,20,"SLURRY, IT MAY BE DESIRED TO SPRAY SLURRY WITH THE FRONT SPRAY BAR."
+0,0,20,"TO DO THIS OPERATION, YOU WILL NEED TO CONTINUE AGITATION WHILE"
+0,0,20,SPRAYING.  YOU WILL USE THE AGITATOR FUNCTION ON SELECTOR VALVE #1
+0,0,20,AND THE “REAR SPRAY BAR” FUNCTION ON SELECTOR VALVE #2 BUT CONNECT
+0,0,20,THE FRONT SPRAY BAR HOSE (GREEN BAND) TO THE REAR SPRAY BAR OUTLET
+0,0,20,(ORANGE) ON THE BACK OF THE POWER UNIT.
+0,0,20,NOTE: YOU WILL ONLY BE ABLE TO DISPENSE SLURRY THROUGH EITHER THE
+0,0,20,FRONT OR REAR SPRAY BAR BUT NOT BOTH AT THE SAME TIME. DO NOT USE A
+0,0,20,FOG NOZZLE AS IT WILL CLOG WITH SLURRY; USE A SHAPER TIP NOZZLE (RED
+0,0,20,PLASTIC OR STAINLESS STEEL).
+0,0,20,
+0,0,20,"A-1: HMDS STB Mixing Requirements, V1, 08 May 8, 2019"
+0,0,20,Appendix A TM 3-4230-237-10 0008
+0,0,20,OPERATOR MAINTENANCE OPERATION UNDER USUAL CONDITIONS SPRAYING DECONTAMINANT SOLUTION
+0,0,20,INITIAL SETUP:
+0,0,20,"Materials/Parts Materials/Parts (cont.) Antifoam Compound, Silicone (WP 0029, Table 1, Sodium Carbonate (WP 0029, Table 1, Item 21) Item 2) Sodium Hydroxide, Technical (WP 0029, Table 1, Antisetting Compound, Decontaminating Slurry Item 22) (WP 0029, Table 1, Item 3) Decontaminating Agent STB (WP 0029, Table 1,"
+0,0,20,"References Item 8) FM 3-11.5 Detergent, General Purpose (WP 0029, Table 1, TM 10-8415-220-10 Item 9) WP 0006 Disinfectant, Calcium Hypochlorite (WP 0029, WP 0007 Table 1, Item 10) WP 0011 Foam Liquid, Fire Extinguishing (WP 0029, Table 1, Item 12)"
+0,0,20,MAKING SUPER TROPICAL BLEACH (STB) DECONTAMINATING AGENT SLURRY
+0,0,20,WARNING
+0,0,20,
+0,0,20,General
+0,0,20,0008-1
+0,0,20,TM 3-4230-237-10                                                    0008
+0,0,20,MAKING SUPER TROPICAL BLEACH (STB) DECONTAMINATING AGENT SLURRY - Continued
+0,0,20,M2 Antiset
+0,0,20,Figure 1 .  Making STB Decontaminating Agent Slurry.
+0,0,20,Silicone Antifoam Agent
+0,0,20,Figure 2. Making STB Decontaminating Agent Slurry.
+0,0,20,0008-2
+0,0,20,TM 3-4230-237-10                                                   0008
+0,0,20,MAKING SUPER TROPICAL BLEACH (STB) DECONTAMINATING AGENT SLURRY – Continued
+0,0,20,STB Decontaminating Agent
+0,0,20,WARNING
+0,0,20,NOTE
+0,0,20,Figure 3. Making STB Decontaminating Agent Slurry.
+0,0,20,0008-3
+0,0,20,TM 3-4230-237-10                                                   0008
+0,0,20,MAKING SUPER TROPICAL BLEACH (STB) DECONTAMINATING AGENT SLURRY – Continued
+0,0,20,0008-6

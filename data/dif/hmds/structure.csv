@@ -1,0 +1,293 @@
+page,elo,tlo,pid,type,name
+0,0,1,,TLO,High Mobility Decontamination System
+0,1,1,59940,Page,High Mobility Decontamination System (HMDS)
+0,2,1,,ELO,How to use this course
+1,2,1,59941,Page,Course Navigation
+2,2,1,59945,Page,Video
+3,2,1,59944,Page,Side Menu
+4,2,1,59943,Page,3D Viewer
+5,2,1,59942,Page,Simulation
+0,0,2,,TLO,System Overview
+0,1,2,59955,Page,System Overview
+0,2,2,,ELO,System Overview Objectives
+1,2,2,59956,Page,System Overview Objectives
+0,3,2,,ELO,System Warnings
+1,3,2,59946,Page,Safety Warnings
+0,4,2,,ELO,General Safety Warnings
+1,4,2,59949,Page,General Safety Warnings
+2,4,2,59950,Page,General Safety Warnings (continued)
+0,5,2,,ELO,Specific Safety Warnings
+1,5,2,59953,Page,Specific Safety Warnings
+2,5,2,59951,Page,Specific Safety Warnings (continued)
+3,5,2,59952,Page,Specific Safety Warnings (continued)
+0,6,2,,ELO,HMDS Overview
+1,6,2,60208,Page,HMDS Overview
+2,6,2,60213,Page,HMDS Overview (continued)
+0,7,2,,ELO,Major System Components
+1,7,2,60214,Page,Major System Components Objectives
+0,8,2,,ELO,The Power Unit
+1,8,2,60215,Page,The Power Unit
+2,8,2,60211,Page,Power Unit Controls and Indicators
+3,8,2,60212,Page,Programmable Logic Control (PLC) Controls and Indicators
+0,9,2,,ELO,System Tanks
+1,9,2,60217,Page,System Tanks
+2,9,2,60210,Page,Tank Connection Points
+3,9,2,60218,Page,Tank Inspection/Cleanout Ports
+4,9,2,60219,Page,Tank Selector Valve Assembly
+5,9,2,60220,Page,Tank Hopper/Blender
+6,9,2,60221,Page,Tank Level Inspection Port/Dipstick
+7,9,2,60222,Page,Tank Agitator
+8,9,2,60223,Page,Tank Storage Basket and Cargo Net
+9,9,2,60224,Page,Moving and Securing Tanks
+0,10,2,,ELO,Hose Kit
+1,10,2,60225,Page,Hose Kit
+0,11,2,,ELO,Hoses
+1,11,2,60251,Page,Hoses
+2,11,2,60256,Page,Agitator Hoses
+3,11,2,60257,Page,Discharge Hoses
+4,11,2,60258,Page,Vertical and Horizontal Drafting  Hoses
+5,11,2,60259,Page,Hopper Blender Hose
+6,11,2,60260,Page,Monitor Hose
+7,11,2,60261,Page,Front Spray Bar Hose
+8,11,2,60262,Page,Rear Spray Bar Hoses
+9,11,2,60263,Page,Suction Main Tank and Suction Trailer Tank
+10,11,2,60264,Page,Hose Adapters
+0,12,2,,ELO,Nozzles
+1,12,2,60265,Page,Nozzles
+0,13,2,,ELO,The Monitor (Water Cannon)
+1,13,2,60226,Page,The Monitor (Water Cannon)
+2,13,2,60227,Page,Monitor Remote Control
+3,13,2,60267,Page,Monitor Remote Controls and Indicators
+4,13,2,60228,Page,Stanchion
+5,13,2,60268,Page,Stanchion Controls and Indicators
+0,14,2,,ELO,Front Spray Bar
+1,14,2,60229,Page,Front Spray Bar
+0,15,2,,ELO,Rear Spray Bar
+1,15,2,60230,Page,Rear Spray Bar
+0,16,2,,ELO,De-Icer Kit/Accessory Box
+1,16,2,60231,Page,De-Icer Kit/Accessory Box
+0,17,2,,ELO,Cab and Tailgate Magnets
+1,17,2,60269,Page,Cab and Tailgate Magnets
+0,18,2,,ELO,Fuel Container and Gauge
+1,18,2,60232,Page,Fuel Container and Gauge
+0,19,2,,ELO,Checks on Learning
+1,19,2,60434,Page,Checks on Learning
+2,19,2,59954,Page,Question 1 of 5
+3,19,2,60439,Page,Question 2 of 5
+4,19,2,60440,Page,Question 3 of 5
+5,19,2,60441,Page,Question 4 of 5
+6,19,2,60442,Page,Question 5 of 5
+0,0,3,,TLO,System Setup and PMCS
+0,1,3,60270,Page,System Setup and PMCS Overview
+0,2,3,,ELO,System Setup and PMCS Objectives
+1,2,3,60271,Page,System Setup and PMCS Objectives
+0,3,3,,ELO,System Setup and PMCS Warnings 
+1,3,3,60272,Page,System Setup and PMCS Warnings 
+0,4,3,,ELO,Tank Installation
+1,4,3,60273,Page,Tank Installation
+0,5,3,,ELO,Power Unit Installation
+1,5,3,60274,Page,Power Unit Installation
+2,5,3,60275,Page,Power Unit Hose Connection Color Code
+0,6,3,,ELO,Installation of Spray Bars
+1,6,3,60276,Page,Installation of Spray Bars
+2,6,3,60277,Page,Installation of Spray Bars (continued)
+3,6,3,60126,Page,Attaching the Spray Bars
+0,7,3,,ELO,Monitor/Stanchion Installation
+1,7,3,60278,Page,Monitor/Stanchion Installation
+2,7,3,60125,Page,Attaching the Monitor (Hoses & Electrical) 
+0,8,3,,ELO,Installation of Remote-Control Box (Cab or Dismounted Operations)
+1,8,3,60280,Page,Installation of Remote-Control Box (Cab or Dismounted Operations)
+0,9,3,,ELO,Preventive Maintenance Checks & Services (PMCS)
+1,9,3,60281,Page,Preventive Maintenance Checks & Services (PMCS)
+2,9,3,60468,Page,Preventive Maintenance Checks & Services for the HMDS (Part 1)
+3,9,3,60469,Page,Preventive Maintenance Checks & Services for the HMDS (Part 2)
+0,10,3,,ELO,Checks on Learning
+1,10,3,60237,Page,Question 1 of 5
+2,10,3,60443,Page,Question 2 of 5
+3,10,3,60444,Page,Question 3 of 5
+4,10,3,60445,Page,Question 4 of 5
+5,10,3,60446,Page,Question 5 of 5
+0,0,4,,TLO,System Startup
+0,1,4,60287,Page,System Startup
+0,2,4,,ELO,System Startup Objectives
+1,2,4,60288,Page,System Startup Objectives
+0,3,4,,ELO,System Startup Warnings
+1,3,4,60289,Page,System Startup Warnings
+0,4,4,,ELO,Starting Up the System Quick Procedure
+1,4,4,59998,Page,Starting Up the System Procedure
+0,5,4,,ELO,Checks on Learning
+1,5,4,60238,Page,Question 1 of 5
+2,5,4,60447,Page,Question 2 of 5
+3,5,4,60448,Page,Question 3 of 5
+4,5,4,60449,Page,Question 4 of 5
+5,5,4,60450,Page,Question 5 of 5
+0,0,5,,TLO,Operating the System
+0,1,5,60292,Page,Operating the System
+0,2,5,,ELO,Operating the System Objectives
+1,2,5,60293,Page,Operating the System Objectives
+0,3,5,,ELO,Operating the System Warnings
+1,3,5,60322,Page,Operating the System Warnings
+0,4,5,,ELO,Priming the HMDS for Fuel
+1,4,5,60139,Page,Priming the HMDS for Fuel
+0,5,5,,ELO,Operating the HMDS
+1,5,5,60323,Page,Operating the HMDS
+0,6,5,,ELO,Selector Valves – Operational Settings
+1,6,5,60324,Page,Selector Valves – Operational Settings
+2,6,5,60471,Page,Selector Valve 2  – Operational Settings
+0,7,5,,ELO,Filling the Holding Tanks
+1,7,5,60326,Page,Filling the Holding Tanks
+0,8,5,,ELO,Filling the Holding Tanks: Draft Fill
+1,8,5,60328,Page,Filling the Holding Tanks: Draft Fill
+0,9,5,,ELO,Filling the Holding Tanks: Hydrant Fill
+1,9,5,60327,Page,Filling the Holding Tanks: Hydrant Fill
+0,10,5,,ELO,Priming the HMDS for Pumping Water
+1,10,5,60138,Page,Priming the HMDS for Pumping Water
+0,11,5,,ELO,Drafting Operation
+1,11,5,60128,Page,Drafting Operation
+0,12,5,,ELO,Suction Main Hose (SM)
+1,12,5,60325,Page,Suction Main Hose (SM)
+0,13,5,,ELO,Attaching the Suction Hoses
+1,13,5,60120,Page,Attaching the Suction Hoses
+0,14,5,,ELO,Tank-to-Tank Operation
+1,14,5,60332,Page,Tank-to-Tank Operation
+0,15,5,,ELO,Attaching the Agitator Hose
+1,15,5,60123,Page,Attaching the Agitator Hose
+0,16,5,,ELO,Hopper/Blender (Main Tank and Trailer Tank)
+1,16,5,60124,Page,Hopper/Blender (Main Tank and Trailer Tank)
+0,17,5,,ELO,Attaching the Mixing Hoses and Mixing a Solution
+1,17,5,60127,Page,Attaching the Mixing Hoses and Mixing a Solution
+0,18,5,,ELO,Front Spray Bar Operation
+1,18,5,60333,Page,Front Spray Bar Operation
+0,19,5,,ELO,Rear Spray Bar Operation
+1,19,5,60334,Page,Rear Spray Bar Operation
+0,20,5,,ELO,Monitor Operation
+1,20,5,60335,Page,Monitor Operation
+0,21,5,,ELO,Discharge Hoses and Guns
+1,21,5,60122,Page,Discharge Hoses and Guns
+0,22,5,,ELO,Line 1 Discharge Operation 
+1,22,5,60336,Page,Line 1 Discharge Operation 
+0,23,5,,ELO,Line 2 Discharge Operation 
+1,23,5,60337,Page,Line 2 Discharge Operation 
+0,24,5,,ELO,Using the De-Icer
+1,24,5,60119,Page,Using the De-Icer
+0,25,5,,ELO,Checks on Learning
+1,25,5,60239,Page,Question 1 of 5
+2,25,5,60451,Page,Question 2 of 5
+3,25,5,60452,Page,Question 3 of 5
+4,25,5,60453,Page,Question 4 of 5
+5,25,5,60454,Page,Question 5 of 5
+0,0,6,,TLO,Slurry Mixing
+0,1,6,60294,Page,Slurry Mixing
+0,2,6,,ELO,Slurry Mixing Objectives
+1,2,6,60295,Page,Slurry Mixing Objectives
+0,3,6,,ELO,Slurry Mixing Warnings
+1,3,6,60402,Page,Slurry Mixing Warnings
+2,3,6,60408,Page,Slurry Mixing Warnings (continued)
+0,4,6,,ELO,Preparation of the Power Unit for Mixing Slurry
+1,4,6,60400,Page,Preparation of the Power Unit for Mixing Slurry
+0,5,6,,ELO,"Quantity Requirements for STB, Anti-foam, and Anti-set."
+1,5,6,60467,Page,Quantity Requirements for STB and HTH
+0,6,6,,ELO,Configuration of the Tanks and Hoses
+1,6,6,60401,Page,Configuration of the Tanks and Hoses
+2,6,6,60473,Page,Configuration of the Tanks and Hoses
+3,6,6,60407,Page,Configuration of the Tanks and Hoses (continued)
+0,7,6,,ELO,Slurry Mixing for Specified Slurry
+1,7,6,60409,Page,Slurry Mixing for Specified Slurry
+0,8,6,,ELO,Dispensing Slurry
+1,8,6,60412,Page,Dispensing Slurry with Spray Gun
+0,9,6,,ELO,Checks on Learning
+1,9,6,60240,Page,Question 1 of 5
+2,9,6,60455,Page,Question 2 of 5
+3,9,6,60456,Page,Question 3 of 5
+4,9,6,60457,Page,Question 4 of 5
+5,9,6,60458,Page,Question 5 of 5
+0,0,7,,TLO,Maintaining the System
+0,1,7,60344,Page,Maintaining the System
+0,2,7,,ELO,Maintaining the System Objectives
+1,2,7,60345,Page,Maintaining the System Objectives
+0,3,7,,ELO,Maintaining the System Warnings
+1,3,7,60346,Page,Maintaining the System Warnings
+0,4,7,,ELO,Tank Cleaning Procedure
+1,4,7,60348,Page,Tank Cleaning Procedure
+0,5,7,,ELO,Winterization and Freeze Prevention Procedures
+1,5,7,60349,Page,Winterization and Freeze Prevention Procedures
+2,5,7,60470,Page,Winterizing
+0,6,7,,ELO,Checks on Learning
+1,6,7,60242,Page,Question 1 of 5
+2,6,7,60459,Page,Question 2 of 5
+3,6,7,60460,Page,Question 3 of 5
+4,6,7,60461,Page,Question 4 of 5
+5,6,7,60462,Page,Question 5 of 5
+0,0,8,,TLO,Troubleshooting
+0,1,8,60358,Page,Troubleshooting
+0,2,8,,ELO,Troubleshooting Objectives
+1,2,8,60359,Page,Troubleshooting Objectives
+0,3,8,,ELO,No Power to the PLC
+1,3,8,60137,Page,No Power to the PLC
+0,4,8,,ELO,Programmable Logic Controller Error Codes
+1,4,8,60074,Page,Programmable Logic Controller Error Codes
+2,4,8,60136,Page,PLC Fault Codes
+0,5,8,,ELO,Stuck Valve (Open or Shut)
+1,5,8,60135,Page,Stuck Valve (Open or Shut)
+0,6,8,,ELO,System Will Not Build Pressure
+1,6,8,60134,Page,System Will Not Build Pressure
+0,7,8,,ELO,No Flow or Pressure
+1,7,8,60133,Page,No Flow or Pressure
+0,8,8,,ELO,HMDS Power Unit Will Not Start
+1,8,8,60130,Page,HMDS Power Unit Will Not Start
+0,9,8,,ELO,Monitor is not Responding
+1,9,8,60118,Page,Monitor is not Responding
+0,10,8,,ELO,Inconsistent Flow from the Spray Bars
+1,10,8,60113,Page,Inconsistent Flow from the Spray Bars
+0,11,8,,ELO,Problems and Corrective Actions
+1,11,8,60394,Page,Problems and Corrective Actions
+2,11,8,,Learning Step,"When the green Start button is pressed, the engine does NOT turn on"
+2,11,8,60073,Page,"When the green Start button is pressed, the engine does NOT turn on"
+3,11,8,,Learning Step,Air to system shuts off
+3,11,8,60362,Page,Air to system shuts off
+4,11,8,,Learning Step,While the system is running the “Charging” indicator light comes on and stays on 
+4,11,8,60363,Page,While the system is running the “Charging” indicator light comes on and stays on 
+5,11,8,,Learning Step,While the system is running the “Oil Pressure” indicator light comes on and stays on
+5,11,8,60367,Page,While the system is running the “Oil Pressure” indicator light comes on and stays on
+6,11,8,,Learning Step,The system shuts itself down during operations – the “Oil Pressure” indicator light is on
+6,11,8,60378,Page,The system shuts itself down during operations – the “Oil Pressure” indicator light is on
+7,11,8,,Learning Step,While the system is running the “Alternator” indicator light comes on and stays on 4
+7,11,8,60372,Page,While the system is running the “Alternator” indicator light comes on and stays on 4
+8,11,8,,Learning Step,The system shuts itself down during operations – the “Over Heat” light is on 
+8,11,8,60379,Page,The system shuts itself down during operations – the “Over Heat” light is on 
+9,11,8,,Learning Step,The air compressor “Temperature” gauge needle goes above 318 degrees and stalls unit
+9,11,8,60380,Page,The air compressor “Temperature” gauge needle goes above 318 degrees and stalls unit
+10,11,8,,Learning Step,The air compressor “Pressure” gauge needle is over 115 psi the system shuts down
+10,11,8,60381,Page,The air compressor “Pressure” gauge needle is over 115 psi the system shuts down
+11,11,8,,Learning Step,The system shuts down/cuts off during operation
+11,11,8,60382,Page,The system shuts down/cuts off during operation
+12,11,8,,Learning Step,"System runs rough, does not idle smoothly"
+12,11,8,60383,Page,"System runs rough, does not idle smoothly"
+13,11,8,,Learning Step,"When conducting spray operations, the discharge line surges"
+13,11,8,60384,Page,"When conducting spray operations, the discharge line surges"
+14,11,8,,Learning Step,"Pump cycles unevenly, or skip-cycles"
+14,11,8,60385,Page,"Pump cycles unevenly, or skip-cycles"
+15,11,8,,Learning Step,Pump cycles rapidly – faster than usual
+15,11,8,60386,Page,Pump cycles rapidly – faster than usual
+16,11,8,,Learning Step,When attempting to draft the pump will not prime
+16,11,8,60387,Page,When attempting to draft the pump will not prime
+17,11,8,,Learning Step,Fluid leaks detected – fluid appears to be coming from the VMDS power module
+17,11,8,60388,Page,Fluid leaks detected – fluid appears to be coming from the VMDS power module
+18,11,8,,Learning Step,Fluid leaks detected – fluid appears to be leaking from the tank(s)
+18,11,8,60389,Page,Fluid leaks detected – fluid appears to be leaking from the tank(s)
+19,11,8,,Learning Step,During operation a ‘pulsating hissing noise’ is heard from the pump area of the VMDS power module
+19,11,8,60390,Page,During operation a ‘pulsating hissing noise’ is heard from the pump area of the VMDS power module
+20,11,8,,Learning Step,A small trickle of water is seen coming from the pump compartment
+20,11,8,60391,Page,A small trickle of water is seen coming from the pump compartment
+21,11,8,,Learning Step,Line ‘bucks’ when discharging foam
+21,11,8,60392,Page,Line ‘bucks’ when discharging foam
+22,11,8,,Learning Step,Water is discharged from discharge air line(s)
+22,11,8,60393,Page,Water is discharged from discharge air line(s)
+0,12,8,,ELO,Checks on Learning
+1,12,8,60243,Page,Question 1 of 5
+2,12,8,60463,Page,Question 2 of 5
+3,12,8,60464,Page,Question 3 of 5
+4,12,8,60465,Page,Question 4 of 5
+5,12,8,60466,Page,Question 5 of 5
+0,0,9,,TLO,Contact
+0,1,9,60234,Page,Contact Information

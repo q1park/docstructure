@@ -1,0 +1,668 @@
+PageID,TextDisplayValue
+52006,Course title and page name Current page location in course Left click the next or previous arrow to navigate to that page (when available).
+52006,1 of 5
+52006,Course Navigation
+56871,"Click to view current instruction as written steps, this action will pause the video. Hover your cursor over a video to display the controls panel:Play/PauseTime/LengthAudioView full frameThree dots menu features are available when playing in full frameDownloadPicture in picture"
+56871,2 of 5
+56871,Video Controls
+56872,"Left click the three bar icon at anytime to open the Side Menu.Course Map quickly jump to any page, key word search is available.References provides access to additional documents related to this course.Help provides a descriptive PDF version of these and other course features.Print, prints the current page, if available.Exit Course, exits the course."
+56872,3 of 5
+56872,Side Menu
+56873,Left click any numbered highlight to see description. Right click and drag to view the object from different angles A page may become locked from advancing until the user has completed all of this page's instruction.
+56873,4 of 5
+56873,3D Viewer
+56874,Left click to interact with the Simulation based on the provided instruction or when  available click the Next button.
+56874,5 of 5
+56874,Simulation
+52458,"Warnings are provided where injury may occur to personnel on or near the system. A warning is used to alert the user to hazardous operating and maintenance procedures, practices, conditions, statements, etc., that may result in injury to or death of personnel if not strictly observed. Warnings are preceded by the word WARNING. General Warnings for the RIB can be found on pages ?a? through ?e? of TM 5-1940-328-10."
+52458,"A Caution is used to alert the user to hazardous operating or maintenance procedures, practices, conditions, statements, etc., that may result in damage to or destruction of equipment or degrade mission effectiveness if not strictly observed. Cautions are provided where equipment may be damaged but no personnel injury should result. Cautions are preceded by the word CAUTION."
+52458,"Notes provide helpful information to operate or maintain the equipment, but there is no danger of equipmentdamage or personnel injury. Notes are preceded by the word NOTE."
+52458,Click on each icon to learn how and when it is used.
+52468,"Each question provides feedback regardless of a correct or incorrect answer. In addition, incorrect answers provide direct access to the appropriate instruction for review.     After reviewing the material to return to the Checks on Learning question, simply click on the Return to Checks on Learning Button provided in the top right corner of the page."
+52469,Terms:
+52469,Definitions:
+52469,WARNING
+52469,May result in injury or death to personnel
+52469,May result in damage to or destruction of equipment
+52469,CAUTION
+52469,NOTE
+52469,"Is used to highlight essential procedures, conditions, statements, or convey important instructional data to the user."
+52469,Question: 1 of 6
+52469,Button1 = {{9767}}Button2 = {{9768}}Button3 = {{9769}}Button4 = {{9770}}Button5 = {{9771}}Button6 = {{9772}}Term = {{9773}}Definition={{9774}}
+52469,CORRECT
+52469,INCORRECT
+52469,"WARNING - May result in injury or death to personnel CAUTION - May result in damage to or destruction of equipment NOTE - Is used to highlight essential procedures, conditions, statements, or convey important instructional data to the user."
+52471,PPE:
+52471,Protects you from:
+52471,Gloves
+52471,Wind and Water Spray
+52471,Drowning
+52471,Goggles
+52471,Personal Flotation Devices (PFDs)
+52471,Sharp Objects and Pinch Points
+52471,Question: 2 of 6
+52471,CORRECT
+52471,INCORRECT
+52471,"PPE is a collection of equipment such as proper head gear, goggles, vests, gloves, and boots. Everyone must wear the proper PPE for training and missions. Personal Flotation Devices (PFDs) may be required during training and or missions."
+52472,Gloves
+52472,Goggles
+52472,Vest
+52472,Question: 3 of 6
+52472,Helmet
+52472,CORRECT
+52472,"Use appropriate PPE, such as gloves, to avoid pinch points between the boat and trailer, especially when handling the winch hook."
+52472,INCORRECT
+52470,Prevents shorting
+52470,Prevents arcing and explosions
+52470,Prevents corrosion
+52470,Question: 4 of 6
+52470,Prevents sparks
+52470,CORRECT
+52470,"Keeping all electrical connections clean, tight, and insulated prevents arcing and explosions, and shorting."
+52470,INCORRECT
+52473,Flammable
+52473,Question: 5 of 6
+52473,CORRECT
+52473,"Fuel is highly flammable. Keep fuel away from all heat or ignition sources.  Lubricating Oils may be flammable. Keep them away from heat, open flame, or other ignition sources."
+52473,INCORRECT
+52473,Environmental damage
+52473,Poisonous
+52473,Caustic
+52474,Question: 6 of 6
+52474,CORRECT
+52474,"The Emergency Stop Lanyard is a coiled, red loop attached to the ignition key. Clips to emergency stop switch and operator. If clip is dislodged from stop switch, engines stop."
+52474,INCORRECT
+52474,Emergency tie-down
+52474,Searchlight operator
+52474,Radio operator
+52474,Boat operator
+52480,Hull and Inflatable Tube
+52480,Electrical System
+52480,Controls
+52480,Capacities
+52480,Engine
+52480,Trailer
+52480,Weights
+52480,Fuel Tank Gauge
+52480,Hull and Inflatable Tube Boat Length (with Engine Guard) ..............................  31 ft 6 in. (9.6 m)Hull Length ...................................................................  26 ft (7.9 m)Hull Width ....................................................................  10 ft 2 in. (3.1 m)Estimated Draft at Max Load ..................................... 1 ft 6 in. (45.72 cm)Hull Material ................................................................  AluminumInflatable Tube Material .............................................  Polyurethane
+52512,Override
+52512,Question: 3 of 8
+52512,A/H
+52516,2 seconds
+52480,"Electrical System Battery, Type ............................................................. 12 Voltage (V) Marine BatteryBattery, Number ....................................................... 5 Circuit Breakers:1x50A ......................................................................... Bilge Pumps 3x80A ......................................................................... House, Port, Starboard Batteries1x40A ......................................................................... Spare"
+52480,"Controls Throttle ...................................................... ElectronicPropulsion ................................................. Forward, Neutral, and ReverseSteering .....................................................  Hydraulic"
+52480,Capacities Fuel  240 gal. .................................................................  (908.5 L)Oil Reservoir (on Engine) .............................................  2 gal. (7.57 L)Oil Reservoir (on Boat) .................................................  3 gal. (11.35 L)Gearcase Lubricant (with Reservoir) ? Port ...............  44.7 oz (1321.9 mL)Gearcase Lubricant (with Reservoir) ? Starboard .....  45.6 oz (1348.5 mL)
+52516,3 seconds
+52516,4 seconds
+52516,Question: 8 of 8
+52480,"Engine Model ...................................................  E250ZType ......................................................  6-cylinder, 2-strokeDisplacement ......................................  210 cu. In. (3441 cc)Peak Output ........................................  250 HP @ 5500 RPMIdle Speed ............................................  450-550 RPMMaximum ............................................  RPM 6000 RPMRotation ?Port .....................................  CounterclockwiseRotation ? Starboard ..........................  ClockwiseFuel Type .............................................  Gasoline, Unleaded"
+52482,CORRECT
+52482,"Weight SpecificationsBoat Payload Capacity with Full Tank  3,815 lbs (1731 kg)"
+52482,INCORRECT
+52496,Port Engine Battery Switch: Port engine control system
+52516,5 seconds
+52480,"Trailer Model ...................................................  WS8M-180Axles ....................................................  3 AxlesGross Vehicle Weight Rating ............  18,000 lbs (8,165 kg)Tire Size ...............................................  245/75R16Material ...............................................  Aluminum"
+52480,"Weights Trailer ..............................................................................  3,000 lbs (1360.77 kg)Boat (Engines ? no fuel) .................................................  8,004 lbs (3630.55 kg)Boat (Engines ? Full Fuel, No trailer) ............................  9,564 lbs (4338 kg)Boat Payload Capacity with ? Tank .............................  4,842 lbs (2197 kg)Boat Payload Capacity with Full Tank ..........................  3,815 lbs (1731 kg)Outboard Engine ............................................................  570 lbs (258.54 kg)Total Hoisting Weight ....................................................  15,390 lbs (6980.78 kg)Medium Tactical Vehicle Trailer Transport (boat with 240 gal (908 L) of fuel on trailer) ...............  12,564 lbs (5699 kg)Light Medium Tactical Vehicle Trailer Transport (boat with 82 gal (310 L) of fuel on trailer) .................  11,537 lbs (5233 kg)Gross Vehicle Weight(with trailer, full payload, and full tank of fuel) .........  16,379 lbs (7429 kg)"
+59930,Yellow circle in a black circle
+59930,Question: 6 of 10
+59930,Black circle in a yellow circle
+52480,"Fuel Tank Gauge ? Tank ? 25gal. (95 L) ........................  163 lbs (74 kg)? Tank ? 82 gal. (310 L) .....................  533 lbs (242 kg)? Tank ? 161 gal. (609 L) ...................  1,046 lbs (474 kg)Full Tank ? 240 gal. (908 L) ................  1,560 lbs (707 kg)"
+52481,64 gal. (240 L)
+52481,200 gal. (757 L)
+52481,240 gal. (908 L)
+52481,Question: 1 of 2
+52481,300 gal. (1135 L)
+52481,CORRECT
+52481,"Fuel Tank Gauge SpecificationsFull Tank ? 240 gal. (908 L)        1,560 lbs (707 kg)"
+52481,INCORRECT
+52482,"3,815 lbs (1,731 kg)"
+52482,"4,842 lbs (2197 kg)"
+52482,"8,004 lbs (3630.55 kg)"
+52482,Question: 2 of 2
+52482,"9,564 lbs (4338 kg)"
+52496,Starboard Engine Battery Switch: Starboard engine control system
+52496,House Battery Switch: Boat electrical system
+52496,Question: 1 of 2
+52496,Bilge Battery Switch: Bilge pump electrical system
+52496,CORRECT
+52496,There is no Bilge Battery Switch.  The 24 HOUR POWER 50 AMP supplies(un-tripped) or disables (tripped) power to bilge pumps electrical circuit.
+52496,INCORRECT
+52497,Question: 2 of 2
+52497,CORRECT
+52497,The Fuel Gauge is located on the cabin console above the throttle.
+52497,INCORRECT
+52499,Aft Transom
+52499,Starboard Bow
+52499,Console
+52499,Console
+52488,"Spotlight Operation Procedure The following steps will instruct you on how to install, operate, and remove a Spotlight: Connect the spotlight plug to a receptacle.Turn the hand spotlight operating switch to the ON position.Turn the spotlight operating switch to the OFF position.Disconnect spotlight plug from receptacle."
+52501,"Microphone and Control Panel Operation Procedure The Loud Speaker and Siren is a three-tone siren system featuring WAIL, YELP, and AIRHORN, or A/H, functions. The following steps will instruct you on how to operate this system: Ensure that the microphone (Item 3) is connected to the Siren control panel (Item 1).Select the HI/LO volume button (Item 2) to adjust the volume of your output. NOTE: Depressing the microphone button will override all other Siren functions. When the microphone button is released, the currently selected Siren function will continue.      3. Depress the microphone button (Item 4) and speak into microphone. NOTE: Depressing the override button during the WAIL or YELP functions will change the pitch and tone of the Siren.      4. Select the WAIL (Figure 2, Item 1), YELP (Figure 2, Item 3) or A/H (Figure 2, Item 2) button on the Siren control panel          (Figure 2, Item 4) to operate the desired function."
+52506,"Command Microphone Remote VHF Operation Procedure The following steps will instruct you on how to operate the Command Microphone Remote VHF: Powering ON the Command Microphone Remote VHF Press and hold the ?PWR? knob (Item 1) until the radio turns on.Push the ?UP? or ?DOWN? channel keys (Item 2) to select the desired channel. NOTE: Each push of the power/squelch/volume dial toggles the mode between volume adjustment, squelch adjustment, and channel selection. Adjusting the Volume on the Command Microphone Push the ?VOL? dial (Item 2) to select the volume adjustment mode and open the ?Volume? window.Rotate the ?VOL? dial (Item 2) until noise or audio from the speaker is at the desired level.Push the ?ENT? key (Item 1) to set the volume level. NOTE: If no key operation is performed for approximately 5 seconds, the command microphone sets the selected level and returns to normal mode."
+52502,"Command Microphone Remote Transmission/Reception Procedure The following steps will instruct you on how to operate the Command Microphone Remote?s Transmission and Reception functions: Press the ?Push-To-Talk? button (Item 1) on the microphone. The ?TX? indicator will appear on the screen.Speak slowly and clearly into the microphone.When the transmission is finished, release the ?Push-To-Talk? button.When a message is received, the ?BUSY? indicator will appear on the screen while the message is being received. NOTE: When the ?Push-To-Talk? button is held, the message transmission time limit is five minutes. After five minutes, the radio will automatically go into receive mode. To transmit again, the ?Push-To-Talk? button must first be released then pressed again. Transmissions cannot be sent while the radio is in weather, or ?WX?, mode. If the Command Microphone is in ?WX? mode press the ?CH/WX? soft key (Item 2) to return to the previously selected channel (Item 1)."
+52504,"Command Microphone Softkeys Operation Procedure Various functions can be assigned to the softkeys located on the Command Microphone. The following steps will instruct you on how to select and program the softkeys: Softkey Function SelectionPush the ?LEFT? (Item 1) or ?RIGHT? keys (Item 3) to scroll to the desired function.Push the softkey (Item 2) below the desired function to select.When a key function is selected, the key icon will be displayed above the softkey.   Softkey ProgrammingPush the ?MENU? key (Figure 5, Item 1) to open the menu screen.Rotate dial (Figure 5, Item 2) until the ?CONFIG? icon appears on screen.Push the softkey (Figure 5, Item 3) below the ?CONFIG? icon to select.Rotate the dial to highlight the key assignment menu. Push the ?ENT? key (Figure 5, Item 4).Rotate the dial to highlight the softkey menu. Push the ?ENT? key.Rotate the dial to highlight the desired softkey to be programmed. Push the ?ENT? key.Rotate the dial to highlight the desired softkey function. Push the ?ENT? key.Push the ?BACK? key.Repeat steps 6-10 for the remaining softkeys to be programmed.Push the ?MENU? key to return to the home screen.  "
+52509,"The RIB has four receptacles for spotlights. One is located on aft transom, two are located on the console, and one on starboard bow."
+52509,INCORRECT
+52512,Microphone
+52512,HI/LO Volume
+52505,"National Oceanic and Atmospheric Administration (NOAA) Weather Channel Selection The following steps will instruct you on how to select and operate the National Oceanic and Atmospheric Administration, or NOAA, Weather Channel: Push the ?CH/WX? softkey (Item 4) to select the weather channel. The ?WX? icon (Item 3) will appear on the screen.Push the ?UP? (Item 1) or DOWN? keys (Item 2) to select the desired NOAA weatherchannel.To exit from any NOAA weather channel, press the ?CH/WX? key. The radio will return to the last selected operating channel. NOTE: The ten NOAA weather channels broadcast continuous weather reports and severe weather alerts. They are only available within the United States and Canada."
+52507,Command Microphone: Emergency Channel 16 Channel 16 is the distress and safety channel used for emergency communications. Channel 16 should be routinely monitored during operations. The following steps will instruct you on how to select and monitor Channel 16: Push the ?16/C? button (Item 1) to select Channel 16.Perform any emergency broadcast instructions.Push the ?CH/WX? softkey (Item 2) to return to the previously selected channel.
+52503,"VHF Radio: Powering On & Transmission Procedures The following steps will instruct you on how to power on and transmit a message using the VHF Radio: Powering On the VHF RadioPress and hold the ?PWR? knob (Item 3) until the radio turns on.Turn the ?SQL? dial (Item 4) fully counter-clockwise.Turn the ?VOL? dial (Item 5) up until noise or audio from the speaker is at the desired level.Turn the ?SQL? dial clockwise until undesirable noise disappears.Push the ?UP? (Item 1) or ?DOWN? (Item 2) channel keys to select the desired channel. VHF Radio TransmissionPress the ?Push-To-Talk? button (Item 1) on the microphone. The ?TX? indicator will appear on the Screen.Speak slowly and clearly into the microphone.When the transmission is finished, release the ?Push-To-Talk? button. NOTE: When the ?Push-To-Talk? button is held, the message transmission time limit is five minutes. After five minutes, the radio will automatically go into receive mode. To transmit again, the ?Push-To-Talk? button must first be released then pressed again."
+52508,"VHF Radio: Emergency & Distress Procedures Emergency Channel 16Channel 16 is the distress and safety channel used for emergency communications. Channel 16 should be routinely monitored during operation.   Push the ?16/C? button (Item 3) to select channel 16.Perform emergency broadcast instructions.Push the ?UP ? (Item 1) or DOWN? (Item 2) channel to return to the previously selected channel. Transmitting A Distress CallA distress call should only be made when the boat or personnel are in distress and require immediate assistance. Never make a distress call if the boat or personnel are not in an emergency. Lift cover (Item 1) and hold down ?DISTRESS? button (Item 2) for three seconds to transmit a distress call. NOTE: Once the distress button is pressed channel 70 is automatically selected and the distress call is transmitted.The distress call is automatically transmitted every 3.5 to 4.5 minutes until an acknowledgment is received. Cancelling A Distress CallWhen a distress call has been transmitted and not acknowledged, push the ?CANCEL? button (Item 1).Push the ?CONTINUE? button (Item 1).Push the ?FINISH? button (Item 1).   NOTE: After selecting the ?FINISH? button channel 16 is automatically selected."
+52511,2
+52511,3
+52511,4
+52511,Question: 1 of 8
+52511,5
+52511,CORRECT
+52511,The RIB is equipped with four receptacles for connecting a spotlight.
+52511,INCORRECT
+52509,Question: 2 of 8
+52509,CORRECT
+52512,CORRECT
+52512,"Depressing the microphone button will override all other siren functions. When the microphone button is released, the currently selected siren function will continue."
+52512,INCORRECT
+52510,WAIL
+52510,YELP
+52510,AIRHORN
+52510,Question: 4 of 8
+52510,FOGHORN
+52510,CORRECT
+52510,"The Loudspeaker and Siren is a three-tone siren system featuring WAIL, YELP, and AIRHORN, or A/H, functions."
+52510,INCORRECT
+52513,3 minutes
+52513,4 minutes
+52513,5 minutes
+52513,Question: 5 of 8
+52513,6 minutes
+52513,CORRECT
+52513,"When the ?Push-To-Talk? button is held, the message transmission time limit is 5 minutes. After 5 minutes, the radio will automatically go into receive mode."
+52513,INCORRECT
+52514,Every 3 to 4 minutes until acknowledged.
+52514,Every 3.5 to 4.5 minutes until acknowledged.
+52514,Every 4 to 5 minutes until acknowledged.
+52514,Question: 6 of 8
+52514,Every 4.5 to 5.5 minutes until acknowledged.
+52514,CORRECT
+52514,Once the distress button is pressed channel 70 is automatically selected and the distress call is transmitted.  The distress call is automatically transmitted every 3.5 to 4.5 minutes until an acknowledgment is received.
+52514,INCORRECT
+52515,Channel 16
+52515,Channel 17
+52515,Channel 60
+52515,Question: 7 of 8
+52515,Channel 70
+52515,CORRECT
+52515,Channel 16 is the distress and safety channel used for emergency communications. Channel 16 should be routinely monitored during operation.
+52515,INCORRECT
+52516,CORRECT
+52516,Hold down the ?DISTRESS? button for 3 seconds to transmit a distress call.
+52516,INCORRECT
+59917,Tap
+59917,Drag
+59935,Zoom In
+59935,Zoom Out
+59935,Tap
+59925,White
+59925,Orange
+59925,Red
+59925,Question: 1 of 10
+59925,Gray
+59925,CORRECT
+59925,A white light represents normal operations of the sensors. A red or gray light indicates an issue.
+59925,INCORRECT
+59926,"During start-up. Allow start-up to complete, then shut off."
+59926,"During plotting. Allow navigation to complete, then shut off."
+59926,"When checking the weather forecast. Allow the forecast to display, then shut off."
+59926,Question: 2 of 10
+59926,"When using the radar. Switch to the home screen, then shut off."
+59926,CORRECT
+59926,Never power off the Multi-Function Display during start up. Doing so risks causing issues with the device's internal programming.
+59926,INCORRECT
+59927,Remote
+59927,Gloves
+59927,Stylus Pen
+59927,Question: 3 of 10
+59927,Fingers
+59927,CORRECT
+59927,"The Multi-Functional Display screen is made of glass. Sharp or textured objects, such as stylus pens or gloves, should not be used to operate the device."
+59927,INCORRECT
+59928,Built-in maps
+59928,Built-in GPS
+59928,Built-in inertial measuring system
+59928,Question: 4 of 10
+59928,Radar
+59928,CORRECT
+59928,The Multi-Function Display is equipped with a plotter function which receives its position data from a built in GPS receiver.
+59928,INCORRECT
+59929,NU means North is at the top of the screen.
+59929,NU means current compass heading is at the top of the screen.
+59929,HU means North is at the top of the screen.
+59929,Question: 5 of 10
+59929,HU means current compass heading is at the top of the screen.
+59929,CORRECT
+59929,The orientation of the plotter can be adjusted to be shown in a ?head-up? or ?north-up? orientation while the boat is underway. A ?north-up? orientation displays the plotter chart with north at the top of the screen. A ?head-up? orientation displays the plotter chart with the current compass heading at the top of the screen.
+59929,INCORRECT
+59930,Green circle in a black circle
+59930,Red circle in a yellow circle
+59930,CORRECT
+59930,The default look of a point is a black circle within a yellow circle.
+59930,INCORRECT
+59931,FALSE
+59931,TRUE
+59931,Question: 7 of 10
+59931,CORRECT
+59931,"If a boat is veers off course and does not need to return to the original course, it can be navigated back to the point from its current position."
+59931,INCORRECT
+59932,Question: 8 of 10
+59932,CORRECT
+59932,The TX icon should be highlighted in yellow if not in stand-by.
+59932,INCORRECT
+59933,Reduces radar exposure in the RIB
+59933,Preserves the life of the house batteries
+59933,Preserves the life of the radar
+59933,Question: 9 of 10
+59933,Preserves the life of the multi-function display
+59933,CORRECT
+59933,"If the radar is not required, switch the TX icon to stand-by mode to preserve the life of the radar."
+59933,INCORRECT
+59934,Assists in separating objects near the sea bottom from the sea bottom itself
+59934,Expands the sea bottom and any object near the bottom
+59934,Assists in identifying the composition of the sea bottom
+59934,Question: 10 of 10
+59934,Expands the zoom function to help identify a hard or soft sea bottom
+59934,CORRECT
+59934,The bottom lock function can help with separating objects near the sea bottom from the sea bottom itself.
+59934,INCORRECT
+52583,Introduction
+52583,Keep in Mind
+52565,1-2 minutes
+52548,"Pre-Start Procedures The following steps will instruct you on how to execute Pre-Start Procedures for the RIB: WARNING: To avoid falling from the sides, rear, or top of the boat, always maintain three points of contact ? such as both feet and one hand ? when climbing in, out, and on the boat. Failure to comply may result in injury. Secure and stow all equipment.Remove the retaining strap (Item 1) and raise the dive mast (Item 2) to a vertical position.Rotate the lock lever (Item 3) to approximately 90? and lock the mast (Item 2) into position.Rotate the lock lever (Item 1) to approximately 90? and unlock the antenna (Item 2).Raise the antenna (Item 2) to a vertical position.Rotate the lock lever (Item 1) to approximately 90? and lock the antenna (Item 2) into position.Remove the radome canvas cover.Raise the radome mast into an upright position and replace the radome canvas cover.Engage the two turnbuckle fasteners and secure the radome mast.Verify that the port and starboard engine throttle levers are in the NEUTRAL position.Turn port, starboard, and house battery switches to Position 1.Verify that the house, 24 hour power, port engine, and starboard engine alternator breakers are in the UN-TRIPPED position. NOTE: The breaker is in the UN-TRIPPED position when the yellow RESET arm is in line with the breaker housing. If the yellow RESET arm is at a 30? angle from the breaker housing and the word ?RESET? is visible, the breaker is in the TRIPPED position.    13. Ensure that all control switches are in the ON position. WARNING: Vapor from fuel is heavier than air and will flow to the lowest part of the boat. Ventilate bilges for at least five minutes prior to starting engines. Failure to comply may result in damage to equipment, injury, or death.    14. Turn the fuel tank vent blower switch (Figure 6, Item 1) to the ON position.   15. Turn the navigation lights switch to the RUNNING position.   16. Set the command microphone to the pre-determined channel (WP 0019).   17. Using the Multi-Function Display, plot the mission?s points and routes (WP 0016).   18. Ensure the port and starboard scupper drains are in the downward position.   19. Verify the starboard compartment fuel valves and aft compartment fuel valves are in OPEN the position. NOTE: Fuel valves are in the OPEN position when the valves are parallel with the fuel lines.    20. Turn the ignition key to the ON position (Item 1)."
+52583,Corrosion Prevention and Care (CPC)
+52583,PMCS Intervals
+52583,"Introduction To ensure that the RIB is ready for operation at all times, it must be inspected on a regular basis to find and correct problems before they result in damage, failure, or injury to personnel.  The PMCS table (WP 0054) contains systematic instructions that describe how to care for, inspect, and service the RIB to keep it in good condition and to prevent breakdowns.  It is your responsibility to adhere to all cautions, warnings, and notes within the PMCS procedures."
+52583,"Keep in Mind Keep it clean: Dirt, grease, oil, and debris only get in the way and may cover up a serious problem. Always clean as you work. Bolts, nuts, and screws: Check for loose, missing, bent, or broken fasteners. Also, look for chipped paint, bare metal, or rust around bolt heads. Welds: Look for loose or chipped paint, rust, or gaps where parts are welded together."
+52583,"Corrosion Prevention and Care (CPC) Corrosion Prevention and Control (CPC) is a measure taken to ensure the boat and its parts are protected from deterioration.  Corrosion damage in metals can be seen, depending on the metal, as tarnishing, pitting, fogging, surface residue, and/or cracking. Plastics, composites, and rubbers can also degrade, caused by exposure to heat or light, and will appear as cracking, softening, swelling, and/or breaking to CPC"
+52583,"PMCS Intervals To easily remember how frequently PMCS should be performed, use the acronym ?BDAMA?. BDAMA stands for: BEFORE:        Once before operationDURING:       Once during operationAFTER:           Once after operationMONTHLY:   Once every monthANNUAL:      Once every 12 months"
+52587,WARNING Fluid spills may be slippery and cause falls. Refer to local procedures and plans for preventing and responding to fluid spills or leaks. Immediately clean up any spilled fluid.Fluid spills may be slippery and cause falls. Refer to local procedures and plans for preventing and responding to fluid spills or leaks. Immediately clean up any spilled fluid.
+52587,"Class I Seepage of fluid (as indicated by wetness or discoloration) not great enough to form drops. When operating with Class I leaks, continue to check fluid levels as required in the PMCS."
+52587,"Class II A Class II Leaks involves leakage of fluid great enough to form drops, but not enough to cause drops to drip from the item being inspected. When operating with Class II leaks, continue to check fluid levels as required in the PMCS."
+52587,Class III Leakage of fluid great enough to form drops that fall from item being inspected. Immediately report all Class III leaks to your Supervisor.
+52587,Warning
+52587,Class I
+52587,Class II
+52587,Class III
+52550,One
+52550,Two
+52550,Three
+52550,Question: 1 of 2
+52550,Four
+52550,CORRECT
+52550,"For safety, always use three points of contact - such as both feet and one hand - when climbing in, on, or out of the RIB."
+52550,INCORRECT
+52549,A/B/D/M/A
+52549,B/D/A/M/A
+52549,B/A/D/M/A
+52549,Question: 2 of 2
+52549,B/M/A/D/A
+52549,CORRECT
+52549,"To easily remember how frequently PMCS should be performed, use the acronym ?BDAMA?: BEFORE:  Once before operationDURING: Once during operationAFTER:  Once after operationMONTHLY:  Once every monthANNUAL:  Once every 12 months"
+52549,INCORRECT
+52565,2-3 minutes
+52565,Question: 2 of 6
+52565,3-4 minutes
+52555,"Start Procedures The following steps will instruct you on how to execute Start Procedures for the RIB: Attach the emergency stop safety lanyard to the boat operator.Push the port engine start button to start the engine.Have an assistant observe the cooling water flow from the engine water pump indicator. If no water is observed, shut down the engines and refer to troubleshooting.Observe the engine monitor for any fault codes.Push the starboard engine start button and repeat steps 3 and 4.If engines fail to start after three or more attempts, refer to troubleshooting.Allow engines to idle in NEUTRAL for one to two minutes.Alert the crew and, using the throttle lever, place the port engine in FORWARD idle, REVERSE idle, and then back to NEUTRAL, ensuring that the engine engages and the indicator lights illuminate. Repeat this process for the starboard engine.Alert the crew and get the boat underway."
+52558,"A pop-up and audible warning will remain in effect until acknowledged by the operator by touching the pop-up area. As long as the fault is active, the pop-up may be re-initiated by touching the right-hand side of the ?Outboard Status Indicator? area of the ?Status Bar?. System faults are generated by the outboard engines and throttle levers. When an active or current fault is broadcast on the network by the throttle levers or outboard engine, the display will: Take no action unless the display is in ?Diagnostic? or ?System mode?. In those instances, the faults will be displayed.Indicate an existing warning by highlighting an ?Outboard Status Indicator? on the status bar (Item 1).Initiate a pop-up with the appropriate information displayed. The pop-up color will be yellow. In addition, the appropriate Outboard Status Indicator in the Status Bar will be highlighted; orInitiate a pop-up with the appropriate information displayed. In addition, the Audible Alarm Drive Output will be set to sound an audible user alert. The pop-up color will be red. In addition, the appropriate outboard status indicator in the status bar will be highlighted."
+52657,Introduction
+52657,Warnings 1
+52657,Warnings 2
+52657,Warnings 3
+52657,Caution
+52657,If Winterizing In Water
+52657,If Winterizing Out of Water
+52657,"Introduction The winterization mode is used to prepare the engines for long term storage. During winterization, extra oil is used to coat the internal engine components. The winterization procedure can also be used to prime the oiling system."
+52657,"WARNING Ensure engine is operated in well ventilated area. DO NOT idle engine without proper ventilation.BE ALERT for exhaust poisoning symptoms. They are: Headache, Dizziness, Sleepiness, Loss of muscular control.If you see another person with exhaust poisoning symptoms:Remove person from area.Expose to fresh air.Keep person warm.DO NOT permit physical exercise.Administer Cardiopulmonary Resuscitation (CPR) if necessary.Notify a medic."
+52657,"WARNING Ensure that all personnel operating the outboard engine, as well as those within the surrounding area, wear appropriate PPE. Failure to comply may result in injury."
+52657,"WARNING Do not service any part of the propeller while the outboard engine is running. Always shift the outboard engine to the NEUTRAL position, and turn the key switch to the OFF position.Ensure the outboard engine and prop area are clear of people and objects before starting or operating the outboard engine. Blades can be sharp and the propeller can continue to turn even after the outboard engine is OFF.Failure to follow these warnings may result in injury or death."
+52657,"CAUTION Engines must be trimmed to the vertical, or ?Down?, position to flush the engine. Make sure the cooling system is drained completely before tilting the engine out of the vertical position. Failure to comply may result in damage to equipment."
+52657,If Winterizing In Water Place the throttle levers in the NEUTRAL positionEnsure that the water intake screens are completely submerged.
+52657,"If Winterizing Out of Water Place a suitable drain pan below the gear case during winterization and throughout the duration of storage to avoid potential oil spills.Place the throttle levers in the NEUTRAL position.Trim engines to the vertical, or ?Down?, position on level ground; andThread a garden hose into the flushing port, place a suitable drain pan under the propeller, and turn the water on."
+52564,CORRECT
+52564,"Before starting the engine, be sure to attach the emergency lanyard to the boat operator to prevent a run away boat incident."
+52564,INCORRECT
+52565,Less than 1 minute
+52560,"Winterization Procedures The following steps will instruct you on how to properly winterize the RIB: Perform starting procedures for the desired engine to be winterized.Push the menu button (Item 1).Tap the settings icon (Item 1).Tap the winterize tab (Item 2).Tap the desired engine icon (Item 1) to be winterized.Tap the ?Winterize Engine? icon (Item 3).Follow the on-screen instructions to complete winterization.   NOTE: Leave the engine in the vertical position long enough to completely drain. Extra engine oil is used during the winterization procedure. Some excess oil may appear on the bottom of the gear case. This is normal.        8. If winterizing out of water, turn the water off and remove the garden hose from the flushing port.     9. Repeat all steps for the opposite engine."
+52561,NOTEThe VSM is equipped with a backlight that turns on after a button is pressed.
+52563,"Shutdown Procedures The following steps will instruct you on how to shutdown the RIB: Place the throttle levers in the NEUTRAL position. NOTE: Conditions such as:  shallow waterexpected tidal changes that result in engine contact with the groundunderwater hazardsremoving the boat from the water All require raising the engines to the high trim or trailer position. This is not required if mooring the boat in an area where shallow water, tidal changes that result in engine contacting the bottom, or underwater hazards are not present.        2. Using the trim control, adjust the engines to the appropriate trim level.     3. Place the start/stop switches (Item 2) in the STOP position.     4. Turn the ignition key (Item 1) to the OFF position.     5. Place the port and starboard battery switches in the OFF position"
+52564,The boat operator
+52564,The radio operator
+52564,The searchlight operator
+52564,Question: 1 of 6
+52564,The emergency tie-down
+52565,CORRECT
+52565,"Before shifting into gear, be sure to let the engines run in NEUTRAL for at least 1-2 minutes."
+52565,INCORRECT
+52567,Pop-up and audible warning (active until acknowledged)
+52567,Pop-up warning (active until acknowledged)
+52567,Audible warning (active until acknowledged)
+52567,Question: 3 of 6
+52567,"Pop-up or audible warning, based on settings  (active until acknowledged)"
+52567,CORRECT
+52567,"During a system fault, the engine monitor will display a pop-up with the appropriate information. In addition, the Audible Alarm Drive Output will be set to sound an audible user alert."
+52567,INCORRECT
+52566,To prime the oil system
+52566,To make oil changes easier
+52566,For long term storage
+52566,Question: 4 of 6
+52566,To prepare for winter weather
+52576,100 gallons
+52566,CORRECT
+52566,The engines should be winterized to prime the oil system and for long term storage of the RIB.
+52566,INCORRECT
+52568,House battery and voltage levels
+52568,Starboard engine battery and voltage levels
+52568,Port engine battery and voltage levels
+52568,Question: 5 of 6
+52568,Spare battery and voltage levels
+52568,CORRECT
+52568,"The Vessel System Monitor (VSM) displays all three (Port, Starboard, and House) battery charge and voltage levels."
+52568,INCORRECT
+52569,Forward
+52569,Neutral
+52569,Reverse
+52569,Question: 6 of 6
+52569,Park
+52569,CORRECT
+52569,"Prior to shutting down the engine, be sure that the throttle is in the NEUTRAL position."
+52569,INCORRECT
+52656,Capabilities
+52656,Personnel
+52656,Weight Distribution
+52656,Safety
+52656,Equipment
+52656,Caution
+52656,Note
+52656,"Capabilities WARNINGDo not exceed 82 gallons of fuel in the boat fuel tank when trailering with an LMTV, as the maximum tow capacity is 12,000 lbs.Do not exceed 100 gallons of fuel in the boat fuel tank when trailering with an MTV.Do not exceed a payload capacity of 3,815 lbs. while trailering with 240 gallons of fuel"
+52656,"Personnel WARNINGEnsure that two persons, in addition to the prime mover, are available for this operation. Two persons are required to properly guide the prime mover into position and connect the trailer.  Trailer parking chocks will also need to be in place when guiding the prime mover into position."
+52576,120 gallons
+52656,"Weight Distribution WARNINGEnsure that the weight on the trailer is evenly distributed. Excessive tongue weight will cause the front end of the prime mover to sway. Insufficient tongue weight will cause the trailer to sway or fishtail.Improper trailer size and weight distribution can cause swaying and fishtailing that can result in extensive damage to the trailer, boat, and towing vehicle. Swaying and fishtailing are especially dangerous at higher speeds where they can become uncontrollable."
+52656,Safety WARNINGDo not place hands between the prime mover towing pintle and the trailer lunette eye when connecting the trailer to the prime mover.
+52656,Equipment WARNINGEnsure that NO pressurized cylinders are stowed on the boat or trailer while the boat is being trailered over roads.Do not trailer the boat with personnel or equipment on the boat.Failure to comply with these warnings may result in injury or death.
+52656,"Caution Ensure that the trailer?s coupler is matched with the correct size ball hitch or pintle hook.Ensure any overhead obstacles, such as bridges and wires, are determined prior to taking a trailered boat onto roads.Never exceed 100 gallons of fuel in a boat fuel tank when towing a trailered boat.Ensure that all equipment on the boat is secured.Failure to comply may result in damage to equipment."
+52656,"Note The trailered boat?s height, as measured from the ground to the all-around white navigation light above the radome mast, is 12 ft 6 in.The trailer?s weight will change depending on the equipment and fuel being carried at the time of towing.A commercial vehicle with a 7 pin connector must use a 12 Volt receptacle."
+52572,"Attaching the Trailer Procedure The following steps will instruct you on how to properly attach a trailer for the RIB: Before beginning, please note that tongue weight is measured as a percentage of the total weight of the loaded trailer on its tongue. Ideal tongue weight is between 5% and 10% of the Gross Vehicle Weight Rating (GVWR). For example, if the weight of the loaded trailer is 10,000 lbs., the weight on the tongue should be more than 500 lbs., but less than 1,000 lbs. WARNING: Ensure that the trailer wheel chocks are in place prior to attaching or detaching the trailer. Failure to comply may result in injury or death. Using the leveling support jack, raise or lower the trailer so that the pintle ring is at the same height as the prime mover pintle hook.Guide the prime mover until the pintle hook is centered under the pintle ring.Using a leveling jack, lower the trailer pintle ring onto the pintle hook.Close and lock the pintle hook.Connect the safety cables in crisscross pattern (Item 1) with hooks facing up to the prime mover.Attach the trailer emergency brake chain to the prime mover. CAUTION: Failure to connect the receptacle will cause the brake actuator to engage while in reverse and may result in damage to equipment.      7. Connect the trailer?s 12/24 Volt electrical cables to the prime mover.     8. Raise the leveling support jack until the skid plate is off the ground.     9. Remove the pin from the leveling support jack, push the skid plate up, and install the pin on the post.   10. Remove the wheel chocks."
+52573,"Preparing for Transport Procedure The following steps will instruct you on how to properly prepare a trailered RIB for transportation: Ensure that the two bow and two stern ratchet tie downs are securing the boat to the trailer.Ensure that the engine lock levers are engaged and that the engines are trimmed to the trailering position. WARNING: Ensure that the antenna and masts are lowered prior to transporting a boat. Do not allow the antenna or masts to contact overhead power lines. Failure to comply may result in damage to equipment, injury, or death.      3. Ensure that the VHF antenna (Item1), dive mast (Item 2), and radome mast (Item 3) are lowered and secured."
+52577,CORRECT
+52577,"When preparing for transport, the final step is to lower and store all antennae."
+52577,INCORRECT
+52576,80 gallons
+52574,"Detaching a Trailer Procedure The following steps will instruct you on how to properly detach a trailer: Remove the wheel chocks from the tool box and place them under the trailer?s tires.Remove the pin from the leveling support jack, lower the skid plate until the desired pin setting is reached, and reinstall the pin on the post.Using a leveling support jack, rotate the handle counter-clockwise and lower the support jack to the ground.Remove the trailer?s 12/24V electrical cables from the prime mover.Remove the trailer?s emergency brake chain from the prime mover.Remove the safety cables from the prime mover.Unlock and lift the pintle hook on the prime mover.Rotate the leveling support jack handle clockwise and raise trailer pintle ring to clear the prime mover.Guide the prime mover away from the trailer."
+52575,Crisscross with hooks facing up
+52575,Crisscross with hooks facing down
+52575,Straight with hooks facing up
+52575,Question: 1 of 3
+52575,Straight with hooks facing down
+52575,CORRECT
+52575,"When connecting safety chains to the trailer from the prime mover, be sure that you use a crisscross pattern with the hooks facing up."
+52575,INCORRECT
+52577,Ensure all antennae are lowered and stored
+52577,Ensure bow and stern ratchets are secure
+52577,Ensure engine lock levers are engaged
+52577,Question: 2 of 3
+52577,Ensure engines are trimmed to trailering position
+52576,Question: 3 of 3
+52576,140 gallons
+52576,CORRECT
+52576,The maximum amount of fuel the RIB should have in its fuel tank when trailering is 100 gallons.
+52576,INCORRECT
+52584,Less than 5?
+52584,Less than 10?
+52584,Less than 15?
+52584,Question: 1 of 5
+52584,Less than 20?
+52584,CORRECT
+52584,Never attempt launching on boat ramps with a pitch of 15? or greater due to the probability of grounding the trailer at the transition.
+52584,INCORRECT
+52586,Trim full UP
+52586,Trim full DOWN
+52586,Trim full TRAILER
+52586,Question: 2 of 5
+52586,Trim full EVEN
+52581,"Preparing to Launch Procedure The following steps will instruct you on how to properly prepare for launching the RIB: CAUTION: DO NOT attempt launching on boat ramps with a pitch of 15? or greater due to the probability of grounding the trailer at the transition. Failure to comply may result in damage to the trailer. At the staging area, remove the two bow ratchet tie downs (Item 1) and two stern ratchet tie downs (Item 2) from the boat and trailer. Stow the tie downs in the trailer tool box.Inspect the bilge plug and transom plug to ensure that they are in place. If loose, use a wrench to tighten them.Trim the engines to the full UP position.Disconnect the electrical cable from the prime mover.Disengage the engine lock levers (Item 1). NOTE: The lock lever shown is for the starboard engine. Disengagement is identical for the port engine. WARNING: When parked on a ramp during launching, ensure that the primary mover?s emergency brake is engaged. Failure to comply may result in injury or death. CAUTION: Ensure that the slope of the ramp is not a greater incline than the tow vehicle can overcome with a boat loaded. Ensure that the water depth is deep enough to float the boat. Failure to comply may result in damage to equipment.      6. Move the trailered boat into position on the ramp until approximately 18-24 in. of the forward end of the bunk            is exposed above the water.       7. Ensure that the boat operator and assistant are on board.     8. Attach the mooring lines to the fore and aft cleats. CAUTION: Ensure that there is adequate clearance between the engine and the ramp prior to trimming the engines. Failure to comply may result in damage to equipment.       9. Trim the engines down until the lower gear case is completely submerged.   10. Perform starting procedures.   11. Have an assistant disengage the winch lock lever and rotate the winch handle counter clockwise to loosen line. WARNING: Hold the winch handle firmly when the ratchet is unlocked to prevent spinning. Failure to comply may result in injury.   CAUTION: Do not disconnect the winch cable from the boat until the boat floats free from the trailer. Failure to comply may result in damage to equipment.    12. Have an assistant disconnect the snatch block from the boat bow eye.   CAUTION: Ensure that the launch ramp has adequate water depth to float the boat and trim the engines down. Failure to comply may result in damage to equipment.      13. The trailer may need to be backed further into the water to sufficiently float the boat free from the trailer.   14. As the boat is launched, observe how far the trailer is in the water to assist with recovery.   15. Place the throttle levers in REVERSE and slowly maneuver the boat off of the trailer while adjusting the trim as               necessary.    16. With assistance, maneuver the boat to the nearest docking point and tie it off."
+52586,CORRECT
+52586,The engines should be in the trim full up position before launching.
+52586,INCORRECT
+52585,Once the RIB floats free from the trailer
+52585,Once operator and assistant are on board
+52585,Once the winch lock lever is disengaged
+52585,Question: 3 of 5
+52585,Once the lower gear case is submerged
+52585,CORRECT
+52585,Do not disconnect the winch cable from the boat until the boat floats free from the trailer. Failure to comply may result in damage to equipment.
+52585,INCORRECT
+52588,? tank: 25 gal. (95 L)
+52588,? tank: 82 gal. (310 L)
+52588,? tank: 161 gal. (609 L)
+52588,Question: 4 of 5
+52588,Full tank: 240 gal. (908 L)
+52588,CORRECT
+52588,82 gallons (310 L) is the max amount of fuel you should have in the fuel tank if you are towing with an LMTV. This is equivalent to half a tank of fuel.
+52588,INCORRECT
+52589,"3 rails, 6 D-rings"
+52589,"4 rails, 8 D-rings"
+52589,"6 rails, 3 D-rings"
+52589,Question: 5 of 5
+52589,"8 rails, 4 D-rings"
+52589,CORRECT
+52589,The RIB is equipped with 4 T-track slide rail deck tie down systems and a total of 8 D-rings.
+52589,INCORRECT
+52600,Throttle engines down and come to a stop
+52600,Turn fuel tank vent blower to ON position
+52600,Turn fuel tank vent blower to OFF position
+52600,Question: 1 of 6
+52600,Trim the engines
+52600,CORRECT
+52600,"Upon reaching speeds great enough to create a wake, turn the fuel tank vent blower to the OFF position."
+52598,"Operation Underway Procedure The following steps will instruct you on how to properly get the RIB underway: WARNING:  Always use the emergency stop lanyard when operating the engines to prevent a runaway boat. Keep the emergency stop lanyard free from obstructions and entanglements. Failure to comply may result in damage to equipment or injury.Boat stability and steering torque can vary due to changing water conditions. During adverse conditions, reduce throttle and/or trim to maintain control. Failure to comply may result in ejecting or otherwise seriously injuring occupants.The operator must always announce sudden changes in throttle or steering to crew. Failure to comply may result in injury.   Perform casting off or weighing anchor as necessary.While maintaining control of the helm, slowly engage the port and starboard throttles to a safe operating speed.Using the Multi-Functional Display, maintain the plotted course.Upon reaching speeds great enough to create a wake, turn the fuel tank vent blower to the OFF position.Upon reaching your destination, gradually throttle down the engines and bring the boat to a standstill.Perform anchoring or mooring procedures as necessary."
+52592,"Trimming Engines Procedure The following steps will instruct you on how to properly trim the engines: CAUTION: Do not over trim the outboard engines while underway. Over trimming will cause the propellers to exit the water. A rapid increase in the outboard engines RPMs is evidence of cavitation or propellers coming out of the water. If this occurs, immediately reduce throttles and trim down the engines. Failure to comply will result in damage to equipment.The trim of the boat is the relationship between the angle of the outboard engines and the transom. Trim dictates the way the boat performs over the water and gains the greatest power and efficiency of the outboard engines as it relates to the boat. Different sea states will influence the trim levels to achieve the best planning and maneuverability of the boat. When trimming the engines underway, trim both engines using only the trim control switch (Item 1).When operating in shallow waters, trim the engines UP and slow the speed.When accelerating, first ensure the engines are timed fully DOWN. Then, adjust the trim of the engines UP to achieve the best handling for the boat.If the bow is too low, the outboard engines are trimmed too far DOWN. Trim the engines UP to correct this situation.If the bow is too high, the outboard engines are trimmed too far UP. Trim the engines DOWN to correct this situation."
+52594,"Docking Procedure The following steps will instruct you on how to properly dock the RIB: CAUTION: In order to avoid collisions, maintain idle speeds while positioning the boat for docking. Failure to comply may result in damage to equipment. NOTE: Docking procedures as outlined may change due to different environmental factors. Adjustments to docking procedures will be dictated by dock arrangement, boat traffic, weather, and sea state. Place the throttle in the FORWARD IDLE position and approach the docking point at a 45? angle.Position the boat with the bow alongside the dock and place the throttle levers in the NEUTRAL position. NOTE: If mooring lines were removed during operation, they may need to be reattached to the forward and aft cleats.      3. Have an assistant pass the bow line to the dock, secure the line to a forward boat cleat, and then secure the line          to the dock.      4. Maneuver the stern of the boat towards the dock.     5. Have an assistant pass the stern line to the dock and secure line to aft boat cleat and the and secure the line to            the dock.     6. Turn the house battery to the OFF position.     7. Perform engine shutdown procedure."
+52593,Casting Off Procedure The following steps will instruct you on how to properly cast off: Perform starting procedures.Remove the stern line from the dock cleat and boat cleat.Maneuver the boat away from the dock and remove the bow line from the dock cleat and boat cleat.Stow the mooring lines.Get the boat underway.
+52600,INCORRECT
+52601,Trim Engines DOWN
+52601,Trim Engines LEFT
+52601,Trim Engines UP
+52601,Question: 2 of 6
+52601,Trim Engines RIGHT
+52601,CORRECT
+52595,"Preparing to Anchor Procedure The following steps will instruct you on how to properly prepare to anchor a RIB: To begin, you must first understand the concept of Scope. Scope is the length of the anchor line relative to the distance from the boat cleat to the water bottom. As the scope increases, the horizontal pull on the anchor will also increase, burying the anchor deeper into the sea bottom. As the scope decreases, the horizontal pull will also decrease, causing the anchor to become vertical and possibly dislodged from the sea bottom. A 5-to-1 scope is recommended for proper anchoring. As an example, 5 ft. of anchor line would be required for every 1 ft of water depth. CAUTION: A scope of less than 5-to-1 will significantly decrease the anchor?s holding power. Failure to comply could result in damage to equipment.Ensure that the anchor chain is firmly fastened to the anchor line prior to dropping anchor. Failure to comply could result in loss of equipment. Have an assistant remove the anchor and anchor line from the bow compartment. WARNING: Never attach the anchor line to any rail, rail fitting, or other deck hardware. Failure to comply could result in damage to equipment or injury.      2. Attach the anchor line to the port or starboard mid-cleat.     3. Place the anchor and coil anchor line near bow to prevent knotting and fouling when dropping anchor.     4. Position the boat heading into the wind or current.     5. Approach the anchoring site at idle speed.     6. Turn the navigation lights switch to the ANCHOR position.     7. Once at the anchoring site, place the throttle levers in the NEUTRAL position."
+52601,"If the bow is too high, the outboard engines are trimmed too far UP. Trim the engines DOWN to correct this situation."
+52601,INCORRECT
+52602,Port
+52602,Bow
+52602,Starboard
+52602,Question: 3 of 6
+52602,Stern
+52596,"Dropping Anchor Procedure The following steps will instruct you on how to properly drop anchor: CAUTION: Do not throw the anchor overboard, as the anchor line could become fouled. Failure to comply may result in damage to equipment. From port or starboard bow, lower the anchor slowly into the water.Maintain tension on the anchor line while lowering, and continue to maintain tension after the anchor reaches the bottom.Using the Multi-Function Display, mark the anchor point and set the anchor watch alarm. WARNING: Ensure that the crew is not between the anchor line and the side of the boat. Failure to comply may result in injury.      4. Place the throttle levers in the REVERSE position and slowly maneuver the boat backward until the                                  predetermined scope is payed out.     5. Place the throttle levers in the NEUTRAL position. NOTE: Ensure that the anchor line is being secured to the same side of the boat as the anchor line attachment.      6. Secure the anchor line around the port or starboard bow cleat.     7. Stow the anchor line slack in the forward open bow compartment.     8. Engage the throttle levers slowly until the anchor is firmly set on the bottom.     9. Shutdown the engines.    10. While anchored, monitor the plotter every 30 minutes to ensure that the boat is not drifting and the anchor is               not dragging.    11. If the boat is drifting outside of the swing circle on the plotter or the  anchor alarm sounds, the anchor is                      dragging and needs to be reset. Repeat steps 1-9."
+52597,"Weighing Anchor Procedure The following steps will instruct you on how to properly weigh anchor: Start the outboard engines.Place the throttle levers in the FORWARD position and slowly maneuver the boat forward over anchor while pulling in the anchor line slack.Once the boat is directly over the anchor and the anchor line is vertical, place the throttle levers in the NEUTRAL position. Remove the anchor line from the bow cleat and pull in the slack.Re-secure the anchor line to the bow cleat. CAUTION: Do not power the boat forward. Heavy loads could be placed on the anchor and supporting hardware. Failure to comply could result in damage to equipment.      5. Slowly maneuver the boat backwards to unseat the anchor.     6. Pull the remaining anchor line and anchor from the water.       7. Remove the anchor line from the bow cleat.     8. Remove the anchor line from the mid-cleat.     9. Stow the anchor line and anchor in the bow compartment."
+52602,CORRECT
+52602,Position boat with bow alongside dock.
+52602,INCORRECT
+52605,Turn house battery off
+52605,Perform shutdown procedures
+52605,Place throttle in NEUTRAL
+52605,Question: 4 of 6
+52605,Secure line to aft boat cleat and dock
+52605,CORRECT
+52605,"After docking is complete, the final two steps are turning the HOUSE battery off and performing shutdown procedures."
+52605,INCORRECT
+52603,Mid and Bow cleat on opposite sides
+52603,Mid and Stern cleat on the same side
+52603,Mid and Stern cleat on opposite sides
+52603,Question: 5 of 6
+52603,Mid and Bow cleat on the same side
+52603,CORRECT
+52603,The anchor line should be attached and secured to the Mid and Bow cleat on the same side.
+52603,INCORRECT
+52604,Every 20 minutes
+52604,Every 30 minutes
+52604,Every 40 minutes
+52604,Question: 6 of 6
+52604,Every 50 minutes
+52604,CORRECT
+52604,"While the boat is anchored, monitor the plotter every 30 minutes to ensure that the boat is not drifting and the anchor is not dragging."
+52604,INCORRECT
+52609,"Lowering and Raising the Dive Platform Procedure The following steps will instruct you on how to properly lower and raise the dive platform: Open the port and starboard bow door turnbuckle fasteners (Item 1).Lower the dive platform until all weight is on the tension ropes (Item 1).Turn the dive ladder lock (Item 2) to the UNLOCKED position and extend the ladder (Item 3).Lower the dive ladder into the water.Pull the dive ladder (Item 3) up, and stow it.Raise the dive platform until it is closed.Turn the dive ladder lock (Item 2) to the LOCKED position.Latch and lock the port and starboard bow door turnbuckle fasteners."
+52611,"Towing Another Vessel Procedure The following steps will instruct you on how to properly tow another vessel: Wrap the tow line (Item 2) several times around the tow post (Item 4).Provide the end of the tow line to the disabled boat.Ensure that the tow line is between the engine guard posts (Item 3).While paying out the tow line, maneuver the boat forward to a safe distance from the disabled boat.Using the aft cleat (Item 1), make off the remainder of the tow line (Item 2).Get underway and proceed slowly."
+52613,"Cabin Enclosure Assembly Installation Procedure The following steps will instruct you on how to properly install the cabin enclosure assembly: CAUTION: Please ensure that this process is completed with the help of an assistant.   Remove the panels from their bag (Item 1).Zip the windshield panel (Item 2) to the collar (Item 1), then snap the panel to the front of the cabin (Item 3).Zip the port panel (Item 2) to the collar (Item 1).Zip the port panel (Item 2) to the windshield panel (Item 4) and snap the port panel to the cabin (Item 3).Zip the starboard panel (Item 4) to the collar (Item 1).Zip the starboard panel (Item 4) to the windshield panel (Item 2) and snap the starboard panel to the cabin (Item 3).Zip the rear panel (Item 3) to the collar (Item 1).Zip the rear panel (Item 3) to the port side panel (Item 4) and starboard side panel (Item 2)."
+52614,"Cabin Enclosure Assembly Removal Procedure   The following steps will instruct you on how to properly remove the cabin enclosure assembly: CAUTION: Please ensure that this process is completed with the help of an assistant.   Unzip the rear panel (Item 3) from the starboard side panel (Item 2) and unsnap it from the cabin.Unzip the rear panel (Item 3) from the port side panel (Item 4) and unsnap it from the cabin.Unzip the rear panel (Item 3) from the collar (Item 1).Unzip the starboard panel (Item 4) from the windshield panel (Item 2) and unsnap the starboard panel from the cabin (Item 3).Unzip the starboard panel (Item 4) from the collar (Item 1).Unzip the port panel (Item 2) from the windshield panel (Item 4) and unsnap the port panel from the cabin (Item 3).Unzip the port panel (Item 2) from the collar (Item 1).Unzip the windshield panel (Item 2) from the collar (Item 1), then unsnap the panel from the front of the cabin (Item 3). CAUTION: Carefully roll panels as to not form creases in the windows. Failure to comply may result in damage to equipment.      9. Place the panels into their bag (Item 1) and securely stow."
+52615,Once the platform is fully lowered and weight is on the tension ropes.
+52615,Before the platform is lowered and there is no weight on the tension ropes.
+52615,"While the platform is lowered, once there is some weight on the tension ropes."
+52615,Question: 1 of 4
+52615,Once there is weight on the tension ropes and the platform is almost fully lowered.
+52615,CORRECT
+52615,"Once the platform is fully lowered and weight is on the tension ropes, the ladder can be lowered."
+52615,INCORRECT
+52616,"3,815 lbs (1713 kg)"
+52616,"4,788 lbs (2172 kg)"
+52616,"4,842 lbs (2192 kg)"
+52616,Question: 2 of 4
+52616,"8,004 lbs (3630.55 kg)"
+52616,CORRECT
+52616,"The tow post is rated up to 4,788 lbs (2172 kg)."
+52616,INCORRECT
+52617,Mid cleat ? starboard side
+52617,Bow cleat
+52617,Mid cleat ? port side
+52617,Question: 3 of 4
+52617,Aft cleat
+52617,CORRECT
+52617,The remaining tow line should be secured to the aft cleat.
+52617,INCORRECT
+52618,2 side specific panels and 2 identical panels
+52618,"2 side specific panels, 2 identical panels, and two doors"
+52618,4 side specific panels
+52618,Question: 4 of 4
+52618,4 side specific panels and two doors
+52618,CORRECT
+52618,Four side specific panels make up the enclosure.
+52618,INCORRECT
+52621,"Recovery by Trailer Procedure The following steps will instruct you on how to properly complete a recovery by trailer: Disconnect the electrical cable (Item 3) from the prime mover.Have an assistant rotate the winch lock lever (Item 1) 90? and rotate the winch handle (Item 4) counter-clockwise to loosen the line (Item 2). WARNING: Ensure that the primary mover is placed in park with the emergency brake engaged. Failure to comply may result in damage to equipment, injury, or death.        3. Have the trailer and prime mover in position on the ramp with approximately 18-24 in. of forward end of bunk            exposed above the water. CAUTION: Do not accelerate up the trailer bunks faster than is required. Failure to comply may cause damage to the trailer and boat. NOTE: If the mooring lines were removed during operation, they may need to be reattached to the forward and aft cleats. Account for the wind and current during a trailer?s approach. The operator may ease in and out of gear several times between starting to and eventually touching onto trailer bunks.      4. Trim the engines to 25% and approach the recovery site with throttles in the FORWARD IDLE position while                    maneuvering the boat in line with the center of the trailer.     5. The hull will self-align as it moves up the bunks. If the hull is off center or sideways, ease into reverse and back            the boat down until the hull aligns with the bunks.     6. Place the throttle levers in the NEUTRAL position and have two assistants use the attached mooring lines to                  guide the boat onto the trailer.       7. Have an assistant connect the snatch block to the boat?s bow eye.     8. Have an assistant rotate the winch lock lever 90?. Rotate the winch handle clockwise to tighten the line.     9. Winch the boat forward until it is firmly seated onto the stop bumpers.   10. Place the start/stop switches in the STOP position. CAUTION: Engines must be trimmed to the full UP position prior to removing the boat from the water. Failure to comply may cause damage to engines.     11. Trim the engines to the full UP position. WARNING: The boat is not designed to house passengers during over-the-road transportation. All personnel must depart prior to moving a trailered boat. Failure to comply may result in injury or death.     12. Have all personnel disembark the boat.    13. Using the prime mover, move the trailered boat from the ramp to the staging area and remove the two bow                 and two stern tie down straps from the toolbox.    14. Using the two bow and two stern ratchet tie downs, secure the boat to the trailer and tighten the tie downs.    15. Using the wrench, remove the bilge plug and transom plug from the hull. Allow all water to drain from the bilge.    16. Using a wrench and anti seizing tape, reinstall the bilge plug and transom plug in the hull.    17. Engage the engine lock lever and trim the engines to the trailering position.    18. Turn the house, port engine, and starboard engine battery switches to the OFF position. WARNING: Antennas and masts can conduct electricity. Ensure the antenna and masts are lowered prior to transporting a boat. Do not allow the antenna or masts to contact overhead power lines. Failure to comply may result in damage to equipment, injury, or death.     19. Lower and secure the VHF antenna, dive mast, and radome mast.    20. Hook the trailer electrical cables to the prime mover."
+52622,Preparing for Long Term Storage Procedure The following steps will instruct you on how to properly prepare the RIB for long term storage: Fill fuel the fuel tank.Stabilize the fuel supply by adding a corrosion inhibitor. Follow the  instructions on the container.Perform the engine winterizing procedure.Close the four fuel valves.Ensure that the Multi-Function Display and engine monitor covers are installed.Ensure that all hatches and doors are closed and secured.Install the cabin enclosure assembly.
+52625,Question: 1 of 3
+52625,CORRECT
+52625,The RIB has four tie downs: 2 at bow and 2 at aft.
+52625,INCORRECT
+52627,Trim engines full DOWN
+52627,Remove all equipment from the boat
+52627,Trim engines full UP
+52627,Question: 2 of 3
+52627,Remove all personnel from the boat
+52627,CORRECT
+52627,"Before removing the RIB from the water, trim engines full UP and remove all personnel from the boat."
+52627,INCORRECT
+52626,Fill the fuel tank
+52626,Winterize the engines
+52626,Install covers over multi-function display and engine monitor
+52626,Question: 3 of 3
+52626,Install cabin enclosure assembly
+52626,CORRECT
+52626,The first step when preparing for long term storage is filling the fuel tank.
+52626,INCORRECT
+52644,Battery banks have been paralleled
+52631,5 seconds
+52631,10 seconds
+52631,15 seconds
+52631,Question: 1 of 2
+52631,25 seconds
+52631,CORRECT
+52631,"By pushing manual trim buttons and momentarily activating the trim system, a ten second window is provided allowing for engine start using engine start buttons at console."
+52631,INCORRECT
+52632,All three switches on 1
+52632,All three switches on 2
+52632,All three switches on 1 + 2
+52632,Question: 2 of 2
+52632,It doesn't matter
+52632,CORRECT
+52632,Battery banks have parallel capability in ?1+2?. Turn all battery banks to ?1+2
+52632,INCORRECT
+52655,"Partial Loss OVERVIEWDuring an emergency, dynamic power steering ? or DPS ? may fail. This will cause resistance when changing steering directions, but will not cause total loss of steering control. During this instance, it is still possible to safely operate the boat back to the dock at a reduced speed. PROCEDUREIf partial loss of steering control occurs, safely decrease the throttle and make your way back to shore."
+52655,"WARNING Complete loss of steering control creates a dangerous situation. Alert the crew and take immediate action to prevent collision, capsizing, or ejection.Ensure that all personnel in the vicinity and operating the outboard engine wear appropriate PPE.Always use the emergency stop lanyard when operating the engines to prevent a runaway boat. Keep the emergency stop lanyard free from obstructions and entanglements.  Ensure that all personnel wear PFDs at all times while operating a boat in water.  Failure to comply may result in damage to equipment, injury, or death."
+52655,Complete Loss The following steps will instruct you on how to respond to a complete loss of steering: Safely reduce the throttle until the engines reach idle speed.Shut down the engines.Anchor the boat.Radio for assistance.
+52655,Partial Loss
+52655,Complete Loss Warning
+52655,Complete Loss
+52647,Make sure everyone is wearing a PFD
+52647,Reduce the throttles
+52647,Open hatches and check for water intrusion
+52647,Question: 1 of 6
+52647,Turn bilge pumps to MANUAL
+52647,CORRECT
+52647,"As soon as the boat begins to take on water, ensure that all crew members have donned Personal Flotation Device (PFDs)."
+52647,INCORRECT
+52648,2 seconds
+52648,3 seconds
+52648,4 seconds
+52648,Question: 2 of 6
+52648,5 seconds
+52648,CORRECT
+52648,"To submit a distress call, lift the cover on the command microphone and hold down the ?DISTRESS BUTTON? for three seconds to transmit a distress call."
+52648,INCORRECT
+52649,Check for damage to the boat
+52649,Prepare to assist the other vessel
+52649,Transmit a distress call
+52649,Question: 3 of 6
+52649,Check the condition of the crew
+52649,CORRECT
+52649,"Immediately after a collision, check the condition of all personnel on the boat."
+52649,INCORRECT
+52650,Slightly tilting the engines down and reversing
+52650,Slightly tilting the engines up and reversing
+52650,Rock the boat by shifting the weight of the gear
+52650,Question: 4 of 6
+52650,Rock the boat by shifting the weight of the crew
+52650,CORRECT
+52650,"While aground, it may be possible to rock the boat by shifting the weight of the passengers and gear. While shifting, slightly tilt up the engines and move in reverse."
+52650,INCORRECT
+52651,Safely reduce throttle until engine reaches idle speed
+52651,Shut down engines
+52651,Anchor boat
+52651,Question: 5 of 6
+52651,Radio for assistance
+52651,CORRECT
+52651,Safely reduce throttle until engine reaches idle speed.
+52651,INCORRECT
+52652,Shout ?MAN OVERBOARD?
+52652,Throw a life ring
+52652,Transmit a distress call
+52652,Question: 6 of 6
+52652,Throttle the engines
+52652,CORRECT
+52652,"If there is an immediate danger to life, lift the cover on the command microphone and hold down the ?DISTRESS BUTTON? for three seconds to transmit a distress call"
+52652,INCORRECT
+52663,Warnings 1
+52663,Warnings 2
+52663,Cold Weather
+52663,High Seas
+52663,Night
+52663,Fog
+52663,"WARNING Ensure that cold weather gear is worn during operation. Prolonged exposure to rain, wind, and open water can quickly reduce core body temperature and lead to hypothermia.Recover personnel from the water as soon as possible.Provide protection from the elements to personnel who have been in the water.Ensure proper safety measures are taken during extremely hot and humid weather.Seek medical attention immediately if any of the following occur: weakness, dizziness, trouble breathing, painful muscle cramps, rapid pulse, pale skin, or weak pulse.Reference TB-MED 507 for proper work, rest, and water consumption cycle during extreme heat.Failure to follow this warning may cause injury or death."
+52663,WARNING Ensure that all personnel wear PFDs at all times while operating a boat in water.  Always use the emergency stop lanyard when operating the engines to prevent a runaway boat. Keep the emergency stop lanyard free from obstructions and entanglements.  Failure to comply may result in damage to equipment or injury.
+52663,"Cold Weather The RIB and engines are capable of operating in ambient air temperatures of 20? F - 120? F. and in water temperatures of 28? F - 100? F. The following steps will instruct you on how to properly operate the RIB in cold weather: Install the cabin enclosure assembly.Allow five additional minutes for the engines to warm up before applying higher throttle settings.Limit mission times to reduce the exposure of personnel to the elements.Reduce speed and be on the lookout for any ice in the water.Be aware of any icing or buildup of frozen material on the boat. If material accumulates, remove it."
+52663,"High Seas The following steps will instruct you on how to properly respond to a High Seas situation: Ensure that all hatches and doors are closed and that all equipment is secure.Monitor the NOAA weather channel on the command microphone.During operation, reduce speeds to prevent risk of capsizing."
+52663,"Night The following steps will instruct you on how to properly operate the RIB at night: Reduce speeds to compensate for reduced visibility.Using a spotlight, position an assistant in the bow of the boat as a lookout.Navigate using a plotter."
+52663,"Fog The following steps will instruct you on how to properly operate the RIB during a fog: Reduce speeds to compensate for reduced visibility.Using a spotlight, position an assistant in the bow of the boat as a lookout.Mark the boat position on the plotter intermittently.Alert other ships by sounding the navigation horn intermittently. This is done by toggling the operating switch.Listen for other fog signals."
+52660,Weather/Environment:
+52660,Tasks:
+52660,Cold Weather
+52660,Warm engines for five additional minutes
+52660,Monitor NOAA weather channel
+52660,High Seas
+52660,Night Operations
+52660,Navigate using plotter
+52660,Question: 1 of 1
+52660,CORRECT
+52660,INCORRECT
+52660,Cold Weather: Warm engines for five additional minutesHigh Seas Monitor: NOAA weather channelNight Operations: Navigate using plotterFog Operations: Mark boat position on plotter intermittently
+52662,"NOTEFor operator maintenance please refer to the Operator Manual for Rigid Inflatable Boat (RIB), TM 5-1940-328-10 Chapter 5.  A copy of this document is available in the reference tab for your convenience."
+52664,For comments or questions related to this course:
+52664,"ADS, Inc.Senior Business Development Manager: Brian AdamsCommercial: (309) 719-4419E-mail: badams@adsinc.com"
+52664,D2 | TEAM-SimDirector of Army Programs: Walt RantCellular: (732) 757-8252E-mail wrant@d2teamsim.com

@@ -1,2 +1,10 @@
 .ipynb_checkpoints
 __pycache__
+src/.ipynb_checkpoints
+src/__pycache__
+
+data/tm_wiki/*/train.txt
+data/tm_wiki/*/test.txt
+data/tm_wiki/*/wiki
+
+outputs/lm_*

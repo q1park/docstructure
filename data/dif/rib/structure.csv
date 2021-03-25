@@ -1,0 +1,351 @@
+page,elo,tlo,pid,type,name
+0,0,1,,TLO,Introduction
+0,1,1,52005,Page,Rigid Inflatable Boat
+0,2,1,,ELO,Tutorial
+1,2,1,52006,Page,Course Navigation
+2,2,1,56871,Page,Video
+3,2,1,56872,Page,Side Menu
+4,2,1,56873,Page,3D Viewer
+5,2,1,56874,Page,Simulation
+0,3,1,,ELO,Theory of Operations
+1,3,1,52007,Page,Theory of Operations
+0,0,2,,TLO,Safety
+0,1,2,52457,Page,Safety
+0,2,2,,ELO,Safety Learning Objectives
+1,2,2,52459,Page,Safety Learning Objectives
+0,3,2,,ELO,"Warnings, Cautions, & Notes"
+1,3,2,52458,Page,"Warnings, Cautions, & Notes"
+0,4,2,,ELO,Warning Summary
+1,4,2,54143,Page,Warning Summary
+0,5,2,,ELO,General Safety Warning Descriptions
+1,5,2,54145,Page,General Safety Warning Descriptions
+2,5,2,54146,Page,General Safety Warning Descriptions - Continued
+3,5,2,54147,Page,General Safety Warning Descriptions - Continued
+4,5,2,54148,Page,General Safety Warning Descriptions - Continued
+0,6,2,,ELO,Hazardous Material Icons 
+1,6,2,52460,Page,Hazardous Material Icons 
+2,6,2,54149,Page,Hazardous Materials Warning Descriptions
+3,6,2,54151,Page,Hazardous Materials Warning Descriptions - Continued
+4,6,2,54152,Page,Hazardous Materials Warning Descriptions - Continued
+5,6,2,54153,Page,Hazardous Materials Warning Descriptions - Continued
+0,7,2,,ELO,Personal Protection Equipment
+1,7,2,52461,Page,Personal Protection Equipment (PPE)
+0,8,2,,ELO,Checks On Learning
+1,8,2,52468,Page,Checks On Learning
+2,8,2,52469,Page,Question 1 of 6
+3,8,2,52471,Page,Question 2 of 6
+4,8,2,52472,Page,Question 3 of 6
+5,8,2,52470,Page,Question 4 of 6
+6,8,2,52473,Page,Question 5 of 6
+7,8,2,52474,Page,Question 6 of 6
+0,0,3,,TLO,Characteristics
+0,1,3,52475,Page,Characteristics
+0,2,3,,ELO,Characteristics Objectives
+1,2,3,52476,Page,Characteristics Objectives
+0,3,3,,ELO,RIB Components
+1,3,3,52477,Page,RIB Components
+2,3,3,54882,Page,Hull Components
+0,4,3,,ELO,Engine Components
+1,4,3,53321,Page,Engine Components
+0,0,4,,TLO,Specifications
+0,1,4,52478,Page,Specifications
+0,2,4,,ELO,Specifications Objectives
+1,2,4,52479,Page,Specifications Objectives
+0,3,4,,ELO,Specifications
+1,3,4,52480,Page,Specifications
+0,4,4,,ELO,Checks On Learning
+1,4,4,52481,Page,Question 1 of 2
+2,4,4,52482,Page,Question 2 of 2
+0,0,5,,TLO,Controls and Indicators
+0,1,5,52483,Page,Controls and Indicators
+0,2,5,,ELO,Controls and Indicators Objectives
+1,2,5,52484,Page,Controls and Indicators Objectives
+0,3,5,,ELO,Cabin Controls
+1,3,5,52491,Page,Cabin Controls
+0,4,5,,ELO,Control Panel
+1,4,5,52485,Page,Control Panel
+0,5,5,,ELO,Light Control
+1,5,5,52489,Page,Light Control
+0,6,5,,ELO,Switch Panel
+1,6,5,52490,Page,Switch Panel
+0,7,5,,ELO,Throttle Controls
+1,7,5,52492,Page,Throttle Controls
+0,8,5,,ELO,Command Microphone
+1,8,5,52493,Page,Command Microphone
+2,8,5,52653,Page,Command Microphone Display
+0,9,5,,ELO,VHF Microphone Controls
+1,9,5,52494,Page,VHF Microphone Controls
+0,10,5,,ELO,Checks On Learning
+1,10,5,52496,Page,Question 1 of 2
+2,10,5,52497,Page,Question 2 of 2
+0,0,6,,TLO,Command Controls
+0,1,6,52486,Page,Command Controls
+0,2,6,,ELO,Command Controls Objectives
+1,2,6,52487,Page,Command Controls Objectives
+0,3,6,,ELO,"Spotlight Warnings, Cautions, & Notes"
+1,3,6,52498,Page,"Spotlight Warnings, Cautions, & Notes"
+0,4,6,,ELO,Spotlight Receptacles
+1,4,6,52499,Page,Spotlight Receptacles
+0,5,6,,ELO,Spotlight Operation Procedure
+1,5,6,52488,Page,Spotlight Operation Procedure
+0,6,6,,ELO,"Loudspeaker and Siren Warnings, Cautions, & Notes"
+1,6,6,52500,Page,"Loudspeaker and Siren Warnings, Cautions, & Notes"
+0,7,6,,ELO,Microphone and Control Panel Operation Procedure
+1,7,6,52501,Page,Microphone and Control Panel Operation Procedure
+0,8,6,,ELO,Command Microphone Remote VHF Operation Procedure
+1,8,6,52506,Page,Command Microphone Remote VHF Operation Procedure
+0,9,6,,ELO,Command Microphone Remote Transmission/Reception Procedure
+1,9,6,52502,Page,Command Microphone Remote Transmission/Reception Procedure
+0,10,6,,ELO,Command Microphone Softkeys Operation Procedure
+1,10,6,52504,Page,Command Microphone Softkeys Operation Procedure
+0,11,6,,ELO,National Oceanic and Atmospheric Administration (NOAA) Weather Channel Selection
+1,11,6,52505,Page,National Oceanic and Atmospheric Administration (NOAA) Weather Channel Selection
+0,12,6,,ELO,Command Microphone: Emergency Channel 16
+1,12,6,52507,Page,Command Microphone: Emergency Channel 16
+0,13,6,,ELO,VHF Radio: Powering On & Transmission Procedures
+1,13,6,52503,Page,VHF Radio: Powering On & Transmission Procedures
+0,14,6,,ELO,VHF Radio: Powering On & Transmission Procedure
+1,14,6,52508,Page,VHF Radio: Powering On & Transmission Procedure
+0,15,6,,ELO,Checks On Learning
+1,15,6,52511,Page,Question 1 of 8
+2,15,6,52509,Page,Question 2 of 8
+3,15,6,52512,Page,Question 3 of 8
+4,15,6,52510,Page,Question 4 of 8
+5,15,6,52513,Page,Question 5 of 8
+6,15,6,52514,Page,Question 6 of 8
+7,15,6,52515,Page,Question 7 of 8
+8,15,6,52516,Page,Question 8 of 8
+0,0,7,,TLO,Multi-Function Display
+0,1,7,52517,Page,Multi-Function Display
+0,2,7,,ELO,Multi-Function Display Learning Objectives
+1,2,7,52518,Page,Multi-Function Display Learning Objectives
+0,3,7,,ELO,"Multi-Function Display Warnings, Cautions, & Notes"
+1,3,7,52519,Page,"Multi-Function Display Warnings, Cautions, & Notes"
+0,4,7,,ELO,Powering On the Multi-Function Display
+1,4,7,52520,Page,Powering On the Multi-Function Display
+0,5,7,,ELO,Operation
+1,5,7,52521,Page,Operation with One Finger
+2,5,7,52654,Page,Operation with Two Fingers
+3,5,7,52522,Page,Remote Control Operation
+4,5,7,52523,Page,Home Screen Operation
+0,6,7,,ELO,Navigation Plotter
+1,6,7,52524,Page,Navigation Plotter Overview
+2,6,7,52526,Page,Navigation Plotter Simulation
+3,6,7,52527,Page,Navigation Points Overview
+4,6,7,58383,Page,Navigation Points and Routes Simulation
+0,7,7,,ELO,Navigation Radar
+1,7,7,52529,Page,Navigation Radar Overview
+2,7,7,58384,Page,Navigation Radar Simulation
+0,8,7,,ELO,Navigation Sonar
+1,8,7,52532,Page,Navigation Sonar Overview
+2,8,7,58385,Page,Navigation Sonar Simulation
+0,9,7,,ELO,Checks On Learning
+1,9,7,52535,Page,Question 1 of 11
+2,9,7,52536,Page,Question 2 of 11
+3,9,7,52537,Page,Question 3 of 11
+4,9,7,52538,Page,Question 4 of 11
+5,9,7,52539,Page,Question 5 of 11
+6,9,7,52540,Page,Question 6 of 11
+7,9,7,52541,Page,Question 7 of 11
+8,9,7,52542,Page,Question 8 of 11
+9,9,7,52543,Page,Question 9 of 11
+10,9,7,52544,Page,Question 10 of 11
+11,9,7,52545,Page,Question 11 of 11
+0,0,8,,TLO,Pre-Start Procedures and PMCS
+0,1,8,52546,Page,Pre-Start Procedures and PMCS
+0,2,8,,ELO,Pre-Start Procedures and PMCS Learning Objectives
+1,2,8,52547,Page,Pre-Start Procedures and PMCS Learning Objectives
+0,3,8,,ELO,Pre-Start Procedures
+1,3,8,52548,Page,Pre-Start Procedures
+0,4,8,,ELO,Preventative Maintenance Checks and Services (PMCS) 
+1,4,8,52583,Page,Preventative Maintenance Checks and Services (PMCS) 
+0,5,8,,ELO,Fluid Leaks
+1,5,8,52587,Page,Fluid Leaks
+0,6,8,,ELO,Checks On Learning
+1,6,8,52550,Page,Question 1 of 2
+2,6,8,52549,Page,Question 2 of 2
+0,0,9,,TLO,Starting and Shutting Down
+0,1,9,52551,Page,Starting and Shutting Down
+0,2,9,,ELO,Starting and Shutting Down Learning Objectives
+1,2,9,52552,Page,Starting and Shutting Down Learning Objectives
+0,3,9,,ELO,"Start Procedures Warnings, Cautions, & Notes"
+1,3,9,52553,Page,"Start Procedures Warnings, Cautions, & Notes"
+2,3,9,52554,Page,"Start Procedures Warnings, Cautions, & Notes 2"
+0,4,9,,ELO,Start Procedures
+1,4,9,52555,Page,Start Procedures
+0,5,9,,ELO,Engine Monitor Overview
+1,5,9,52556,Page,Engine Monitor Overview
+0,6,9,,ELO,Engine Monitor Icons
+1,6,9,52557,Page,Engine Monitor Icons
+0,7,9,,ELO,System Faults
+1,7,9,52558,Page,System Faults
+0,8,9,,ELO,A.M.A / S.A.F.E. Mode
+1,8,9,52559,Page,A.M.A / S.A.F.E. Mode
+0,9,9,,ELO,Winterizing Engines
+1,9,9,52657,Page,Winterizing Preparation
+0,10,9,,ELO,Winterization Procedure
+1,10,9,52560,Page,Winterization Procedure
+0,11,9,,ELO,Vessel System Monitor (VSM)
+1,11,9,52561,Page,Vessel System Monitor (VSM)
+0,12,9,,ELO,"Shutdown Procedures Warnings, Cautions, & Notes"
+1,12,9,52562,Page,"Shutdown Procedures Warnings, Cautions, & Notes"
+0,13,9,,ELO,Shutdown Procedure
+1,13,9,52563,Page,Shutdown Procedure
+0,14,9,,ELO,Checks On Learning
+1,14,9,52564,Page,Question 1 of 6
+2,14,9,52565,Page,Question 2 of 6
+3,14,9,52567,Page,Question 3 of 6
+4,14,9,52566,Page,Question 4 of 6
+5,14,9,52568,Page,Question 5 of 6
+6,14,9,52569,Page,Question: 6 of 6
+0,0,10,,TLO,Trailering
+0,1,10,52570,Page,Trailering
+0,2,10,,ELO,Trailering Learning Objectives
+1,2,10,52571,Page,Trailering Learning Objectives
+0,3,10,,ELO,Transport by Trailer
+1,3,10,52656,Page,Transport by Trailer
+0,4,10,,ELO,Attaching the Trailer Procedure
+1,4,10,52572,Page,Attaching the Trailer Procedure
+0,5,10,,ELO,Preparing for Transport Procedure
+1,5,10,52573,Page,Preparing for Transport Procedure
+0,6,10,,ELO,Detaching a Trailer Procedure
+1,6,10,52574,Page,Detaching a Trailer Procedure
+0,7,10,,ELO,Checks On Learning
+1,7,10,52575,Page,Question: 1 of 3
+2,7,10,52577,Page,Question: 2 of 3
+3,7,10,52576,Page,Question: 3 of 3
+0,0,11,,TLO,Preparing for Operations
+0,1,11,52578,Page,Preparing for Operations
+0,2,11,,ELO,Preparing for Operations Learning Objectives
+1,2,11,52579,Page,Preparing for Operations Learning Objectives
+0,3,11,,ELO,Preparing to Launch Procedure
+1,3,11,52581,Page,Preparing to Launch Procedure
+0,4,11,,ELO,"Loading Warnings, Cautions, & Notes"
+1,4,11,52580,Page,"Loading Warnings, Cautions, & Notes"
+2,4,11,57106,Page,"Loading Warnings, Cautions, & Notes"
+0,5,11,,ELO,Checks On Learning
+1,5,11,52584,Page,Question: 1 of 5
+2,5,11,52586,Page,Question: 2 of 5
+3,5,11,52585,Page,Question: 3 of 5
+4,5,11,52588,Page,Question: 4 of 5
+5,5,11,52589,Page,Question: 5 of 5
+0,0,12,,TLO,Basic Operations
+0,1,12,52590,Page,Basic Operations
+0,2,12,,ELO,Basic Operations Objectives
+1,2,12,52591,Page,Basic Operations Objectives
+0,3,12,,ELO,Operation Underway Procedure
+1,3,12,52598,Page,Operation Underway Procedure
+0,4,12,,ELO,Trimming Engines Procedure
+1,4,12,52592,Page,Trimming Engines Procedure
+0,5,12,,ELO,Docking Procedure
+1,5,12,52594,Page,Docking Procedure
+0,6,12,,ELO,Casting Off Procedure
+1,6,12,52593,Page,Casting Off Procedure
+0,7,12,,ELO,Selecting an Anchor Site
+1,7,12,52599,Page,Selecting an Anchor Site
+0,8,12,,ELO,Preparing to Anchor Procedure
+1,8,12,52595,Page,Preparing to Anchor Procedure
+0,9,12,,ELO,Dropping Anchor Procedure
+1,9,12,52596,Page,Dropping Anchor Procedure
+0,10,12,,ELO,Weighing Anchor Procedure
+1,10,12,52597,Page,Weighing Anchor Procedure
+0,11,12,,ELO,Checks On Learning
+1,11,12,52600,Page,Question 1 of 6
+2,11,12,52601,Page,Question 2 of 6
+3,11,12,52602,Page,Question 3 of 6
+4,11,12,52605,Page,Question 4 of 6
+5,11,12,52603,Page,Question 5 of 6
+6,11,12,52604,Page,Question 6 of 6
+0,0,13,,TLO,Advanced Operations
+0,1,13,52606,Page,Advanced Operations
+0,2,13,,ELO,Advanced Operations Objectives
+1,2,13,52608,Page,Advanced Operations Objectives
+0,3,13,,ELO,Dive Platform
+1,3,13,52607,Page,"Dive Platform Warnings, Cautions, & Notes"
+2,3,13,52609,Page,Lowering and Raising the Dock Platform Procedure
+0,4,13,,ELO,Towing Another Vessel
+1,4,13,52610,Page,"Towing Another Vessel Warnings, Cautions, & Notes"
+2,4,13,52611,Page,Towing Another Vessel Procedure
+0,5,13,,ELO,Cabin Enclosure Assembly
+1,5,13,52612,Page,"Cabin Enclosure Assembly Warnings, Cautions, & Notes"
+2,5,13,52613,Page,Cabin Enclosure Assembly Installation Procedure
+3,5,13,52614,Page,Cabin Enclosure Assembly Removal Procedure
+0,6,13,,ELO,Checks On Learning
+1,6,13,52615,Page,Question: 1 of 4
+2,6,13,52616,Page,Question: 2 of 4
+3,6,13,52617,Page,Question: 3 of 4
+4,6,13,52618,Page,Question: 4 of 4
+0,0,14,,TLO,After Operations
+0,1,14,52619,Page,After Operations
+0,2,14,,ELO,After Operations Objectives
+1,2,14,52620,Page,After Operations Objectives
+0,3,14,,ELO,Recovery by Trailer
+1,3,14,52623,Page,"Recovery by Trailer Warnings, Cautions & Notes"
+2,3,14,52621,Page,Recovery by Trailer Procedure
+0,4,14,,ELO,Preparing for Long Term Storage
+1,4,14,52624,Page,"Preparing for Long Term Storage Warnings, Cautions, & Notes"
+2,4,14,52622,Page,Preparing for Long Term Storage Procedure
+0,5,14,,ELO,Checks On Learning
+1,5,14,52625,Page,Question 1 of 3
+2,5,14,52627,Page,Question 2 of 3
+3,5,14,52626,Page,Question 3 of 3
+0,0,15,,TLO,Emergency Procedures - Starting
+0,1,15,52628,Page,Emergency Procedures - Starting
+0,2,15,,ELO,Emergency Procedures - Starting Objectives
+1,2,15,52629,Page,Emergency Procedures - Starting Objectives
+0,3,15,,ELO,"Emergency Starting Procedures Warnings, Cautions & Notes"
+1,3,15,52630,Page,"Emergency Starting Procedures Warnings, Cautions & Notes"
+0,4,15,,ELO,Emergency Starting Procedure
+1,4,15,52643,Page,Emergency Starting Procedure
+0,5,15,,ELO,Paralleling Batteries Procedure
+1,5,15,52644,Page,Paralleling Batteries Procedure
+0,6,15,,ELO,Checks On Learning
+1,6,15,52631,Page,Question 1 of 2
+2,6,15,52632,Page,Question 2 of 2
+0,0,16,,TLO,Emergency Procedures - Underway
+0,1,16,52633,Page,Emergency Procedures - Underway
+0,2,16,,ELO,Emergency Procedures - Underway Objectives
+1,2,16,52634,Page,Emergency Procedures - Underway Objectives
+0,3,16,,ELO,"Emergency Starting Procedures Warnings, Cautions & Notes"
+1,3,16,52635,Page,"Emergency Starting Procedures Warnings, Cautions & Notes"
+0,4,16,,ELO,Emergency Dewatering Procedures
+1,4,16,52636,Page,Emergency Dewatering Procedures
+0,5,16,,ELO,"Capsizing Procedures Warnings, Cautions, & Notes"
+1,5,16,52637,Page,"Capsizing Procedures Warnings, Cautions, & Notes"
+0,6,16,,ELO,Emergency Capsizing Procedures
+1,6,16,52638,Page,Emergency Capsizing Procedures
+0,7,16,,ELO,"Collision Procedures Warnings, Cautions, & Notes"
+1,7,16,52639,Page,"Collision Procedures Warnings, Cautions, & Notes"
+0,8,16,,ELO,Emergency Collision Procedures
+1,8,16,52640,Page,Emergency Collision Procedures
+0,9,16,,ELO,"Running Aground Procedures Warnings, Cautions, & Notes"
+1,9,16,52641,Page,"Running Aground Procedures Warnings, Cautions, & Notes"
+0,10,16,,ELO,Emergency Running Aground Procedures
+1,10,16,52642,Page,Emergency Running Aground Procedures
+0,11,16,,ELO,Loss of Steering Control
+1,11,16,52655,Page,Loss of Steering Control
+0,12,16,,ELO,"Man Overboard Procedures Warnings, Cautions, & Notes"
+1,12,16,52645,Page,"Man Overboard Procedures Warnings, Cautions, & Notes"
+0,13,16,,ELO,Emergency Man Overboard Procedures
+1,13,16,52646,Page,Emergency Man Overboard Procedures
+0,14,16,,ELO,Checks On Learning
+1,14,16,52647,Page,Question 1 of 6
+2,14,16,52648,Page,Question 2 of 6
+3,14,16,52649,Page,Question 3 of 6
+4,14,16,52650,Page,Question 4 of 6
+5,14,16,52651,Page,Question 5 of 6
+6,14,16,52652,Page,Question 6 of 6
+0,0,17,,TLO,Unusual Environments and Weather
+0,1,17,52658,Page,Unusual Environments and Weather
+0,2,17,,ELO,Unusual Environments and Weather Objectives
+1,2,17,52659,Page,Unusual Environments and Weather Objectives
+0,3,17,,ELO,Unusual Environments and Weather
+1,3,17,52663,Page,Unusual Environments and Weather
+0,4,17,,ELO,Checks On Learning
+1,4,17,52660,Page,Question 1 of 1
+0,0,18,,TLO,Operator Maintenance
+0,1,18,52661,Page,Operator Maintenance
+0,2,18,,ELO,"Operator Maintenance Warnings, Cautions, & Notes"
+1,2,18,52662,Page,"Operator Maintenance Warnings, Cautions, & Notes"
+0,0,19,,TLO,Contact
+0,1,19,52664,Page,Contact Information

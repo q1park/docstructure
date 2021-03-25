@@ -1,0 +1,2330 @@
+subsubsection,subsection,section,content
+0,0,0,TM 5-1940-328-10
+0,0,0,FOR
+0,0,0,RIGID INFLATABLE BOAT (RIB) P/N NSW8MTR-OPEN-001 NSN 1940-01–646–7565
+0,0,0,"HEADQUARTERS, DEPARTMENT OF THE ARMY JUNE 2019"
+0,0,0,WARNING SUMMARY
+0,0,0,FIRST AID
+0,0,0,GENERAL SAFETY WARNING DESCRIPTIONS
+0,0,0,WARNING
+0,0,0,WARNING
+0,0,0,WARNING
+0,0,0,WARNING
+0,0,0,WARNING
+0,0,0,TM 5-1940-328-10 a
+0,0,0,WARNING SUMMARY - Continued
+0,0,0,GENERAL SAFETY WARNING DESCRIPTIONS - Continued
+0,0,0,WARNING
+0,0,0,WARNING
+0,0,0,WARNING
+0,0,0,WARNING
+0,0,0,EXPLANATION OF HAZARDOUS MATERIAL ICONS
+0,0,0,TM 5-1940-328-10 b
+0,0,0,WARNING SUMMARY - Continued
+0,0,0,EXPLANATION OF HAZARDOUS MATERIAL ICONS - Continued
+0,0,0,HAZARDOUS MATERIALS WARNING DESCRIPTIONS
+0,0,0,WARNING
+0,0,0,TM 5-1940-328-10 c
+0,0,0,WARNING SUMMARY - Continued
+0,0,0,HAZARDOUS MATERIALS WARNING DESCRIPTIONS - Continued
+0,0,0,WARNING
+0,0,0,TM 5-1940-328-10 e/blank
+0,0,0,Original 01 June 2019
+0,0,0,"TOTAL NUMBER OF PAGES FOR FRONT AND REAR MATTER IS 32 AND TOTAL NUMBER OF WORK PACKAGES IS 63, CONSISTING OF THE FOLLOWING:"
+0,0,0,Page/WP No. Change No.
+0,0,0,Page/WP No. Change No.
+0,0,0,TM 5-1940-328-10
+0,0,0,LIST OF EFFECTIVE PAGES/WORK PACKAGES
+0,0,0,A/blank
+0,0,0,"HEADQUARTERS, DEPARTMENT OF THE ARMY WASHINGTON, DC, 01 JUNE 2019"
+0,0,0,OPERATOR MANUAL
+0,0,0,FOR
+0,0,0,RIGID INFLATABLE BOAT (RIB) P/N NSW8MTR-OPEN-001 NSN 1940-01–646–7565
+0,0,0,TM 5-1940-328-10 i
+0,0,1,GENERAL
+0,0,1,ILLUSTRATIONS
+0,0,1,USING THIS MANUAL
+0,0,1,ACCESSING INFORMATION
+0,0,1,LISTS
+0,0,1,WORK PACKAGES
+0,0,1,"WARNINGS, CAUTIONS, AND NOTES"
+0,0,1,LOCATING MAJOR COMPONENTS
+0,0,1,INITIAL SETUP
+0,0,1,Diver 12D
+0,0,1,HOW TO USE THIS MANUAL - Continued
+0,0,1,TROUBLESHOOTING PROCEDURES
+0,0,1,PREVENTIVE MAINTENANCE CHECKS AND SERVICES (PMCS)
+0,0,1,MAINTENANCE PROCEDURES
+0,0,1,REFERENCES
+0,0,1,BASIC ISSUE ITEMS (BII)
+0,0,1,EXPENDABLE AND DURABLE ITEMS LIST
+0,1,2,FOR
+0,1,2,RIGID INFLATABLE BOAT (RIB)
+0,1,2,TM 5-1940-328-10
+0,1,2,OPERATOR GENERAL INFORMATION
+0,1,2,SCOPE
+0,1,2,Figure 1. Rigid Inflatable Boat.
+0,1,2,Operator Manual.
+0,1,2,"ARMY RIGID INFLATABLE BOAT (RIB), PART NUMBER (P/N) NSW8MTR-OPEN-001, COMMERCIAL AND GOVERNMENT ENTITY CODE (CAGEC) 0ZFD4, NATIONAL STOCK NUMBER (NSN) 1940-01-646-7565."
+0,1,2,"MAINTENANCE FORMS, RECORDS, AND REPORTS"
+0,1,2,REPORTING EQUIPMENT IMPROVEMENT RECOMMENDATIONS (EIR)
+0,1,2,CORROSION PREVENTION AND CONTROL (CPC)
+0,1,2,CORROSION PREVENTION AND CONTROL (CPC) - Continued
+0,1,2,DESTRUCTION OF ARMY MATERIAL TO PREVENT ENEMY USE
+0,1,2,PREPARATION FOR STORAGE OR SHIPMENT
+0,1,2,WARRANTY INFORMATION
+0,1,2,LIST OF ABBREVIATIONS AND SYMBOLS
+0,1,2,LIST OF ABBREVIATIONS AND SYMBOLS - Continued
+0,1,2,LIST OF ABBREVIATIONS AND SYMBOLS - Continued
+0,1,2,LIST OF ABBREVIATIONS AND SYMBOLS - Continued
+0,1,2,Square Inch m 2
+0,1,2,QUALITY OF MATERIAL
+0,1,2,"SAFETY, CARE, AND HANDLING"
+0,1,2,"SAFETY, CARE, AND HANDLING - Continued"
+0,1,2,WARNING
+0,1,2,ITEM UNIQUE IDENTIFICATION
+0,1,2,SPECIAL INSTRUCTIONS FOR ADMINISTRATIVE STORAGE
+0,1,2,COPYRIGHT RELEASE
+0,1,2,"Furuno USA 4400 NW Pacific Rim Blvd, Cames, WA 98607"
+0,1,2,"Boatmaster 11950 Amedicus Lane, Fort Meyers, FL 33907"
+0,1,2,"Evinrude 10101 Science Drive, Sturtevant, WI 53177"
+0,1,2,END OF WORK PACKAGE
+0,1,2,0001-8
+0,1,2,OPERATOR
+0,2,2,EQUIPMENT DESCRIPTION
+0,2,2,CAPABILITIES AND FEATURES
+0,2,2,De-Watering System.
+0,2,2,Anti-corrosion anodes.
+0,2,2,LOCATION AND DESCRIPTION OF MAJOR COMPONENTS
+0,2,2,Figure 1. RIB Components.
+0,2,2,LOCATION AND DESCRIPTION OF MAJOR COMPONENTS - Continued
+0,2,2,Table 1. RIB Components.
+0,2,2,Item Component Description
+0,2,2,LOCATION AND DESCRIPTION OF MAJOR COMPONENTS - Continued
+0,2,2,Figure 2. Hull Components.
+0,2,2,Table 2. Hull Components.
+0,2,2,Item Component Description
+0,2,2,LOCATION AND DESCRIPTION OF MAJOR COMPONENTS - Continued
+0,2,2,Figure 3. Rear Hull Components.
+0,2,2,Table 3. Rear Hull Components.
+0,2,2,Item Component Description
+0,2,2,LOCATION AND DESCRIPTION OF MAJOR COMPONENTS - Continued
+0,2,2,Figure 4. Hull Electrical Components.
+0,2,2,Table 4. Hull Electrical Components.
+0,2,2,Item Component Description
+0,2,2,LOCATION AND DESCRIPTION OF MAJOR COMPONENTS - Continued
+0,2,2,Figure 5. Electrical Components.
+0,2,2,Table 5. Electrical Components.
+0,2,2,Item Component Description
+0,2,2,Navigation Lights
+0,2,2,0002-11
+0,2,2,LOCATION AND DESCRIPTION OF MAJOR COMPONENTS - Continued
+0,2,2,Figure 6. Hull Fuel Components.
+0,2,2,Table 6. Hull Fuel Components.
+0,2,2,Item Component Description
+0,2,2,0002-12
+0,2,2,LOCATION AND DESCRIPTION OF MAJOR COMPONENTS - Continued
+0,2,2,Figure 7. Engine Components.
+0,2,2,Table 7. Engine Components.
+0,2,2,Item Component Description
+0,2,2,0002-13
+0,2,2,EQUIPMENT DATA
+0,2,2,Table 8. RIB Equipment Data.
+0,2,2,Hull Material Aluminum
+0,2,2,Inflatable Tube Material Polyurethane
+0,2,2,Electrical System:
+0,2,2,"Battery, Type 12 Voltage (V) Marine Battery"
+0,2,2,"Battery, Number 5"
+0,2,2,Circuit Breakers:
+0,2,2,1x50A Bilge Pumps
+0,2,2,"3x80A House, Port, Starboard Batteries"
+0,2,2,1x40A Spare
+0,2,2,Controls:
+0,2,2,Throttle Electronic
+0,2,2,Steering Hydraulic
+0,2,2,Capacities:
+0,2,2,0002-14
+0,2,2,EQUIPMENT DATA - Continued
+0,2,2,Table 8. RIB Equipment Data - Continued.
+0,2,2,Engine:
+0,2,2,Model E250Z
+0,2,2,"Type 6-cylinder, 2-stroke"
+0,2,2,Peak Output 250 HP @ 5500 RPM
+0,2,2,Idle Speed 450-550 RPM
+0,2,2,Maximum RPM 6000 RPM
+0,2,2,Rotation – Port Counter Clockwise
+0,2,2,Rotation – Starboard Clockwise
+0,2,2,"Fuel Type Gasoline, Unleaded"
+0,2,2,Trailer:
+0,2,2,Model WS8M-180
+0,2,2,Axles 3 Axles
+0,2,2,Tire Size 245/75R16
+0,2,2,Material Aluminum
+0,2,2,Weights:
+0,2,2,0002-15
+0,2,2,EQUIPMENT DATA - Continued
+0,2,2,Table 8. RIB Equipment Data - Continued.
+0,2,2,END OF WORK PACKAGE
+0,2,2,0002-16
+0,2,2,OPERATOR
+0,3,2,THEORY OF OPERATION
+0,3,2,INTRODUCTION
+0,3,2,DRIVE SYSTEM
+0,3,2,ELECTRICAL SYSTEM
+0,3,2,END OF WORK PACKAGE
+0,3,2,0003-1/blank
+0,3,2,CHAPTER 2
+0,0,3,FOR
+0,0,3,RIGID INFLATABLE BOAT (RIB)
+0,0,3,TM 5-1940-328-10
+0,0,3,OPERATOR INSTRUCTIONS
+0,1,3,CONTROLS AND INDICATORS
+0,1,3,Key Control/Indicator Function
+0,1,3,HOUSE BREAKER
+0,1,3,AMP
+0,1,3,24 HOUR POWER
+0,1,3,AMP
+0,1,3,STBD ENGINE BATTERY SWITCH
+0,1,3,Figure 2. Control Panel Control Switches.
+0,1,3,Table 2. Control Panel Switches.
+0,1,3,Key Control/Indicator Function
+0,1,3,Figure 3. Operating Switch Panel 1.
+0,1,3,Table 3. Operation Switch Panel 1.
+0,1,3,Key Control/Indicator Function
+0,1,3,INSTRUMENT LIGHTS
+0,1,3,Figure 4. Operating Switch Panel 2.
+0,1,3,Table 4. Operation Switch Panel 2.
+0,1,3,Key Control/Indicator Function
+0,1,3,Figure 5. Cabin Console Controls.
+0,1,3,Table 5. Cabin Console Controls.
+0,1,3,Key Control/Indicator Function
+0,1,3,PORT THROTTLE LEVER
+0,1,3,0004-13
+0,1,3,Figure 7. Command Microphone.
+0,1,3,Table 7. Command Microphone Controls.
+0,1,3,Key Control/Indicator Function
+0,1,3,POWER KNOB “PWR”/SQUELCH DIAL “SQL”/ VOLUME DIAL “VOL”
+0,1,3,0004-14
+0,1,3,Table 7. Command Microphone Controls - Continued.
+0,1,3,Key Control/Indicator Function
+0,1,3,LEFT AND RIGHT KEYS ”< / >”
+0,1,3,CHANNEL 16/ CALL CHANNEL KEY
+0,1,3,UP AND DOWN/ CHANNEL SELECT KEYS “/\ / \/”
+0,1,3,MENU KEY “MENU”
+0,1,3,0004-15
+0,1,3,Figure 8. Command Microphone Display Overview.
+0,1,3,Table 8. Command Microphone Display.
+0,1,3,Key Control/Indicator Function
+0,1,3,BUSY/TRANSMIT ICON
+0,1,3,CHANNEL GROUP ICON
+0,1,3,TIME ZONE INDICATOR
+0,1,3,POSITION INDICATOR
+0,1,3,0004-17
+0,1,3,Figure 9. VHF Microphone Controls.
+0,1,3,Table 9. VHF Microphone Controls.
+0,1,3,Key Control/Indicator Function
+0,1,3,TRANSMIT POWER KEY
+0,1,3,CHANNEL 16/ CALL CHANNEL KEY
+0,1,3,END OF WORK PACKAGE
+0,1,3,0004-18
+0,1,3,OPERATOR INSTRUCTIONS
+0,2,3,INITIAL SETUP:
+0,2,3,Personnel Required Diver 12D
+0,2,3,References WP 0014 WP 0019
+0,2,3,Pre-Start Procedures
+0,2,3,WARNING
+0,2,3,Pre-Start Procedures - Continued
+0,2,3,Figure 8. Fuel Valves.
+0,2,3,Figure 9. Ignition Key.
+0,2,3,END OF WORK PACKAGE
+0,2,3,0005-7/blank
+0,2,3,OPERATOR INSTRUCTIONS
+0,3,3,INITIAL SETUP:
+0,3,3,Personnel Required Diver 12D Assistant (2)
+0,3,3,References WP 0007 WP 0008 WP 0010
+0,3,3,WARNING
+0,3,3,WARNING
+0,3,3,WARNING
+0,3,3,WARNING
+0,3,3,CAUTION
+0,3,3,Figure 4. Engine Lock Lever.
+0,3,3,WARNING
+0,3,3,CAUTION
+0,3,3,Figure 7. Snatch Block.
+0,3,3,CAUTION
+0,3,3,NOTE
+0,3,3,END OF WORK PACKAGE
+0,3,3,0006-8
+0,3,3,OPERATOR INSTRUCTIONS
+0,4,3,INITIAL SETUP:
+0,4,3,Personnel Required Diver 12D Assistant
+0,4,3,References WP 0010 WP 0021
+0,4,3,References (cont.) WP 0040 WP 0046
+0,4,3,WARNING
+0,4,3,WARNING
+0,4,3,WARNING
+0,4,3,CAUTION
+0,4,3,CAUTION
+0,4,3,END OF WORK PACKAGE
+0,4,3,0007-4
+0,4,3,OPERATOR INSTRUCTIONS
+0,5,3,INITIAL SETUP:
+0,5,3,Personnel Required Diver 12D Assistant (2)
+0,5,3,References WP 0007
+0,5,3,References (cont.) WP 0010 WP 0025
+0,5,3,DOCKING PROCEDURES
+0,5,3,WARNING
+0,5,3,WARNING
+0,5,3,WARNING
+0,5,3,WARNING
+0,5,3,CAUTION
+0,5,3,NOTE
+0,5,3,DOCKING PROCEDURES - Continued
+0,5,3,CASTING-OFF PROCEDURES.
+0,5,3,END OF WORK PACKAGE
+0,5,3,0008-7/blank
+0,5,3,OPERATOR INSTRUCTIONS
+0,6,3,INITIAL SETUP:
+0,6,3,Personnel Required Diver 12D Assistant
+0,6,3,WARNING
+0,6,3,CAUTION
+0,6,3,General Information
+0,6,3,Figure 1. Tie Down Locations.
+0,6,3,Figure 2. Cargo Tie Downs.
+0,6,3,END OF WORK PACKAGE
+0,6,3,0009-2
+0,6,3,OPERATOR INSTRUCTIONS
+0,7,3,INITIAL SETUP:
+0,7,3,Personnel Required Diver 12D
+0,7,3,References WP 0005 WP 0008
+0,7,3,References (cont.) WP 0015 WP 0022
+0,7,3,OPERATION UNDERWAY
+0,7,3,WARNING
+0,7,3,WARNING
+0,7,3,WARNING
+0,7,3,WARNING
+0,7,3,WARNING
+0,7,3,OPERATION UNDERWAY - Continued
+0,7,3,TRIMMING ENGINES
+0,7,3,CAUTION
+0,7,3,NOTE
+0,7,3,END OF WORK PACKAGE
+0,7,3,0010-3/blank
+0,7,3,OPERATOR INSTRUCTIONS
+0,8,3,INITIAL SETUP:
+0,8,3,Personnel Required Diver 12D
+0,8,3,WARNING
+0,8,3,WARNING
+0,8,3,CAUTION
+0,8,3,General Information
+0,8,3,Figure 1. Spotlight Receptacles.
+0,8,3,NOTE
+0,8,3,END OF WORK PACKAGE
+0,8,3,0011-3/blank
+0,8,3,OPERATOR INSTRUCTIONS
+0,9,3,INITIAL SETUP:
+0,9,3,Personnel Required Diver 12D
+0,9,3,WARNING
+0,9,3,CAUTION
+0,9,3,Figure 2. Control Panel Switches.
+0,9,3,END OF WORK PACKAGE
+0,9,3,0012-3/blank
+0,9,3,OPERATOR INSTRUCTIONS
+0,10,3,INITIAL SETUP:
+0,10,3,Personnel Required Diver 12D
+0,10,3,NOTE
+0,10,3,Figure 1. Vessel Systems Monitor.
+0,10,3,END OF WORK PACKAGE
+0,10,3,0013-1/blank
+0,10,3,OPERATOR INSTRUCTIONS
+0,11,3,INITIAL SETUP:
+0,11,3,Personnel Required Diver 12D
+0,11,3,References WP 0015 WP 0017 WP 0018 WP 0037
+0,11,3,MULTI-FUNCTION DISPLAY OVERVIEW
+0,11,3,CAUTION
+0,11,3,Multi-Function Display Touchscreen Operation
+0,11,3,Multi-Function Display Remote Control Operation
+0,11,3,Multi-Function Display Remote Control Operation - Continued
+0,11,3,Figure 4. Multi-Function Remote.
+0,11,3,Table 1. Multi-Function Remote.
+0,11,3,No. Key Function
+0,11,3,
+0,11,3,CANCEL/MO B
+0,11,3,Multi-Function Display Home Screen Operation
+0,11,3,NOTE
+0,11,3,Multi-Function Display Home Screen Operation - Continued
+0,11,3,Figure 8. Display Icons.
+0,11,3,Multi-Function Display Hidden Functions
+0,11,3,NOTE
+0,11,3,NOTE
+0,11,3,0014-10
+0,11,3,Multi-Function Display Hidden Functions - Continued
+0,11,3,Figure 15. Pop-up Menu
+0,11,3,Multi-Function Display Split Screen Operation
+0,11,3,Figure 19. Save Icon.
+0,11,3,Multi-Function Display Locking/Un-Locking Screen
+0,11,3,NOTE
+0,11,3,
+0,11,3,Multi-Function Display Alarm Operation
+0,11,3,0014-14
+0,11,3,Multi-Function Display Alarm Operation - Continued
+0,11,3,Figure 22. Alarm Menu.
+0,11,3,Table 3. Alarm Menu.
+0,11,3,Alarm Name Function
+0,11,3,Sea Surface Temperature Alarm:
+0,11,3,Anchor Watch Alarm:
+0,11,3,0014-15
+0,11,3,Multi-Function Display Alarm Operation - Continued
+0,11,3,Powering Off Multi-Function Display
+0,11,3,CAUTION
+0,11,3,END OF WORK PACKAGE
+0,11,3,0014-19/blank
+0,11,3,OPERATOR INSTRUCTIONS
+0,12,3,INITIAL SETUP:
+0,12,3,Personnel Required Diver 12D
+0,12,3,Equipment Condition Multi-Function Display Powered ON (WP 0014)
+0,12,3,CAUTION
+0,12,3,Figure 1. Plotter Display.
+0,12,3,Table 1. Plotter Display.
+0,12,3,Item No
+0,12,3,Key Name Function
+0,12,3,Figure 3. Plotter Display Icon.
+0,12,3,Figure 4. Plotter Display Range.
+0,12,3,Figure 6. Zoom Slider.
+0,12,3,Figure 7. Plotter Orientation Settings.
+0,12,3,END OF WORK PACKAGE
+0,12,3,0015-6
+0,12,3,OPERATOR INSTRUCTIONS
+0,13,3,INITIAL SETUP:
+0,13,3,Personnel Required Diver 12D
+0,13,3,CAUTION
+0,13,3,POINTS
+0,13,3,Entering A Point From Plotter
+0,13,3,Figure 2. Home Screen.
+0,13,3,Entering A Point At Selected Position
+0,13,3,Figure 3. New Point.
+0,13,3,Entering A Point Using Coordinates
+0,13,3,Figure 5. Numeric Keyboard.
+0,13,3,Displaying Point Information
+0,13,3,Figure 6. Point Information Menu.
+0,13,3,Moving A Point
+0,13,3,Moving A Point Using The “Long Hold” Option
+0,13,3,Moving a Point Using The “ Edit Pos” Option
+0,13,3,Figure 8. Numeric Keyboard.
+0,13,3,Deleting A Point
+0,13,3,Figure 9. Points Information Menu.
+0,13,3,Editing A Point
+0,13,3,Figure 11. Keyboard Menu.
+0,13,3,Navigating To A Point
+0,13,3,CAUTION
+0,13,3,Figure 12. Navigation Screen.
+0,13,3,Table 1. Navigation Screen.
+0,13,3,Key Graphic Icon Function
+0,13,3,Figure 13. Point Information Menu.
+0,13,3,0016-11
+0,13,3,ROUTES
+0,13,3,Figure 14. Route Icons.
+0,13,3,Table 2. Route Icons.
+0,13,3,Key Graphic Icon Function
+0,13,3,Sleeping Route
+0,13,3,Creating A New Route
+0,13,3,0016-12
+0,13,3,Creating A New Route - Continued
+0,13,3,0016-14
+0,13,3,Creating A New Route - Continued
+0,13,3,Figure 17. Route Information Window.
+0,13,3,Table 3. Route Information Menu.
+0,13,3,Key Graphic Icon Function
+0,13,3,Moving A Point In A Route
+0,13,3,0016-17
+0,13,3,Deleting a Point From a Route
+0,13,3,Deleting A Route
+0,13,3,Tap “Delete”.
+0,13,3,Navigating To A Point
+0,13,3,CAUTION
+0,13,3,0016-18
+0,13,3,Navigating To A Point - Continued
+0,13,3,Figure 25. Point Navigation Display.
+0,13,3,Table 4. Point Navigation Display.
+0,13,3,Key Graphic Icon Function
+0,13,3,Reverse Direction Of Route
+0,13,3,Tap “ Stop Nav”.
+0,13,3,Deleting All Points And Routes
+0,13,3,NOTE
+0,13,3,END OF WORK PACKAGE
+0,13,3,0016-21/blank
+0,13,3,OPERATOR INSTRUCTIONS
+0,14,3,INITIAL SETUP:
+0,14,3,Personnel Required Diver 12D
+0,14,3,Equipment Condition Multi-Function Display Powered ON (WP 0014) Radome Mast Raised (WP 0005)
+0,14,3,CAUTION
+0,14,3,Figure 1. Radar Display.
+0,14,3,Table 1. Radar Display.
+0,14,3,Item No.
+0,14,3,Key Name Function
+0,14,3,Figure 3. Radar Display Icon.
+0,14,3,Radar Transmit/Standby Mode
+0,14,3,NOTE
+0,14,3,Figure 4. TX/STBY Switch.
+0,14,3,Figure 6. Zoom Slider.
+0,14,3,Figure 7. Radar Orientation Settings.
+0,14,3,Measuring Range And Bearing From Boat To Target Using Radar
+0,14,3,END OF WORK PACKAGE
+0,14,3,0017-6
+0,14,3,OPERATOR INSTRUCTIONS
+0,15,3,INITIAL SETUP:
+0,15,3,Personnel Required Diver 12D
+0,15,3,Equipment Condition Multi-Function Display Powered ON (WP 0014)
+0,15,3,CAUTION
+0,15,3,Figure 1. Sonar Operation.
+0,15,3,Figure 2. Sonar Display.
+0,15,3,Table 1. Sonar Display.
+0,15,3,Item No.
+0,15,3,Key Name Function
+0,15,3,Figure 4. Sonar Display Icon.
+0,15,3,Sonar Transmit/Standby Mode
+0,15,3,Figure 5. Transmit/Standby Mode.
+0,15,3,Selecting A Frequency Using The “Pop-Up” Menu
+0,15,3,Selecting A Frequency Using The “Depth Indication Box”
+0,15,3,Figure 8. Depth Indication Box.
+0,15,3,Single Frequency Display
+0,15,3,Dual Frequency Display
+0,15,3,Figure 10. Dual Frequency Display.
+0,15,3,Bottom Zoom Display
+0,15,3,Figure 12. Bottom Zoom Display.
+0,15,3,Table 2. Bottom Zoom Display.
+0,15,3,Item No Name Function
+0,15,3,Bottom Zoom Display - Continued
+0,15,3,0018-10
+0,15,3,Bottom Lock Display
+0,15,3,Figure 14. Bottom Lock Display.
+0,15,3,Table 3. Bottom Lock Display.
+0,15,3,Item No Name Function
+0,15,3,0018-11
+0,15,3,Bottom Lock Display - Continued
+0,15,3,0018-12
+0,15,3,Bottom Discrimination Display
+0,15,3,Figure 16. Bottom Discrimination Display.
+0,15,3,END OF WORK PACKAGE
+0,15,3,0018-13/blank
+0,15,3,OPERATOR INSTRUCTIONS
+0,16,3,INITIAL SETUP:
+0,16,3,Personnel Required Diver 12D
+0,16,3,NOTE
+0,16,3,Figure 1. Command Microphone Remote.
+0,16,3,NOTE
+0,16,3,Figure 2. Command Microphone Volume Adjustment.
+0,16,3,Command Microphone Remote Transmission/Reception
+0,16,3,NOTE
+0,16,3,Command Microphone Softkeys
+0,16,3,Softkey Function Selection
+0,16,3,Figure 4. Softkey Function Selection.
+0,16,3,Softkey Programming
+0,16,3,Figure 5. Softkey Programming Selection.
+0,16,3,NOTE
+0,16,3,Emergency Channel 16
+0,16,3,Figure 7. Emergency Channel 16 Screen.
+0,16,3,Transmitting a Distress Call
+0,16,3,NOTE
+0,16,3,Figure 8. Distress Button.
+0,16,3,Cancelling a Distress Call
+0,16,3,Figure 11. Distress Call Finish Button.
+0,16,3,END OF WORK PACKAGE
+0,16,3,0019-9/blank
+0,16,3,OPERATOR INSTRUCTIONS
+0,17,3,INITIAL SETUP:
+0,17,3,Personnel Required Diver 12D
+0,17,3,Powering On The VHF Radio
+0,17,3,
+0,17,3,Figure 1. VHF Radio
+0,17,3,VHF Radio Transmission
+0,17,3,NOTE
+0,17,3,Emergency Channel 16
+0,17,3,Figure 3. VHF Channel 16 Button.
+0,17,3,Transmitting A Distress Call
+0,17,3,NOTE
+0,17,3,Figure 4. VHF Radio Distress Button.
+0,17,3,Cancelling A Distress Call
+0,17,3,Figure 7. Distress Call Finish Button.
+0,17,3,END OF WORK PACKAGE
+0,17,3,0020-5/blank
+0,17,3,OPERATOR INSTRUCTIONS
+0,18,3,INITIAL SETUP:
+0,18,3,Personnel Required Diver 12D
+0,18,3,References WP 0007 WP 0010
+0,18,3,Engine Monitor Overview
+0,18,3,Engine Monitor Overview - Continued
+0,18,3,Figure 1. Engine Monitor Display.
+0,18,3,Table 1. Engine Monitor Display.
+0,18,3,Item No.
+0,18,3,Name Function
+0,18,3,
+0,18,3,FLUID TANKS
+0,18,3,
+0,18,3,OUTBOARD
+0,18,3,Engine Monitor Overview - Continued
+0,18,3,System Faults
+0,18,3,
+0,18,3,Figure 2. System Fault Pop Up.
+0,18,3,A.M.A./S.A.F.E. Mode
+0,18,3,Winterizing Engines
+0,18,3,Winterization Preparation
+0,18,3,WARNING
+0,18,3,Figure 3. Flushing Port.
+0,18,3,Winterization Procedure
+0,18,3,NOTE
+0,18,3,END OF WORK PACKAGE
+0,18,3,0021-7/blank
+0,18,3,OPERATOR INSTRUCTIONS
+0,19,3,INITIAL SETUP:
+0,19,3,Personnel Required Diver 12D Assistant
+0,19,3,References WP 0007
+0,19,3,References (cont.) WP 0014 WP 0015 WP 0018 WP 0025
+0,19,3,Selecting An Anchor Site
+0,19,3,WARNING
+0,19,3,WARNING
+0,19,3,WARNING
+0,19,3,WARNING
+0,19,3,WARNING
+0,19,3,CAUTION
+0,19,3,Selecting An Anchor Site - Continued
+0,19,3,CAUTION
+0,19,3,NOTE
+0,19,3,Determining Anchor Line Length
+0,19,3,CAUTION
+0,19,3,CAUTION
+0,19,3,Dropping Anchor
+0,19,3,CAUTION
+0,19,3,Weighing Anchor
+0,19,3,END OF WORK PACKAGE
+0,19,3,0022-10
+0,19,3,OPERATOR INSTRUCTIONS
+0,20,3,INITIAL SETUP:
+0,20,3,Personnel Required Diver 12D
+0,20,3,Lowering Dive Platform
+0,20,3,WARNING
+0,20,3,WARNING
+0,20,3,CAUTION
+0,20,3,NOTE
+0,20,3,Lowering Dive Platform - Continued
+0,20,3,Lowering Dive Platform - Continued
+0,20,3,Stowing Dive Platform
+0,20,3,END OF WORK PACKAGE
+0,20,3,0023-3/blank
+0,20,3,OPERATOR INSTRUCTIONS
+0,21,3,INITIAL SETUP:
+0,21,3,"Materials/Parts Tape, Antiseizing (WP 0063, Table 1, Item 9)"
+0,21,3,Personnel Required Diver 12D Assistant (2)
+0,21,3,References WP 0010
+0,21,3,WARNING
+0,21,3,WARNING
+0,21,3,WARNING
+0,21,3,WARNING
+0,21,3,WARNING
+0,21,3,CAUTION
+0,21,3,CAUTION
+0,21,3,NOTE
+0,21,3,Figure 13. Trailer Electrical Cables.
+0,21,3,END OF WORK PACKAGE
+0,21,3,0024-11/blank
+0,21,3,OPERATOR INSTRUCTIONS
+0,22,3,INITIAL SETUP:
+0,22,3,Personnel Required Diver 12D
+0,22,3,Equipment Condition Engines Started (WP 0007)
+0,22,3,ENGINE SHUTDOWN PROCEDURES
+0,22,3,WARNING
+0,22,3,WARNING
+0,22,3,WARNING
+0,22,3,CAUTION
+0,22,3,ENGINE SHUTDOWN PROCEDURES - Continued
+0,22,3,Figure 4. Battery Switches.
+0,22,3,END OF WORK PACKAGE
+0,22,3,0025-3/blank
+0,22,3,OPERATOR INSTRUCTIONS
+0,23,3,INITIAL SETUP:
+0,23,3,Personnel Required Diver 12D Assistant
+0,23,3,WARNING
+0,23,3,Attaching Trailer
+0,23,3,WARNING
+0,23,3,Detaching Trailer
+0,23,3,END OF WORK PACKAGE
+0,23,3,0026-10
+0,23,3,OPERATOR INSTRUCTIONS
+0,24,3,INITIAL SETUP:
+0,24,3,Personnel Required Diver 12D Assistant
+0,24,3,References WP 0010
+0,24,3,Equipment Condition Boat Underway (WP 0010)
+0,24,3,Towing Another Vessel
+0,24,3,WARNING
+0,24,3,WARNING
+0,24,3,WARNING
+0,24,3,WARNING
+0,24,3,CAUTION
+0,24,3,Towing Another Vessel - Continued
+0,24,3,END OF WORK PACKAGE
+0,24,3,0027-2
+0,24,3,OPERATOR INSTRUCTIONS
+0,25,3,INITIAL SETUP:
+0,25,3,Personnel Required Diver 12D Assistant
+0,25,3,INSTALLATION
+0,25,3,NOTE
+0,25,3,INSTALLATION - Continued
+0,25,3,Figure 5. Rear Panel.
+0,25,3,REMOVAL
+0,25,3,Figure 10. Cabin Enclosure Storage Bag.
+0,25,3,END OF WORK PACKAGE
+0,25,3,0028-10
+0,25,3,OPERATOR INSTRUCTIONS
+0,26,3,INITIAL SETUP:
+0,26,3,"Materials/Parts Inhibitor, Corrosion, Petroleum Fuel (WP 0063, Table 1, Item 4)"
+0,26,3,Personnel Required Diver 12D
+0,26,3,References WP 0005
+0,26,3,References (cont.) WP 0021 WP 0028 WP 0055
+0,26,3,Equipment Condition Boat Trailered (WP 0024)
+0,26,3,WARNING
+0,26,3,END OF WORK PACKAGE
+0,26,3,0029-2
+0,26,3,OPERATOR INSTRUCTIONS
+0,27,3,INITIAL SETUP:
+0,27,3,Personnel Required Diver 12D Assistant
+0,27,3,References WP 0007
+0,27,3,References (cont.) WP 0021 WP 0040
+0,27,3,EMERGENCY STARTING PROCEDURES
+0,27,3,WARNING
+0,27,3,WARNING
+0,27,3,WARNING
+0,27,3,WARNING
+0,27,3,CAUTION
+0,27,3,NOTE
+0,27,3,EMERGENCY STARTING PROCEDURES - Continued
+0,27,3,General Information
+0,27,3,
+0,27,3,END OF WORK PACKAGE
+0,27,3,0030-2
+0,27,3,OPERATOR INSTRUCTIONS
+0,28,3,INITIAL SETUP:
+0,28,3,Personnel Required Diver 12D Assistant
+0,28,3,Emergency Dewatering Procedures
+0,28,3,WARNING
+0,28,3,WARNING
+0,28,3,Emergency Dewatering Procedures - Continued
+0,28,3,END OF WORK PACKAGE
+0,28,3,0031-4
+0,28,3,OPERATOR INSTRUCTIONS
+0,29,3,INITIAL SETUP:
+0,29,3,Personnel Required Diver 12D
+0,29,3,Paralleling Batteries
+0,29,3,CAUTION
+0,29,3,END OF WORK PACKAGE
+0,29,3,0032-1/blank
+0,29,3,OPERATOR INSTRUCTIONS
+0,30,3,INITIAL SETUP:
+0,30,3,Personnel Required Diver 12D
+0,30,3,Equipment Condition Boat Underway (WP 0010)
+0,30,3,Emergency Procedures During Capsizing
+0,30,3,WARNING
+0,30,3,WARNING
+0,30,3,Emergency Procedures During Capsizing - Continued
+0,30,3,General Information
+0,30,3,END OF WORK PACKAGE
+0,30,3,0033-2
+0,30,3,OPERATOR INSTRUCTIONS
+0,31,3,INITIAL SETUP:
+0,31,3,Personnel Required Diver 12D
+0,31,3,References WP 0031
+0,31,3,Equipment Condition Boat Underway (WP 0010)
+0,31,3,Emergency Procedures During Collision
+0,31,3,WARNING
+0,31,3,WARNING
+0,31,3,Emergency Procedures During Collision - Continued
+0,31,3,General Information
+0,31,3,Figure 1. Command Microphone Distress Button.
+0,31,3,END OF WORK PACKAGE
+0,31,3,0034-2
+0,31,3,OPERATOR INSTRUCTIONS
+0,32,3,INITIAL SETUP:
+0,32,3,Personnel Required Diver 12D
+0,32,3,References WP 0021
+0,32,3,Equipment Condition Boat Underway (WP 0010)
+0,32,3,Emergency Procedures During Running Aground
+0,32,3,WARNING
+0,32,3,WARNING
+0,32,3,CAUTION
+0,32,3,Emergency Procedures During Running Aground - Continued
+0,32,3,NOTE
+0,32,3,Figure 1. Command Microphone Distress Button.
+0,32,3,END OF WORK PACKAGE
+0,32,3,0035-2
+0,32,3,OPERATOR INSTRUCTIONS
+0,33,3,INITIAL SETUP:
+0,33,3,Personnel Required Diver 12D
+0,33,3,References WP 0010 WP 0019
+0,33,3,References (cont.) WP 0022 WP 0025
+0,33,3,Equipment Condition Boat Underway (WP 0010)
+0,33,3,Complete Loss Of Steering Control
+0,33,3,WARNING
+0,33,3,WARNING
+0,33,3,WARNING
+0,33,3,WARNING
+0,33,3,END OF WORK PACKAGE
+0,33,3,0036-1/blank
+0,33,3,OPERATOR INSTRUCTIONS
+0,34,3,INITIAL SETUP:
+0,34,3,"Life, Marker Distress (WP 0062, Table 2, Item 20) Hook, Boat (WP 0062, Table 2, Item 15)"
+0,34,3,Personnel Required Diver 12D Assistant
+0,34,3,Emergency Procedures During Man Overboard
+0,34,3,WARNING
+0,34,3,WARNING
+0,34,3,WARNING
+0,34,3,Emergency Procedures During Man Overboard - Continued
+0,34,3,Shout “MAN OVERBOARD”.
+0,34,3,NOTE
+0,34,3,Emergency Procedures During Man Overboard - Continued
+0,34,3,Figure 2. Command Microphone Distress Button.
+0,34,3,END OF WORK PACKAGE
+0,34,3,0037-3/blank
+0,34,3,OPERATOR INSTRUCTIONS
+0,35,3,INITIAL SETUP:
+0,35,3,Personnel Required Diver 12D Assistant
+0,35,3,References WP 0004
+0,35,3,References (cont.) WP 0011 WP 0015 WP 0019 WP 0028 WP 0033
+0,35,3,WARNING
+0,35,3,WARNING
+0,35,3,WARNING
+0,35,3,WARNING
+0,35,3,General Information
+0,35,3,Cold Weather Operation
+0,35,3,High Seas Operation
+0,35,3,Night Operation
+0,35,3,Fog Operation
+0,35,3,END OF WORK PACKAGE
+0,35,3,0038-2
+0,35,3,OPERATOR INSTRUCTIONS
+0,36,3,Introduction
+0,36,3,Decal Guide
+0,36,3,Figure 1. Anchor Storage Decal.
+0,36,3,Figure 2. Bollard Strength Decal.
+0,36,3,Figure 3. Fuel Load Caution Decal.
+0,36,3,Decal Guide - Continued
+0,36,3,Figure 4. Danger Carbon Monoxide Decal.
+0,36,3,Figure 6. Fire Extinguisher Decal.
+0,36,3,Decal Guide - Continued
+0,36,3,Figure 7. Fuel Equivalent Decal.
+0,36,3,Figure 8. Fuel Fill Decal.
+0,36,3,Figure 9. FWD Tow Provision Decal.
+0,36,3,Figure 10. Manual Bilge Pump Decal.
+0,36,3,Decal Guide - Continued
+0,36,3,Figure 11. Port Fuel Shutoff Decal.
+0,36,3,Figure 12. Starboard Fuel Shutoff Decal.
+0,36,3,Figure 13. Starter Damage Warning Decal.
+0,36,3,Decal Guide - Continued
+0,36,3,Figure 14. Trailer Tie Down Capacity Decal.
+0,36,3,Figure 15. System Leak Inspection Warning Decal.
+0,36,3,Figure 16. Bilge Compartment Gasoline Vapors Warning Decal.
+0,36,3,Decal Guide - Continued
+0,36,3,Figure 18. Torque Requirements Warning Decal.
+0,36,3,Decal Guide - Continued
+0,36,3,Figure 19. Tank Vent Blower Caution Decal.
+0,36,3,Figure 21. Spinning Handle Warning Decal.
+0,36,3,Decal Guide - Continued
+0,36,3,Figure 22. Manifold Access.
+0,36,3,Figure 23. Boat Hook.
+0,36,3,END OF WORK PACKAGE
+0,36,3,0039-8
+0,36,3,CHAPTER 3
+0,0,4,FOR
+0,0,4,RIGID INFLATABLE BOAT (RIB)
+0,0,4,TM 5-1940-328-10
+0,0,4,OPERATOR TROUBLESHOOTING
+0,1,4,INTRODUCTION
+0,1,4,NOTE
+0,1,4,TROUBLESHOOTING SYMPTOM INDEX
+0,1,4,Malfunction/Symptom Troubleshooting Procedure
+0,1,4,Bilge Pump Will Not Operate............................................................................................................... WP 0041
+0,1,4,Engine Producing Excessive Exhaust Smoke..................................................................................... WP 0044
+0,1,4,Engine Surges / Runs Rough / Low Power......................................................................................... WP 0045
+0,1,4,Engine Temperature High................................................................... ................................................ WP 0046
+0,1,4,Engine Vibration Excessive................................................................................................................. WP 0047
+0,1,4,Engine Will Not Crank......................................................................... ................................................ WP 0042
+0,1,4,Engines Will Not Tilt............................................................................ ................................................ WP 0048
+0,1,4,Lights Will Not Operate....................................................................... ................................................ WP 0050
+0,1,4,Navigation Horn Inoperative................................................................................................................ WP 0049
+0,1,4,Spot Light Will Not Operate................................................................................................................. WP 0051
+0,1,4,END OF WORK PACKAGE
+0,1,4,0040-1/blank
+0,1,4,OPERATOR TROUBLESHOOTING
+0,2,4,INITIAL SETUP:
+0,2,4,Personnel Required Diver 12D
+0,2,4,References WP 0002 WP 0004 WP 0013
+0,2,4,References (cont.) WP 0032 WP 0054 WP 0059
+0,2,4,General Information
+0,2,4,TROUBLESHOOTING PROCEDURE
+0,2,4,SYMPTOM
+0,2,4,CORRECTIVE ACTION
+0,2,4,NOTE
+0,2,4,MALFUNCTION
+0,2,4,CORRECTIVE ACTION
+0,2,4,MALFUNCTION
+0,2,4,CORRECTIVE ACTION
+0,2,4,
+0,2,4,MALFUNCTION
+0,2,4,CORRECTIVE ACTION
+0,2,4,WARNING
+0,2,4,MALFUNCTION
+0,2,4,CORRECTIVE ACTION
+0,2,4,MALFUNCTION
+0,2,4,CORRECTIVE ACTION
+0,2,4,END OF WORK PACKAGE
+0,2,4,0041-3/blank
+0,2,4,OPERATOR TROUBLESHOOTING
+0,3,4,INITIAL SETUP:
+0,3,4,Personnel Required Diver 12D
+0,3,4,References WP 0002 WP 0004 WP 0007 WP 0013 WP 0021
+0,3,4,References (cont.) WP 0030 WP 0032 WP 0054 FO-1
+0,3,4,General Information
+0,3,4,TROUBLESHOOTING PROCEDURE
+0,3,4,SYMPTOM
+0,3,4,MALFUNCTION
+0,3,4,CORRECTIVE ACTION
+0,3,4,MALFUNCTION
+0,3,4,CORRECTIVE ACTION
+0,3,4,
+0,3,4,MALFUNCTION
+0,3,4,CORRECTIVE ACTION
+0,3,4,
+0,3,4,MALFUNCTION
+0,3,4,CORRECTIVE ACTION
+0,3,4,MALFUNCTION
+0,3,4,CORRECTIVE ACTION
+0,3,4,MALFUNCTION
+0,3,4,CORRECTIVE ACTION
+0,3,4,MALFUNCTION
+0,3,4,CORRECTIVE ACTION
+0,3,4,MALFUNCTION
+0,3,4,CORRECTIVE ACTION
+0,3,4,WARNING
+0,3,4,END OF WORK PACKAGE
+0,3,4,0042-3/blank
+0,3,4,OPERATOR TROUBLESHOOTING
+0,4,4,INITIAL SETUP:
+0,4,4,Personnel Required Diver 12D
+0,4,4,References WP 0002 WP 0004 WP 0005 WP 0007 WP 0013 WP 0021 WP 0032
+0,4,4,References (cont.)
+0,4,4,WP 0054 WP 0055 WP 0058 FO-1
+0,4,4,General Information
+0,4,4,TROUBLESHOOTING PROCEDURE
+0,4,4,SYMPTOM
+0,4,4,MALFUNCTION
+0,4,4,CORRECTIVE ACTION
+0,4,4,
+0,4,4,MALFUNCTION
+0,4,4,CORRECTIVE ACTION
+0,4,4,MALFUNCTION
+0,4,4,CORRECTIVE ACTION
+0,4,4,
+0,4,4,MALFUNCTION
+0,4,4,CORRECTIVE ACTION
+0,4,4,MALFUNCTION
+0,4,4,CORRECTIVE ACTION
+0,4,4,WARNING
+0,4,4,MALFUNCTION
+0,4,4,CORRECTIVE ACTION
+0,4,4,MALFUNCTION
+0,4,4,Water/Contaminated Fuel
+0,4,4,CORRECTIVE ACTION
+0,4,4,END OF WORK PACKAGE
+0,4,4,0043-3/blank
+0,4,4,OPERATOR TROUBLESHOOTING
+0,5,4,INITIAL SETUP:
+0,5,4,Personnel Required Diver 12D
+0,5,4,References WP 0007
+0,5,4,References (cont.) WP 0021 WP 0054 WP 0058 FO-1
+0,5,4,General Information
+0,5,4,TROUBLESHOOTING PROCEDURE
+0,5,4,WARNING
+0,5,4,NOTE
+0,5,4,SYMPTOM
+0,5,4,MALFUNCTION
+0,5,4,CORRECTIVE ACTION
+0,5,4,MALFUNCTION
+0,5,4,Water/Contaminated Fuel
+0,5,4,CORRECTIVE ACTION
+0,5,4,END OF WORK PACKAGE
+0,5,4,0044-2
+0,5,4,OPERATOR TROUBLESHOOTING
+0,6,4,INITIAL SETUP:
+0,6,4,Personnel Required Diver 12D
+0,6,4,References WP 0002 WP 0005 WP 0007
+0,6,4,References (cont.) WP 0021 WP 0054 WP 0055 WP 0058 FO-1
+0,6,4,General Information
+0,6,4,TROUBLESHOOTING PROCEDURE
+0,6,4,SYMPTOM
+0,6,4,MALFUNCTION
+0,6,4,CORRECTIVE ACTION
+0,6,4,
+0,6,4,MALFUNCTION
+0,6,4,CORRECTIVE ACTION
+0,6,4,MALFUNCTION
+0,6,4,CORRECTIVE ACTION
+0,6,4,
+0,6,4,MALFUNCTION
+0,6,4,CORRECTIVE ACTION
+0,6,4,MALFUNCTION
+0,6,4,Water/Contaminated Fuel
+0,6,4,CORRECTIVE ACTION
+0,6,4,MALFUNCTION
+0,6,4,CORRECTIVE ACTION
+0,6,4,
+0,6,4,MALFUNCTION
+0,6,4,Propeller(s) damaged
+0,6,4,CORRECTIVE ACTION
+0,6,4,END OF WORK PACKAGE
+0,6,4,0045-3/blank
+0,6,4,OPERATOR TROUBLESHOOTING
+0,7,4,INITIAL SETUP:
+0,7,4,Personnel Required Diver 12D
+0,7,4,References WP 0002 WP 0007
+0,7,4,References (cont.) WP 0010 WP 0021 WP 0025 WP 0054 FO-1
+0,7,4,General Information
+0,7,4,TROUBLESHOOTING PROCEDURE
+0,7,4,SYMPTOM
+0,7,4,MALFUNCTION
+0,7,4,CORRECTIVE ACTION
+0,7,4,
+0,7,4,MALFUNCTION
+0,7,4,CORRECTIVE ACTION
+0,7,4,MALFUNCTION
+0,7,4,CORRECTIVE ACTION
+0,7,4,
+0,7,4,MALFUNCTION
+0,7,4,CORRECTIVE ACTION
+0,7,4,MALFUNCTION
+0,7,4,CORRECTIVE ACTION
+0,7,4,END OF WORK PACKAGE
+0,7,4,0046-2
+0,7,4,OPERATOR TROUBLESHOOTING
+0,8,4,INITIAL SETUP:
+0,8,4,Personnel Required Diver 12D
+0,8,4,References WP 0007 WP 0021 WP 0054
+0,8,4,General Information
+0,8,4,TROUBLESHOOTING PROCEDURE
+0,8,4,SYMPTOM
+0,8,4,MALFUNCTION
+0,8,4,CORRECTIVE ACTION
+0,8,4,
+0,8,4,MALFUNCTION
+0,8,4,CORRECTIVE ACTION
+0,8,4,MALFUNCTION
+0,8,4,Propeller(s) damaged
+0,8,4,CORRECTIVE ACTION
+0,8,4,MALFUNCTION
+0,8,4,CORRECTIVE ACTION
+0,8,4,MALFUNCTION
+0,8,4,CORRECTIVE ACTION
+0,8,4,
+0,8,4,END OF WORK PACKAGE
+0,8,4,0047-2
+0,8,4,OPERATOR TROUBLESHOOTING
+0,9,4,INITIAL SETUP:
+0,9,4,Personnel Required Diver 12D
+0,9,4,References WP 0002 WP 0004 WP 0006 WP 0010 WP 0013 WP 0021
+0,9,4,References (cont.) WP 0032 WP 0030 WP 0054 FO-1
+0,9,4,General Information
+0,9,4,TROUBLESHOOTING PROCEDURE
+0,9,4,SYMPTOM
+0,9,4,MALFUNCTION
+0,9,4,CORRECTIVE ACTION
+0,9,4,MALFUNCTION
+0,9,4,CORRECTIVE ACTION
+0,9,4,MALFUNCTION
+0,9,4,CORRECTIVE ACTION
+0,9,4,
+0,9,4,MALFUNCTION
+0,9,4,CORRECTIVE ACTION
+0,9,4,MALFUNCTION
+0,9,4,CORRECTIVE ACTION
+0,9,4,MALFUNCTION
+0,9,4,CORRECTIVE ACTION
+0,9,4,MALFUNCTION
+0,9,4,CORRECTIVE ACTION
+0,9,4,WARNING
+0,9,4,MALFUNCTION
+0,9,4,CORRECTIVE ACTION
+0,9,4,END OF WORK PACKAGE
+0,9,4,0048-3/blank
+0,9,4,OPERATOR TROUBLESHOOTING
+0,10,4,INITIAL SETUP:
+0,10,4,Personnel Required Diver 12D
+0,10,4,References WP 0002 WP 0004 WP 0013
+0,10,4,References (cont.) WP 0032 WP 0054
+0,10,4,General Information
+0,10,4,TROUBLESHOOTING PROCEDURE
+0,10,4,SYMPTOM
+0,10,4,MALFUNCTION
+0,10,4,CORRECTIVE ACTION
+0,10,4,
+0,10,4,MALFUNCTION
+0,10,4,CORRECTIVE ACTION
+0,10,4,NOTE
+0,10,4,MALFUNCTION
+0,10,4,CORRECTIVE ACTION
+0,10,4,MALFUNCTION
+0,10,4,CORRECTIVE ACTION
+0,10,4,MALFUNCTION
+0,10,4,CORRECTIVE ACTION
+0,10,4,
+0,10,4,MALFUNCTION
+0,10,4,CORRECTIVE ACTION
+0,10,4,WARNING
+0,10,4,MALFUNCTION
+0,10,4,CORRECTIVE ACTION
+0,10,4,END OF WORK PACKAGE
+0,10,4,0049-3/blank
+0,10,4,OPERATOR TROUBLESHOOTING
+0,11,4,INITIAL SETUP:
+0,11,4,Personnel Required Diver 12D
+0,11,4,References WP 0002 WP 0004 WP 0013
+0,11,4,References (cont.) WP 0032 WP 0054
+0,11,4,General Information
+0,11,4,TROUBLESHOOTING PROCEDURE
+0,11,4,SYMPTOM
+0,11,4,MALFUNCTION
+0,11,4,CORRECTIVE ACTION
+0,11,4,MALFUNCTION
+0,11,4,CORRECTIVE ACTION
+0,11,4,MALFUNCTION
+0,11,4,CORRECTIVE ACTION
+0,11,4,NOTE
+0,11,4,MALFUNCTION
+0,11,4,CORRECTIVE ACTION
+0,11,4,MALFUNCTION
+0,11,4,CORRECTIVE ACTION
+0,11,4,
+0,11,4,MALFUNCTION
+0,11,4,Light(s) damaged
+0,11,4,CORRECTIVE ACTION
+0,11,4,MALFUNCTION
+0,11,4,CORRECTIVE ACTION
+0,11,4,WARNING
+0,11,4,END OF WORK PACKAGE
+0,11,4,0050-3/blank
+0,11,4,OPERATOR TROUBLESHOOTING
+0,12,4,INITIAL SETUP:
+0,12,4,Personnel Required Diver 12D
+0,12,4,References WP 0002 WP 0004 WP 0011
+0,12,4,References (cont.) WP 0013 WP 0032 WP 0054
+0,12,4,General Information
+0,12,4,TROUBLESHOOTING PROCEDURE
+0,12,4,SYMPTOM
+0,12,4,MALFUNCTION
+0,12,4,CORRECTIVE ACTION
+0,12,4,
+0,12,4,MALFUNCTION
+0,12,4,CORRECTIVE ACTION
+0,12,4,NOTE
+0,12,4,MALFUNCTION
+0,12,4,CORRECTIVE ACTION
+0,12,4,MALFUNCTION
+0,12,4,CORRECTIVE ACTION
+0,12,4,MALFUNCTION
+0,12,4,CORRECTIVE ACTION
+0,12,4,MALFUNCTION
+0,12,4,CORRECTIVE ACTION
+0,12,4,MALFUNCTION
+0,12,4,CORRECTIVE ACTION
+0,12,4,MALFUNCTION
+0,12,4,CORRECTIVE ACTION
+0,12,4,
+0,12,4,MALFUNCTION
+0,12,4,CORRECTIVE ACTION
+0,12,4,WARNING
+0,12,4,END OF WORK PACKAGE
+0,12,4,0051-3/blank
+0,12,4,OPERATOR TROUBLESHOOTING
+0,13,4,INITIAL SETUP:
+0,13,4,Personnel Required Diver 12D
+0,13,4,References WP 0002 WP 0004 WP 0013
+0,13,4,References (cont.) WP 0032 WP 0054
+0,13,4,General Information
+0,13,4,TROUBLESHOOTING PROCEDURE
+0,13,4,NOTE
+0,13,4,SYMPTOM
+0,13,4,MALFUNCTION
+0,13,4,CORRECTIVE ACTION
+0,13,4,MALFUNCTION
+0,13,4,CORRECTIVE ACTION
+0,13,4,NOTE
+0,13,4,MALFUNCTION
+0,13,4,CORRECTIVE ACTION
+0,13,4,MALFUNCTION
+0,13,4,CORRECTIVE ACTION
+0,13,4,
+0,13,4,MALFUNCTION
+0,13,4,CORRECTIVE ACTION
+0,13,4,WARNING
+0,13,4,END OF WORK PACKAGE
+0,2,5,FOR
+0,2,5,RIGID INFLATABLE BOAT (RIB)
+0,2,5,TM 5-1940-328-10
+0,2,5,OPERATOR MAINTENANCE PREVENTIVE MAINTENANCE CHECKS AND SERVICES (PMCS) INTRODUCTION
+0,2,5,GENERAL
+0,2,5,EXPLANATION OF PMCS TABLE COLUMNS
+0,2,5,HOW TO PERFORM PMCS
+0,2,5,HOW TO PERFORM PMCS - Continued
+0,2,5,CORROSION PREVENTION AND CONTROL (CPC)
+0,2,5,CORROSION PREVENTION AND CONTROL (CPC) - Continued
+0,2,5,FLUID LEAKAGE
+0,2,5,WARNING
+0,2,5,END OF WORK PACKAGE
+0,2,5,0053-3/blank
+0,2,5,OPERATOR MAINTENANCE PREVENTIVE MAINTENANCE CHECKS AND SERVICES (PMCS)
+0,2,5,INITIAL SETUP:
+0,2,5,"Hose, Nonmetallic (WP 0062, Table 2, Item 16) Nozzle, Garden Hose (WP 0062, Table 2, Item"
+0,2,5,"Needle, Inflation (WP 0062, Table 2, Item 21) Gage, Tire Pressure, Self Contained (WP 0062, Table 2, Item 13)"
+0,2,5,"Materials/Parts Brake Fluid, Automotive (WP 0063, Table 1, Item"
+0,2,5,"Lubricating Oil, Engine (WP 0063, Table 1, Item"
+0,2,5,"Battery, Nonrechargeable (WP 0063, Table 1, Item 1) Pin,Cotter (WP 0063, Table 1, Item 6)"
+0,2,5,Personnel Required Diver 12D
+0,2,5,References WP 0004 WP 0010 WP 0011 WP 0012 WP 0013 WP 0014 WP 0019 WP 0020 WP 0021 WP 0023 WP 0026 WP 0056 WP 0057 WP 0058 WP 0059 WP 0062
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,WARNING
+0,2,5,Before Basic Issue Items (BII)
+0,2,5,Before Cargo Tie Downs
+0,2,5,Before Trailer Safety Cables
+0,2,5,Figure 4. Trailer Safety Cables.
+0,2,5,Before Trailer 12/24V Electrical
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Before Trailer Winch Assembly
+0,2,5,WARNING
+0,2,5,WARNING
+0,2,5,WARNING
+0,2,5,Before Trailer Leveling Support Jack
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Figure 9. Leveling Support Jack.
+0,2,5,WARNING
+0,2,5,Before
+0,2,5,WARNING
+0,2,5,Uneven wear.
+0,2,5,Figure 13. Marker Lights.
+0,2,5,Before Fire Extinguishers
+0,2,5,Before Personal Flotation Devices (PFDs)
+0,2,5,0054-13
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Figure 17. PFD Device Unzipped.
+0,2,5,Before Boat Dive Platform Assembly
+0,2,5,Figure 18. Dive Platform Assembly.
+0,2,5,0054-14
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Before Boat Collar
+0,2,5,NOTE
+0,2,5,Before Boat Door Assemblies
+0,2,5,Figure 24. Door Assembly.
+0,2,5,Before Boat Hatch Assemblies
+0,2,5,Figure 27. Hatch Vents.
+0,2,5,WARNING
+0,2,5,0054-23
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Before Boat Navigation Horns
+0,2,5,WARNING
+0,2,5,WARNING
+0,2,5,Before Boat Command Microphone Remote
+0,2,5,Before Boat Siren System
+0,2,5,WARNING
+0,2,5,0054-25
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Before Boat Lighting
+0,2,5,WARNING
+0,2,5,Before
+0,2,5,Before Boat Engine Monitor
+0,2,5,0054-28
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Figure 37. Helm Hydraulic Connections
+0,2,5,Figure 38. Helm.
+0,2,5,Before Boat Throttle Lever Assembly
+0,2,5,(WP 0004).
+0,2,5,(WP 4).
+0,2,5,Before Boat Start/Stop Switch
+0,2,5,0054-30
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Figure 40. Start/Stop Switch.
+0,2,5,Before Boat Marine Batteries
+0,2,5,WARNING
+0,2,5,Before Boat Bilge Pumps
+0,2,5,Figure 43. Transducer.
+0,2,5,Before Boat Fuel Tank Vent Blower
+0,2,5,Figure 45. Blower Hose.
+0,2,5,0054-34
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Before Boat Fuel Filters
+0,2,5,WARNING
+0,2,5,0054-35
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Figure 46. Fuel Filter.
+0,2,5,0054-36
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,WARNING
+0,2,5,0054-38
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,WARNING
+0,2,5,0054-40
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Before Boat Fuel Cap
+0,2,5,WARNING
+0,2,5,0054-41
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Figure 49. Fuel Cap.
+0,2,5,Before Boat Buoy Light And Mounting Bracket
+0,2,5,Before Boat Scupper Drain Assemblies
+0,2,5,Figure 52. Scupper Drain Assembly.
+0,2,5,Before Boat Hull Anodes
+0,2,5,NOTE
+0,2,5,Figure 53. Hull Anode.
+0,2,5,Before Boat Rear Ladder Assembly
+0,2,5,Figure 54. Rear Ladder Assembly.
+0,2,5,Before Boat Stern Plugs
+0,2,5,Before Engine Propeller
+0,2,5,WARNING
+0,2,5,0054-47
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Figure 59. Propeller.
+0,2,5,NOTE
+0,2,5,Before Engine Mounting Hardware
+0,2,5,NOTE
+0,2,5,Figure 62. Engine Mounting Hardware.
+0,2,5,0054-50
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Figure 65. Trailer V-Bunk.
+0,2,5,Figure 67. Stern Bilge Discharge Port.
+0,2,5,WARNING
+0,2,5,CAUTION
+0,2,5,0054-56
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,After Engine Flushing
+0,2,5,WARNING
+0,2,5,WARNING
+0,2,5,CAUTION
+0,2,5,WARNING
+0,2,5,Uneven wear
+0,2,5,After Boat Bilge Pumps
+0,2,5,0054-60
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,WARNING
+0,2,5,After Engine Propeller
+0,2,5,WARNING
+0,2,5,0054-62
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,Figure 77. Propeller.
+0,2,5,Monthly Port Engine Anodes
+0,2,5,NOTE
+0,2,5,Figure 80. Port Engine Anodes.
+0,2,5,Monthly Starboard Engine Anodes
+0,2,5,NOTE
+0,2,5,Quarterly PFD
+0,2,5,Figure 85. Buoy Light.
+0,2,5,0054-67
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,101 Annually Boat Marine Battery
+0,2,5,WARNING
+0,2,5,0054-68
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,CAUTION
+0,2,5,NOTE
+0,2,5,103 Annually Forward Bilge Pump
+0,2,5,0054-69
+0,2,5,ITEM NO. INTERVAL
+0,2,5,ITEM TO BE CHECKED OR SERVICED PROCEDURE
+0,2,5,EQUIPMENT NOT READY/ AVAILABLE IF:
+0,2,5,0054-70
+0,2,5,Table 2. Lubricants.
+0,2,5,COMPONENT FLUID APPROXIMATE CAPACITY INTERVAL
+0,2,5,BRAKE RESERVOIR
+0,2,5,"BRAKE FLUID, AUTOMOTIVE"
+0,2,5,0054-71
+0,2,5,Table 3 .  Replacement Parts.
+0,2,5,ITEM NO.
+0,2,5,PART NUMBER/ (CAGEC)
+0,2,5,NATIONAL STOCK NUMBER (NSN) NOMENCLATURE QTY
+0,2,5,"0100-397-071-10 (1EE70) COVER,DISPLAY 1"
+0,2,5,"0768400 (1UVT5) COVER,DISPLAY 1"
+0,2,5,1019490 (75535) 4030-01–251–7677 SHACKLE 1
+0,2,5,"1250300 (344K9) 5342-01-322-4701 CAP,FILLER OPENING 1"
+0,2,5,3313004000 (D6046) 6230-12-312-4633 SEARCHLIGHT 1
+0,2,5,"COU200K-2516 (0VSH3) 2540-01-619-0120 COUPLER,DRAWBAR,BALL SOCKET 1"
+0,2,5,"COU09557-95 (0VSH3) 2540-01-583-2840 COUPLER,DRAWBAR,RING 1"
+0,2,5,"EE2–901 (0NM47) 3940-01–656–6524 SLING,EYE 1"
+0,2,5,"HM-195B (62526) MIC,COMMAND,REMOTE 1"
+0,2,5,"T-5813 (55HC0) HEADSET,WINDMUFF 1"
+0,2,5,T-5901-BLK (55HC0) HEADSET 1
+0,2,5,"T-5905-17 (55HC0) HEADSET,CORD 1"
+0,2,5,"WS8M-STR-AFT- SPARE (0VSH3) TIE DOWN,CARGO,VEHICLE 1"
+0,2,5,"WS8M-STR-FWD- SPARE (0VSH3) TIE DOWN,CARGO,VEHICLE 1"
+0,2,5,WSMIC321 (10402)
+0,2,5,"MICROPHONE,SIREN 1"
+0,2,5,END OF WORK PACKAGE
+0,2,5,0054-72
+0,2,5,CHAPTER 5
+0,2,5,OPERATOR MAINTENANCE
+0,2,5,FOR
+0,2,5,RIGID INFLATABLE BOAT (RIB)
+0,2,5,TM 5-1940-328-10
+0,1,6,INITIAL SETUP:
+0,1,6,Personnel Required Diver 12D Assistant
+0,1,6,References WP 0004
+0,1,6,WARNING
+0,1,6,CAUTION
+0,1,6,NOTE
+0,1,6,END OF WORK PACKAGE
+0,1,6,0055-2
+0,1,6,OPERATOR MAINTENANCE
+0,2,6,INITIAL SETUP:
+0,2,6,"Materials/Parts Brake Fluid, Automotive (WP 0063, Table 1, Item"
+0,2,6,"Glove, Patient Examining (WP 0063, Table 1, Item 7)"
+0,2,6,Personnel Required Diver 12D
+0,2,6,Filling Brake Fluid
+0,2,6,WARNING
+0,2,6,WARNING
+0,2,6,NOTE
+0,2,6,Filling Brake Fluid - Continued
+0,2,6,
+0,2,6,END OF WORK PACKAGE
+0,2,6,0056-2
+0,2,6,OPERATOR MAINTENANCE
+0,3,6,INITIAL SETUP:
+0,3,6,"Materials/Parts Lubricating Oil, Engine (WP 0063, Table 1, Item"
+0,3,6,"Glove, Patient Examining (WP 0063, Table 1, Item 7)"
+0,3,6,Personnel Required Diver 12D
+0,3,6,References WP 0002
+0,3,6,Filling Oil Reservoirs
+0,3,6,WARNING
+0,3,6,Filling Oil Reservoirs - Continued
+0,3,6,END OF WORK PACKAGE
+0,3,6,0057-2
+0,3,6,OPERATOR MAINTENANCE
+0,4,6,INITIAL SETUP:
+0,4,6,"Materials/Parts Glove, Patient Examining (WP 0063, Table 1, Item 3) Rag, Wiping (WP 0063, Table 1, Item 7)"
+0,4,6,Personnel Required Diver 12D
+0,4,6,WARNING
+0,4,6,END OF WORK PACKAGE
+0,4,6,0058-2
+0,4,6,OPERATOR MAINTENANCE
+0,5,6,INITIAL SETUP:
+0,5,6,
+0,5,6,Personnel Required Diver 12D
+0,5,6,Removal
+0,5,6,Figure 1. Bilge Pump Cover.
+0,5,6,END OF TASK
+0,5,6,Installation
+0,5,6,END OF TASK
+0,5,6,END OF WORK PACKAGE
+0,5,6,0059-1/blank
+0,5,6,OPERATOR MAINTENANCE
+0,6,6,INITIAL SETUP:
+0,6,6,"Materials/Parts Chock, Wheel -Track (WP 0062, Table 2, Item"
+0,6,6,"Wrench, Socket (WP 0062, Table 2, Item 31) Jack, Dolly Type, Mechanical (WP 0062, Table 2, Item 14) Tire, Wheel, Assembly (WP 0062, Table 2, Item"
+0,6,6,
+0,6,6,Personnel Required Diver 12D Assistant
+0,6,6,References WP 0026
+0,6,6,WARNING
+0,6,6,WARNING
+0,6,6,CAUTION
+0,6,6,Removal
+0,6,6,Figure 7. Wheel Assembly.
+0,6,6,END OF TASK
+0,6,6,Installation
+0,6,6,Figure 11. Bottle Jack.
+0,6,6,0060-10
+0,6,6,Installation - Continued
+0,6,6,CAUTION
+0,6,6,NOTE
+0,6,6,END OF TASK
+0,6,6,END OF WORK PACKAGE
+0,6,6,0060-12
+0,6,6,CHAPTER 6
+0,0,7,FOR
+0,0,7,RIGID INFLATABLE BOAT (RIB)
+0,0,7,TM 5-1940-328-10
+0,0,7,OPERATOR
+0,1,7,REFERENCES
+0,1,7,NOTE
+0,1,7,FORMS
+0,1,7,DA Form 2408-9 Equipment Control Record
+0,1,7,DA PAM 750-8 The Army Maintenance Management System (TAMMS) User's Manual
+0,1,7,SF-368 Product Quality Deficiency Report
+0,1,7,TRAINING CIRCULAR
+0,1,7,TC 4-02.1 First Aid
+0,1,7,MISCELLANEOUS PUBLICATIONS
+0,1,7,CTA 8-100 Army Medical Department Expendable/Durable Items
+0,1,7,TM 38-250 Preparing Hazardous Materials For Military Air Shipment
+0,1,7,MISCELLANEOUS PUBLICATIONS - Continued
+0,1,7,TM 750–244–3 Procedures For Destruction Of Equipment To Prevent Enemy Use (Mobility Equipment Command)
+0,1,7,END OF WORK PACKAGE
+0,1,7,0061-2
+0,1,7,OPERATOR
+0,2,7,INTRODUCTION
+0,2,7,Scope
+0,2,7,General
+0,2,7,RIB 8 Meter Army Rigid Inflatable Boat
+0,2,7,Table 1.  COMPONENTS OF END ITEM LIST.
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,"BOAT, RIGID INFLATABLE 1102610F-OC-A (0ZFD4) EA 1 2805-01–666–7770 OUTBOARD MOTOR, GASOLINE E250Z (1UVT5) EA 1 2805-01–666–7748 OUTBOARD MOTOR, GASOLINE E250ZC (1UVT5) EA 1 TM 5-1940-328-10 0062 0062-2 RIB RIB RIB Table 1.  COMPONENTS OF END ITEM LIST - Continued."
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,2330-01–666–7839
+0,2,7,"TRAILER, BOAT MOVING WS8M-180 (0VSH3)"
+0,2,7,EA 1
+0,2,7,RIB
+0,2,7,Table 2.  BASIC ISSUE ITEMS (BII) LIST.
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,"2040-01–406–6850 ANCHOR, MARINE, FLUKED FX16 (0JU33) EA 1 2540-01–494–0078 CHOCK, WHEEL-TRACK RC815 (032T9) EA 2 4210-01–586–7150 EXTINGUISHER, FIRE 25614 (57658) EA 3 TM 5-1940-328-10 0062 0062-4 RIB RIB RIB Table 2.  BASIC ISSUE ITEMS (BII) LIST - Continued."
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,"2040-01–677–6609 FENDER, MARINE 22-830-435 (0B530) EA 2 4020-01–678–4202 FIBER ROPE ASSEMBLY, SINGLE LEG (Anchor Line) ALB121C1 (0S4H4) EA 1 4020-01–678–4468 FIBER ROPE ASSEMBLY, SINGLE LEG (Fender Whip) 302110006BK-1 (41830) EA 2 TM 5-1940-328-10 0062 0062-5 RIB RIB RIB Table 2.  BASIC ISSUE ITEMS (BII) LIST - Continued."
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,"4020-01–647–7113 FIBER ROPE ASSEMBLY, SINGLE LEG (Mooring Line) 302116050BK-1 (41830) AY 4 4020-01–678–6007 FIBER ROPE ASSEMBLY, SINGLE LEG (Tow Line) WS8M402097 (0ZFD4) EA 1 6545-00–922–1200 FIRST AID KIT, UTILITY 6545-00-922-1200 (89875) KT 1 TM 5-1940-328-10 0062 0062-6 RIB RIB RIB Table 2.  BASIC ISSUE ITEMS (BII) LIST - Continued."
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,"4220-00–153–7279 FLAG, DIVERS 9209 (25609) EA 1 8345-00–130–2892 FLAG, NATIONAL 5–1–17 (22571) EA 1 8345-00–935–0445 FLAG, SIGNAL 8345–00–935–0445 (83421) EA 1 TM 5-1940-328-10 0062 0062-7 RIB RIB RIB Table 2.  BASIC ISSUE ITEMS (BII) LIST - Continued."
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,"4910-01–121–9847 GAGE,TIRE PRESSURE,SELF- CONTAINED 1314BK (61125) EA 1 6685-01–657–2940 GAGE, PRESSURE, DIAL INDICATING BC-PGAUGE (1CAY9) EA 1 2040-01–579–7489 HOOK, BOAT 55170 (62840) EA 1 TM 5-1940-328-10 0062 0062-8 RIB RIB RIB Table 2.  BASIC ISSUE ITEMS (BII) LIST - Continued."
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,"4720-01–447–8759 HOSE, NONMETALLIC (Garden Hose) 829501-1001 (58358) LG 1 4910-01–548–6073 JACK, DOLLY TYPE, MECHANICAL (Trailer Jack) HZDJACBTL06TON (0VSH3) EA 1 5120-01–460–3223 KEY, SOCKET HEAD SCREW (T-Wrench 5/32) 13109 (31734) EA 1 TM 5-1940-328-10 0062 0062-9 RIB RIB RIB Table 2.  BASIC ISSUE ITEMS (BII) LIST - Continued."
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,"4220-01–654–3706 LIFE PRESERVER, VEST MD3183 (1CJ91) EA 6 6230-01–677–5342 LIGHT, MARKER, DISTRESS (Buoy Light) 1820 (7T351) EA 1 7810-01–678–4236 NEEDLE, INFLATION 31010 (3FJT7) PG 1 TM 5-1940-328-10 0062 0062-10 RIB RIB RIB Table 2.  BASIC ISSUE ITEMS (BII) LIST - Continued."
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,"5110-01–576–3400 NIPPERS, END CUTTING 350860 (1UVT5) EA 1 4730-01–261–5065 NOZZLE, GARDEN HOSE 7239T11 (39428) EA 1 4730-01–596–4760 PLUG, PIPE (Transom Plug) 4452K124 (0KVE6) EA 1 TM 5-1940-328-10 0062 0062-11 RIB RIB RIB Table 2.  BASIC ISSUE ITEMS (BII) LIST - Continued."
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,"4320-01–678–5474 PUMP, INFLATING, MANUAL (Collar Pump) WS8MKPUMP (0ZFD4) EA 1 4320-01–677–8594 PUMP, INFLATING, MANUAL (Hub Hand Pump) 1005 (3FJT7) EA 1 4320-01–678–0372 PUMP, RECIPROCATING (Bilge Pump) 915F (0PVF8) EA 1 TM 5-1940-328-10 0062 0062-12 RIB RIB RIB Table 2.  BASIC ISSUE ITEMS (BII) LIST - Continued."
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,"4220-01–613–2657 RING BUOY, LIFESAVING G0–24 (7T351) EA 1 2530-01–564–1677 TIRE, WHEEL, ASSEMBLY TIAGT160245E-6GV (0VSH3) EA 1 5120-01–349–1442 WRENCH, BOX AND OPEN END, COMBINATION (Wrench 14mm) OEXM14B (55719) EA 1 TM 5-1940-328-10 0062 0062-13 RIB RIB RIB Table 2.  BASIC ISSUE ITEMS (BII) LIST - Continued."
+0,2,7,(2) (3) (4) (5) (6)
+0,2,7,ITEM NUMBER
+0,2,7,NATIONAL STOCK NUMBER (NSN) AND ILLUSTRATION
+0,2,7,"DESCRIPTION, PART NUMBER/(CAGEC)"
+0,2,7,USABLE ON CODE U/I
+0,2,7,QTY RQR
+0,2,7,5120-01–678–2411
+0,2,7,"WRENCH, SOCKET (Lug Wrench) 35633 (75204)"
+0,2,7,EA 1
+0,2,7,END OF WORK PACKAGE
+0,2,7,0062-14
+0,2,7,RIB
+0,2,7,OPERATOR
+0,3,7,INTRODUCTION
+0,3,7,Scope
+0,3,7,(2) (3) (4) (5)
+0,3,7,ITEM NO. LEVEL
+0,3,7,NATIONAL STOCK NUMBER (NSN)
+0,3,7,"ITEM NAME, DESCRIPTION, PART NUMBER/ (CAGEC) U/I"
+0,3,7,"C 6135 -00-835-7210 BATTERY,NONRECHARGEABLE (D-Cell) 13A (80204) PG"
+0,3,7,"C 9150-01-052-6762 BRAKE FLUID,AUTOMOTIVE (Dot-3) FC9313 (63477) QT"
+0,3,7,"C 6515-01-535-6182 GLOVE,PATIENT EXAMINING PRO31762 (0PMN3) PG"
+0,3,7,"C 6850-01-633-0847 INHIBITOR,CORROSION,PETROLEUM FUEL 766210 (1UVT5) CO"
+0,3,7,"C 9150-01-581-2427 LUBRICATING OIL,ENGINE 0779711 (1UVT5) GL"
+0,3,7,"C 5315-01–518–7397 PIN,COTTER 98338A190 (39428) EA"
+0,3,7,"C 7920-00-205-1711 RAG,WIPING 1711 (1VQE1) BE"
+0,3,7,"C 5975-00-984-6582 STRAP,TIE DOWN,ELECTRICAL COMPONENTS MS3367-1-0 (0U583) HD"
+0,3,7,"C 8030-00-889-3535 TAPE,ANTISEIZING 11072502 (18876)"
+0,3,7,EA
+0,3,7,END OF WORK PACKAGE
+0,3,7,0063-2
+0,3,7,DATE
+0,3,7,RECOMMENDED CHANGES TO PUBLICATIONS AND BLANK FORMS
+0,3,7,INSTRUCTIONS FOR SUBMITTING THE DA FORM 2028
+0,3,7,DETERMINING AND SELECTING THE PROPER PROPONENT
+0,3,7,TM Number
+0,3,7,TELEPHONE NUMBER/DSN/ EXTENSION
+0,3,7,"TYPED NAME, GRADE/RANK, POSITION TITLE, E-MAIL ADDRESS"
+0,3,7,PREVIOUS EDITIONS ARE OBSOLETE.
+0,3,7,PART I - ALL PUBLICATIONS (EXCEPT RPSTL) AND BLANK FORMS PUBLICATION/ FORM DATE
+0,3,7,TITLE
+0,3,7,SIGNATURE
+0,3,7,"DA FORM 2028, JUN 2018"
+0,3,7,SAMPLE
+0,3,7,PART II - REPAIR PARTS AND SPECIAL TOOLS LISTS
+0,3,7,DATE:
+0,3,7,"DA FORM 2028, JUN 2018"
+0,3,7,TM number
+0,3,7,PUBLICATION/ FORM DATE
+0,3,7,TITLE
+0,3,7,Your name
+0,3,7,TELEPHONE NUMBER/DSN/ EXTENSION
+0,3,7,"TYPED NAME, GRADE OR TITLE, AND E-MAIL ADDRESS SIGNATURE"
+0,3,7,SAMPLE
+0,3,7,DATE
+0,3,7,RECOMMENDED CHANGES TO PUBLICATIONS AND BLANK FORMS
+0,3,7,INSTRUCTIONS FOR SUBMITTING THE DA FORM 2028
+0,3,7,DETERMINING AND SELECTING THE PROPER PROPONENT
+0,3,7,TELEPHONE NUMBER/DSN/ EXTENSION
+0,3,7,"TYPED NAME, GRADE/RANK, POSITION TITLE, E-MAIL ADDRESS"
+0,3,7,PREVIOUS EDITIONS ARE OBSOLETE.
+0,3,7,PART I - ALL PUBLICATIONS (EXCEPT RPSTL) AND BLANK FORMS PUBLICATION/ FORM DATE
+0,3,7,TITLE
+0,3,7,SIGNATURE
+0,3,7,"DA FORM 2028, JUN 2018"
+0,3,7,TM 5-1940-328-10
+0,3,7,JUNE 2 019
+0,3,7,OPERATOR MANUAL FOR RIGID INFLATABLE BOAT NSN 1940-01–646–7565 NSW8MTR-OPEN-001
+0,3,7,PART II - REPAIR PARTS AND SPECIAL TOOLS LISTS
+0,3,7,DATE:
+0,3,7,"DA FORM 2028, JUN 2018"
+0,3,7,PUBLICATION/ FORM DATE
+0,3,7,TITLE
+0,3,7,TELEPHONE NUMBER/DSN/ EXTENSION
+0,3,7,"TYPED NAME, GRADE OR TITLE, AND E-MAIL ADDRESS SIGNATURE"
+0,3,7,OPERATOR MANUAL FOR RIGID INFLATABLE BOAT NSN 1940-01–646–7565 NSW8MTR-OPEN-001
+0,3,7,JUNE 2 019
+0,3,7,TM 5-1940-328-10
+0,3,7,DATE
+0,3,7,RECOMMENDED CHANGES TO PUBLICATIONS AND BLANK FORMS
+0,3,7,INSTRUCTIONS FOR SUBMITTING THE DA FORM 2028
+0,3,7,DETERMINING AND SELECTING THE PROPER PROPONENT
+0,3,7,TELEPHONE NUMBER/DSN/ EXTENSION
+0,3,7,"TYPED NAME, GRADE/RANK, POSITION TITLE, E-MAIL ADDRESS"
+0,3,7,PREVIOUS EDITIONS ARE OBSOLETE.
+0,3,7,PART I - ALL PUBLICATIONS (EXCEPT RPSTL) AND BLANK FORMS PUBLICATION/ FORM DATE
+0,3,7,TITLE
+0,3,7,SIGNATURE
+0,3,7,"DA FORM 2028, JUN 2018"
+0,3,7,TM 5-1940-328-10
+0,3,7,JUNE 2 019
+0,3,7,OPERATOR MANUAL FOR RIGID INFLATABLE BOAT NSN 1940-01–646–7565 NSW8MTR-OPEN-001
+0,3,7,PART II - REPAIR PARTS AND SPECIAL TOOLS LISTS
+0,3,7,DATE:
+0,3,7,"DA FORM 2028, JUN 2018"
+0,3,7,PUBLICATION/ FORM DATE
+0,3,7,TITLE
+0,3,7,TELEPHONE NUMBER/DSN/ EXTENSION
+0,3,7,"TYPED NAME, GRADE OR TITLE, AND E-MAIL ADDRESS SIGNATURE"
+0,3,7,OPERATOR MANUAL FOR RIGID INFLATABLE BOAT NSN 1940-01–646–7565 NSW8MTR-OPEN-001
+0,3,7,JUNE 2 019
+0,3,7,TM 5-1940-328-10
+0,3,7,DATE
+0,3,7,RECOMMENDED CHANGES TO PUBLICATIONS AND BLANK FORMS
+0,3,7,INSTRUCTIONS FOR SUBMITTING THE DA FORM 2028
+0,3,7,DETERMINING AND SELECTING THE PROPER PROPONENT
+0,3,7,TELEPHONE NUMBER/DSN/ EXTENSION
+0,3,7,"TYPED NAME, GRADE/RANK, POSITION TITLE, E-MAIL ADDRESS"
+0,3,7,PREVIOUS EDITIONS ARE OBSOLETE.
+0,3,7,PART I - ALL PUBLICATIONS (EXCEPT RPSTL) AND BLANK FORMS PUBLICATION/ FORM DATE
+0,3,7,TITLE
+0,3,7,SIGNATURE
+0,3,7,"DA FORM 2028, JUN 2018"
+0,3,7,TM 5-1940-328-10
+0,3,7,JUNE 2 019
+0,3,7,OPERATOR MANUAL FOR RIGID INFLATABLE BOAT NSN 1940-01–646–7565 NSW8MTR-OPEN-001
+0,3,7,PART II - REPAIR PARTS AND SPECIAL TOOLS LISTS
+0,3,7,DATE:
+0,3,7,"DA FORM 2028, JUN 2018"
+0,3,7,PUBLICATION/ FORM DATE
+0,3,7,TITLE
+0,3,7,TELEPHONE NUMBER/DSN/ EXTENSION
+0,3,7,"TYPED NAME, GRADE OR TITLE, AND E-MAIL ADDRESS SIGNATURE"
+0,3,7,OPERATOR MANUAL FOR RIGID INFLATABLE BOAT NSN 1940-01–646–7565 NSW8MTR-OPEN-001
+0,3,7,JUNE 2 019
+0,3,7,TM 5-1940-328-10
+0,3,7,Official:
+0,3,7,1913651
+0,3,7,June 2019
+0,3,7,TM 5-1940-328-10
+0,3,7,Code
+0,3,7,Remote Control Circuit/ Sensor
+0,3,7,Single
+0,3,7,Dual
+0,3,7,Critical
+0,3,7,Evinrude Digital Touch
+0,3,7,Screen Display
+0,3,7,Audible Alarm
+0,3,7,Indicator LED's
+0,3,7,Fault Information/ Corrective Action
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Code 15 Lever Calibration
+0,3,7,Error
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Code 18 PRVT
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,Remote Control Fault Codes
+0,3,7,FO-1.  EMM Fault Code Chart
+0,3,7,FP-1/blank
+0,3,7,Code
+0,3,7,Remote Control Circuit/ Sensor
+0,3,7,Single
+0,3,7,Dual
+0,3,7,Critical
+0,3,7,Evinrude Digital Touch
+0,3,7,Screen Display
+0,3,7,Audible Alarm
+0,3,7,Indicator LED's
+0,3,7,Fault Information/ Corrective Action
+0,3,7,
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Code 31 Main Power
+0,3,7,Fault
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Code 32 Accessory
+0,3,7,Power Fault
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Code 33 Ground Fault
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Code 34 Accessory
+0,3,7,Ground Fault
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Neutral
+0,3,7,Remote Control Fault Codes
+0,3,7,FO-1.  EMM Fault Code Chart
+0,3,7,FP-3/blank
+0,3,7,Code
+0,3,7,EMM Circuit/ Sensor
+0,3,7,Internal
+0,3,7,Sensor
+0,3,7,S.A.F.E
+0,3,7,Shut
+0,3,7,Down
+0,3,7,Evinrude Digital
+0,3,7,Touch Screen
+0,3,7,Display
+0,3,7,SystemCheck
+0,3,7,Display
+0,3,7,Time To Activate
+0,3,7,Sensor: Circuit Voltage / Resistance (0) / Information
+0,3,7,
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,Immediate
+0,3,7,
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,X
+0,3,7,Engine
+0,3,7,
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Engine
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Engine
+0,3,7,
+0,3,7,Start-in-gear
+0,3,7,Check Engine
+0,3,7,
+0,3,7,Winterization activated
+0,3,7,All LEDs Flashing
+0,3,7,
+0,3,7,X seconds
+0,3,7,
+0,3,7,X seconds
+0,3,7,EMM Temperature < -22 ° F (-30° C).
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Temp
+0,3,7,
+0,3,7,X
+0,3,7,Battery
+0,3,7,
+0,3,7,Battery
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Temp
+0,3,7,Water Temp/ Hot
+0,3,7,(Flashing) seconds
+0,3,7,
+0,3,7,X
+0,3,7,Temp
+0,3,7,Water Temp/ Hot
+0,3,7,(Flashing) seconds
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Oil
+0,3,7,
+0,3,7,X
+0,3,7,Oil
+0,3,7,
+0,3,7,X
+0,3,7,Oil
+0,3,7,
+0,3,7,Engine
+0,3,7,
+0,3,7,X
+0,3,7,Temp
+0,3,7,
+0,3,7,Temp
+0,3,7,
+0,3,7,Temp seconds
+0,3,7,
+0,3,7,Temp
+0,3,7,
+0,3,7,X seconds
+0,3,7,
+0,3,7,X seconds
+0,3,7,
+0,3,7,X seconds
+0,3,7,Outboard Fault Codes
+0,3,7,FO-1.  EMM Fault Code Chart
+0,3,7,FP-5/blank
+0,3,7,Code
+0,3,7,EMM Circuit/ Sensor
+0,3,7,Internal
+0,3,7,Sensor
+0,3,7,S.A.F.E
+0,3,7,Shut
+0,3,7,Down
+0,3,7,Evinrude Digital
+0,3,7,Touch Screen
+0,3,7,Display
+0,3,7,SystemCheck
+0,3,7,Display
+0,3,7,Time To Activate
+0,3,7,Sensor: Circuit Voltage / Resistance (0) / Information
+0,3,7,
+0,3,7,Temp
+0,3,7,
+0,3,7,Temp seconds
+0,3,7,
+0,3,7,Temp seconds
+0,3,7,
+0,3,7,Engine
+0,3,7,
+0,3,7,X
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,(Flashing) seconds
+0,3,7,
+0,3,7,Engine minutes
+0,3,7,
+0,3,7,Engine minutes
+0,3,7,
+0,3,7,Temp
+0,3,7,
+0,3,7,Temp seconds
+0,3,7,
+0,3,7,Temp
+0,3,7,
+0,3,7,X
+0,3,7,Temp
+0,3,7,
+0,3,7,
+0,3,7,
+0,3,7,X instances
+0,3,7,
+0,3,7,X
+0,3,7,Engine
+0,3,7,
+0,3,7,Engine
+0,3,7,
+0,3,7,Engine
+0,3,7,
+0,3,7,X seconds
+0,3,7,
+0,3,7,X seconds
+0,3,7,
+0,3,7,X seconds
+0,3,7,
+0,3,7,Engine
+0,3,7,
+0,3,7,Engine
+0,3,7,101-106
+0,3,7,Engine
+0,3,7,RPM)
+0,3,7,112
+0,3,7,113
+0,3,7,114
+0,3,7,115
+0,3,7,Outboard Fault Codes
+0,3,7,FO-1.  EMM Fault Code Chart
+0,3,7,FP-7/blank
+0,3,7,Code
+0,3,7,EMM Circuit/ Sensor
+0,3,7,Internal
+0,3,7,Sensor
+0,3,7,S.A.F.E
+0,3,7,Shut
+0,3,7,Down
+0,3,7,Evinrude Digital
+0,3,7,Touch Screen
+0,3,7,Display
+0,3,7,SystemCheck
+0,3,7,Display
+0,3,7,Time To Activate
+0,3,7,Sensor: Circuit Voltage / Resistance (0) / Information
+0,3,7,117
+0,3,7,X
+0,3,7,X
+0,3,7,Oil
+0,3,7,132
+0,3,7,X
+0,3,7,Engine
+0,3,7,133
+0,3,7,X
+0,3,7,Engine
+0,3,7,134
+0,3,7,Engine
+0,3,7,136
+0,3,7,X
+0,3,7,Engine
+0,3,7,Temperature second
+0,3,7,137
+0,3,7,X
+0,3,7,Engine
+0,3,7,140
+0,3,7,141
+0,3,7,153
+0,3,7,X
+0,3,7,Engine
+0,3,7,154
+0,3,7,Engine seconds
+0,3,7,155
+0,3,7,Engine seconds
+0,3,7,156
+0,3,7,157
+0,3,7,Engine
+0,3,7,158
+0,3,7,Engine
+0,3,7,159
+0,3,7,160
+0,3,7,161
+0,3,7,Engine
+0,3,7,162
+0,3,7,ETC Shut-down
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,163
+0,3,7,164
+0,3,7,165
+0,3,7,166
+0,3,7,167
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,168
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,172
+0,3,7,X
+0,3,7,Engine
+0,3,7,Outboard Fault Codes
+0,3,7,Electronic Throttle Controller (ETC)
+0,3,7,FO-1.  EMM Fault Code Chart
+0,3,7,FP-9/blank
+0,3,7,Code
+0,3,7,EMM Circuit/ Sensor
+0,3,7,Internal
+0,3,7,Sensor
+0,3,7,S.A.F.E
+0,3,7,Shut
+0,3,7,Down
+0,3,7,Evinrude Digital
+0,3,7,Touch Screen
+0,3,7,Display
+0,3,7,SystemCheck
+0,3,7,Display
+0,3,7,Time To Activate
+0,3,7,Sensor: Circuit Voltage / Resistance (0) / Information
+0,3,7,173
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,174
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,175
+0,3,7,X
+0,3,7,Engine
+0,3,7,179
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,180
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,181
+0,3,7,X
+0,3,7,Engine
+0,3,7,182
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,183
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,191
+0,3,7,X
+0,3,7,Engine
+0,3,7,195
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,196
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,197
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,198
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,199
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,Immediate
+0,3,7,200
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,Immediate
+0,3,7,201
+0,3,7,ESC Position Sensors OOC
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,203
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,204
+0,3,7,X
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,<2 seconds
+0,3,7,Outboard Fault Codes
+0,3,7,Electronic Throttle Controller (ETC)
+0,3,7,Electronic Shift Controller (ESC)
+0,3,7,FO-1.  EMM Fault Code Chart
+0,3,7,FP-11/blank
+0,3,7,Code
+0,3,7,EMM Circuit/ Sensor
+0,3,7,Internal
+0,3,7,Sensor
+0,3,7,S.A.F.E
+0,3,7,Shut
+0,3,7,Down
+0,3,7,Evinrude Digital
+0,3,7,Touch Screen
+0,3,7,Display
+0,3,7,System Check
+0,3,7,Display
+0,3,7,Time To Activate
+0,3,7,Sensor: Circuit Voltage / Resistance (0) / Information
+0,3,7,205
+0,3,7,ESC System Critical Fault
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,207
+0,3,7,X
+0,3,7,Engine
+0,3,7,Check Engine
+0,3,7,211
+0,3,7,Engine
+0,3,7,216
+0,3,7,Engine
+0,3,7,217
+0,3,7,Engine
+0,3,7,218
+0,3,7,Engine
+0,3,7,220
+0,3,7,Engine
+0,3,7,221
+0,3,7,Engine
+0,3,7,215
+0,3,7,Engine
+0,3,7,FO-1.  EMM Fault Code Chart
+0,3,7,FP-13/blank
+0,3,7,213
+0,3,7,Engine
+0,3,7,214
+0,3,7,Engine
+0,3,7,Outboard Fault Codes
+0,3,7,Electronic Shift Controller (ESC)
+0,3,7,Dynamic Power Steering (DPS)
+0,3,7,212
+0,3,7,Engine
+0,3,7,THE METRIC SYSTEM AND EQUIVALENTS
+0,3,7,APPROXIMATE CONVERSION FACTORS
+0,3,7,Linear Measure
+0,3,7,Centimeter = 0 Millimeters = 0.0 Meters = 0.3937 Inches
+0,3,7,Meter = 00 Centimeters = 000 Millimeters = 39.37 Inches
+0,3,7,Kilometer = 000 Meters = 0.62 Miles
+0,3,7,Weights
+0,3,7,Gram = 0.00 Kilograms = 000 Milligrams = 0.035 Ounces
+0,3,7,Kilogram = 000 Grams = 2.2 Pounds
+0,3,7,Metric Ton = 000 Kilograms =  Megagram = . Short Tons
+0,3,7,Liquid Measure
+0,3,7,Milliliter = 0.00 Liters = 0.0338 Fluid Ounces Liter = 000 Milliliters = 33.82 Fluid Ounces
+0,3,7,Square Measure
+0,3,7,Sq Centimeter = 00 Sq Millimeters = 0.55 Sq Inches
+0,3,7,"Sq Meter = 0,000 Sq Centimeters = 0.76 Sq Feet"
+0,3,7,"Sq Kilometer = ,000,000 Sq Meters = 0.0386 Sq Miles"
+0,3,7,Cubic Measure
+0,3,7,"Cu Centimeter = ,000 Cu Millimeters = 0.06 Cu Inches"
+0,3,7,"Cu Meter = ,000,000 Cu Centimeters = 35.3 Cu Feet"
+0,3,7,Temperature
+0,3,7,9/5 C° +32 = F°
+0,3,7,To Change To Multiply By
+0,3,7,Inches Centimeters 2.540
+0,3,7,Feet Meters 0.305
+0,3,7,Yards Meters 0.914
+0,3,7,Miles Kilometers 1.609
+0,3,7,Sq Inches Sq Centimeters 6.451
+0,3,7,Sq Feet Sq Meters 0.093
+0,3,7,Sq Yards Sq Meters 0.836
+0,3,7,Sq Miles Sq Kilometers 2.590
+0,3,7,Acres Sq Hectometers 0.405
+0,3,7,Cubic Feet Cubic Meters 0.028
+0,3,7,Cubic Yards Cubic Meters 0.765
+0,3,7,Fluid Ounces Milliliters 29.573
+0,3,7,Pints Liters 0.473
+0,3,7,Quarts Liters 0.946
+0,3,7,Gallons Liters 3.785
+0,3,7,Ounces Grams 28.349
+0,3,7,Pounds Kilograms 0.454
+0,3,7,Short Tons Metric Tons 0.907
+0,3,7,Pound-Feet Newton-Meters 1.356
+0,3,7,Kilopascals 6.895
+0,3,7,To Change To Multiply By
+0,3,7,Centimeters Inches 0.394
+0,3,7,Meters Feet 3.280
+0,3,7,Meters Yards 1.094
+0,3,7,Kilometers Miles 0.621
+0,3,7,Sq Centimeters Sq Inches 0.155
+0,3,7,Sq Meters Sq Feet 10.764
+0,3,7,Sq Meters Sq Yards 1.196
+0,3,7,Sq Kilometers Sq Miles 0.386
+0,3,7,Sq Hectometers Acres 2.471
+0,3,7,Cubic Meters Cubic Feet 35.315
+0,3,7,Cubic Meters Cubic Yards 1.308
+0,3,7,Milliliters Fluid Ounces 0.034
+0,3,7,Liters Pints 2.113
+0,3,7,Liters Quarts 1.057
+0,3,7,Liters Gallons 0.264
+0,3,7,Grams Ounces 0.035
+0,3,7,Kilograms Pounds 2.205
+0,3,7,Metric Tons Short Tons 1.102
+0,3,7,Newton-Meters Pound-Feet 0.738
+0,3,7,0.145
+0,3,7,PIN 107240 -000
