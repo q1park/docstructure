@@ -61,26 +61,26 @@ def _sparse_scores(word_scores, src, shape=None):
         shape = tuple(x.max()+1 for x in all_idxs)
     return torch.sparse_coo_tensor(all_idxs, all_scores, shape)
 
-def ranked_indices(src, results):
-    cols = ['tlo', 'elo', 'page', 'score']
-    outcols = ['page', 'elo', 'tlo', 'score']
-    if len(results)==0:
-        return pd.DataFrame(columns=outcols)
+# def ranked_indices(src, results):
+#     cols = ['tlo', 'elo', 'page', 'score']
+#     outcols = ['page', 'elo', 'tlo', 'score']
+#     if len(results)==0:
+#         return pd.DataFrame(columns=outcols)
     
-    word_scores = _word_scores(results)
-    sparse_scores = _sparse_scores(word_scores, src)
+#     word_scores = _word_scores(results)
+#     sparse_scores = _sparse_scores(word_scores, src)
     
-    sparse_scores = torch.sparse.sum(sparse_scores, dim=-1)
-    sparse_scores = torch.sparse.sum(sparse_scores, dim=-1)
+#     sparse_scores = torch.sparse.sum(sparse_scores, dim=-1)
+#     sparse_scores = torch.sparse.sum(sparse_scores, dim=-1)
     
-    indices = pd.DataFrame(
-        torch.cat([sparse_scores.indices().T, sparse_scores.values().unsqueeze(0).T], dim=-1).numpy(),
-        columns=cols
-    )
-    for col in cols[:-1]:
-        indices[col] = indices[col].astype(np.int64)
-    indices = indices.sort_values(by='score', ascending=False)
-    return indices[outcols]
+#     indices = pd.DataFrame(
+#         torch.cat([sparse_scores.indices().T, sparse_scores.values().unsqueeze(0).T], dim=-1).numpy(),
+#         columns=cols
+#     )
+#     for col in cols[:-1]:
+#         indices[col] = indices[col].astype(np.int64)
+#     indices = indices.sort_values(by='score', ascending=False)
+#     return indices[outcols]
 
 def compute_sparse_score(src, results):
     ws = {k:_word_scores({k:v}) for k,v in results.items()}
@@ -98,7 +98,7 @@ def compute_sparse_score(src, results):
     scores = [x*(1/torch.max(x.values())) for x in ss3.values()]
     return torch.sparse.sum(torch.stack(scores), dim=0)
 
-def ranked_indices2(src, results):
+def ranked_indices(src, results):
     cols = ['tlo', 'elo', 'page', 'score']
     outcols = ['page', 'elo', 'tlo', 'score']
     if len(results)==0:
@@ -213,7 +213,7 @@ def run():
     results = {}
     query = st.sidebar.text_area("Enter Search Terms", 'repair engine')
     if st.sidebar.button("Search"):
-        results = query_search(query, fuzzymodels, course, srcs[course], thresh=thresh, topk=20)
+        results = query_search(query, fuzzymodels, course, srcs[course], thresh=0, topk=3)
 
     if len(results)>0:
         
@@ -231,7 +231,7 @@ def run():
     col1.header('Search Results')
     
     if len(results)>0:
-        rankings = ranked_indices2(srcs[course], results).iloc[:topn]
+        rankings = ranked_indices(srcs[course], results).iloc[:topn]
         highlight = Highlight([x[1] for y in results.values() for x in y])
         state.search = get_lil_results(srcs[course], rankings, highlight)
     
@@ -241,13 +241,13 @@ def run():
                     for line in page[1:]:
                         st.write(line)
     
-    col2.header('Full Content')
+#     col2.header('Full Content')
     
-    for page in state.full:
-        if len(page)>1:            
-            with col2.beta_expander(page[0]):
-                for line in page[1:]:
-                    st.write(line)
+#     for page in state.full:
+#         if len(page)>1:            
+#             with col2.beta_expander(page[0]):
+#                 for line in page[1:]:
+#                     st.write(line)
                     
 if __name__ == "__main__":
     run()
