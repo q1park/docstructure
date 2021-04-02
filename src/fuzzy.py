@@ -43,10 +43,13 @@ class FuzzyModels:
             output_hidden_states=True
         ).hidden_states[-1].mean(dim=1).squeeze()
                 
-    def embed(self, model, texts):
-        _embeddings = []
+    def _embed2(self, model, data):
+        return model(**data,output_hidden_states=True).hidden_states[-1].mean(dim=1).squeeze()
+    
+#     def embed(self, model, texts):
+#         _embeddings = []
 
-        for text in tqdm(texts):
-            _embeddings.append(self._embed(model, text))
-        return torch.stack(_embeddings).detach().numpy()
+#         for text in tqdm(texts):
+#             _embeddings.append(self._embed(model, text))
+#         return torch.stack(_embeddings).detach().numpy()
     

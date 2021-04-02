@@ -6,7 +6,7 @@ import re
 import numpy as np
 import pandas as pd
 
-from src.utils import load_numpy, save_numpy
+from src.utils import load_numpy, save_numpy, load_pickle, save_pickle
 
 re_spaces = re.compile(r'\s+')
 re_symbols = re.compile(r'[^a-zA-Z0-9\s\']')
@@ -80,25 +80,47 @@ class SourceTM:
         self.idx_labels = idx_labels
         self.src  = pd.read_csv(os.path.join(data_dir, 'corpus.csv')).dropna()
         
-        self.df = self._split_reindex()
+        self.df = self._load_df()
         self.idx_map = self._make_index_map()
         self.uniq_words = self._make_uniq_words()
         self.embeddings = self._load_embeddings()
         
     def _make_index_map(self):
-        return {
-            k:tuple(reversed(v)) 
-            for k,v in zip(self.df.index.tolist(), self.df[self.idx_labels].to_records(index=False))
-        }
+        idx_map_path = os.path.join(self.data_dir, 'idx_map.pkl')
+        if os.path.exists(idx_map_path):
+            return load_pickle(idx_map_path)
+        else:
+            idx_map = {
+                k:tuple(reversed(v)) 
+                for k,v in zip(self.df.index.tolist(), self.df[self.idx_labels].to_records(index=False))
+            }
+            save_pickle(idx_map, idx_map_path)
+            return idx_map
     
     def _make_uniq_words(self):
-        self.df['uncased'] = self.df.content.apply(lambda x: clean_word(x).lower())
-        return dict(
-            map(
-                lambda x: (x[0], sorted(x[1].index.tolist())), 
-                self.df.sort_values(by='uncased').groupby('uncased')
+        uwords_path = os.path.join(self.data_dir, 'uwords.pkl')
+        
+        if os.path.exists(uwords_path):
+            return load_pickle(uwords_path)
+        else:
+            self.df['uncased'] = self.df.content.apply(lambda x: clean_word(x).lower())
+            uniq_words = dict(
+                map(
+                    lambda x: (x[0], sorted(x[1].index.tolist())), 
+                    self.df.sort_values(by='uncased').groupby('uncased')
+                )
             )
-        )
+            save_pickle(uniq_words, uwords_path)
+            return uniq_words
+
+    def _load_df(self):
+        df_path = os.path.join(self.data_dir, 'df.csv')
+        if os.path.exists(df_path):
+            df = pd.read_csv(df_path).dropna()
+        else:
+            df = self._split_reindex()
+            df.to_csv(df_path, index=False)
+        return df
     
     def _split_reindex(self):
         df = split_data(self.src, splitby_word, 'group', split_col='content')
@@ -154,25 +176,47 @@ class SourceDIF:
         self.struct = pd.read_csv(os.path.join(data_dir, 'structure.csv')).fillna(-1)
         self.struct.pid = self.struct.pid.astype(np.int64)
         
-        self.df = self._split_reindex(merge_data(self.struct, self.src))
+        self.df = self._load_df()
         self.idx_map = self._make_index_map()
         self.uniq_words = self._make_uniq_words()
         self.embeddings = self._load_embeddings()
 
     def _make_index_map(self):
-        return {
-            k:tuple(reversed(v)) 
-            for k,v in zip(self.df.index.tolist(), self.df[self.idx_labels].to_records(index=False))
-        }
+        idx_map_path = os.path.join(self.data_dir, 'idx_map.pkl')
+        if os.path.exists(idx_map_path):
+            return load_pickle(idx_map_path)
+        else:
+            idx_map = {
+                k:tuple(reversed(v)) 
+                for k,v in zip(self.df.index.tolist(), self.df[self.idx_labels].to_records(index=False))
+            }
+            save_pickle(idx_map, idx_map_path)
+            return idx_map
     
     def _make_uniq_words(self):
-        self.df['uncased'] = self.df.content.apply(lambda x: clean_word(x).lower())
-        return dict(
-            map(
-                lambda x: (x[0], sorted(x[1].index.tolist())), 
-                self.df.sort_values(by='uncased').groupby('uncased')
+        uwords_path = os.path.join(self.data_dir, 'uwords.pkl')
+        
+        if os.path.exists(uwords_path):
+            return load_pickle(uwords_path)
+        else:
+            self.df['uncased'] = self.df.content.apply(lambda x: clean_word(x).lower())
+            uniq_words = dict(
+                map(
+                    lambda x: (x[0], sorted(x[1].index.tolist())), 
+                    self.df.sort_values(by='uncased').groupby('uncased')
+                )
             )
-        )
+            save_pickle(uniq_words, uwords_path)
+            return uniq_words
+    
+    def _load_df(self):
+        df_path = os.path.join(self.data_dir, 'df.csv')
+        if os.path.exists(df_path):
+            df = pd.read_csv(df_path).dropna()
+        else:
+            df = self._split_reindex(merge_data(self.struct, self.src))
+            df.to_csv(df_path, index=False)
+        return df
     
     def _split_reindex(self, df):
         df = split_data(df, splitby_word, 'line', split_col='content')

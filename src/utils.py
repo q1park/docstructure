@@ -2,6 +2,11 @@ import json
 import pickle
 import numpy as np
 
+def uniq(seq):
+    seen = set()
+    seen_add = seen.add
+    return [x for x in seq if not (x in seen or seen_add(x))]
+
 def save_numpy(data, path):
     with open(path, 'wb') as f:
         np.save(f, data)

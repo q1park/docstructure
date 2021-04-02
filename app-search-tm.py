@@ -1,122 +1,66 @@
 import streamlit as st
 import SessionState
 
-from src.sourcedoc import SourceTM, SourceDIF         
-from src.fuzzy import FuzzyModels
-
-import numpy as np
-import pandas as pd
+import glob
 import torch
+from src.sourcedoc import SourceTM, SourceDIF         
+# from src.fuzzy import FuzzyModels
+from src.search import query_search, ranked_indices, format_results, query_search2, query_search3
 
-def get_top_scores(query, vocab, embeddings, thresh, topk):
-    scores = (embeddings@query)/(np.linalg.norm(embeddings, axis=-1)*np.linalg.norm(query))
-    return [(vocab[i], scores[i]) for i in scores.argsort()[-topk:][::-1] if scores[i]>thresh]
 
-def query_search(query, fuzzymodels, model, src, thresh=0.75, topk=10):
-    vocab = list(src.uniq_words)
-    embeddings = src.embeddings[model]
-    results = {}
+import os
+from tqdm import tqdm
+from transformers import AutoConfig, AutoModelForMaskedLM, AutoTokenizer
+
+@st.cache(allow_output_mutation=True)
+def load_config(model_name, **kwargs):
+    return AutoConfig.from_pretrained(model_name, **kwargs)
     
-    for q in query.split():
-        qq = fuzzymodels._embed(fuzzymodels.models[model], q).detach().numpy()
-        results[q] = [
-            (x[1], x[0]) 
-            for x in get_top_scores(qq, vocab, embeddings, thresh=thresh, topk=topk)
-        ]
-    return results
+@st.cache(allow_output_mutation=True)
+def load_tokenizer():
+    t = AutoTokenizer.from_pretrained('bert-base-uncased', TOKENIZERS_PARALLELISM=False)
+    return t
 
-def format_results(results):
-    formatted = {}
-    
-    for k,v in results.items():
-        formatted[k] = ['{:.3f} {}'.format(x[0], x[1]) for x in v]
-    return formatted
+@st.cache(allow_output_mutation=True)
+def load_models(path_dict, config):
+    return {
+        k:AutoModelForMaskedLM.from_pretrained(v, config=config) 
+        for k,v in path_dict.items()
+    }
 
-def _word_scores(results):
-    word_scores = {}
+class FuzzyModels:
+    """
+    Class to store pre-trained models
     
-    for k,v in results.items():
-        for score, word in v:
-            if word in word_scores:
-                word_scores[word] +=score
-            else:
-                word_scores[word] = score
-    return word_scores
+    Attributes:
+    model_name - Name of pre-trained model type
+    config - Configuration dictionary for pre-trained model type
+    tokenizer - Tokenizer for pre-trained model type
+    models - Dictionary with key:value pairs as label:model
+    """
+    config_kwargs = {
+        "cache_dir": None,
+        "revision": "main",
+        "use_auth_token": None,
+        "summary_activation": "tanh",
+        "summary_last_dropout": 0.1,
+        "summary_type": "mean",
+        "summary_use_proj": True
+    }
+    
+    def __init__(self, model_name, path_dict):
+        self.model_name = model_name
+        self.path_dict = path_dict
 
-def _get_idxs_scores(word_scores, src, shape=None):
-    all_idxs, all_scores = [], []
-    for k,v in word_scores.items():
-        idxs = np.array([src.idx_map[idx] for idx in src.uniq_words[k]]).T
-        all_idxs.append(idxs)
-        all_scores.append(np.array([v]*idxs.shape[-1]))
-        
-    all_idxs, all_scores = np.concatenate(all_idxs, axis=-1), np.concatenate(all_scores, axis=-1)
-    return all_idxs, all_scores
+        self.config = load_config(self.model_name, **FuzzyModels.config_kwargs)
+        self.tokenizer = load_tokenizer()
+        self.models = load_models(self.path_dict, self.config)
 
-def _sparse_scores(word_scores, src, shape=None):
-    all_idxs, all_scores = _get_idxs_scores(word_scores, src, shape=None)
-    if shape is None:
-        shape = tuple(x.max()+1 for x in all_idxs)
-    return torch.sparse_coo_tensor(all_idxs, all_scores, shape)
-
-# def ranked_indices(src, results):
-#     cols = ['tlo', 'elo', 'page', 'score']
-#     outcols = ['page', 'elo', 'tlo', 'score']
-#     if len(results)==0:
-#         return pd.DataFrame(columns=outcols)
-    
-#     word_scores = _word_scores(results)
-#     sparse_scores = _sparse_scores(word_scores, src)
-    
-#     sparse_scores = torch.sparse.sum(sparse_scores, dim=-1)
-#     sparse_scores = torch.sparse.sum(sparse_scores, dim=-1)
-    
-#     indices = pd.DataFrame(
-#         torch.cat([sparse_scores.indices().T, sparse_scores.values().unsqueeze(0).T], dim=-1).numpy(),
-#         columns=cols
-#     )
-#     for col in cols[:-1]:
-#         indices[col] = indices[col].astype(np.int64)
-#     indices = indices.sort_values(by='score', ascending=False)
-#     return indices[outcols]
-
-def compute_sparse_score(src, results):
-    ws = {k:_word_scores({k:v}) for k,v in results.items()}
-    
-    all_idxs = []
-    for k,v in ws.items():
-        _idx, _ = _get_idxs_scores(v, src)
-        all_idxs.append(_idx)
-    all_idxs = np.concatenate(all_idxs, axis=-1)
-    shape = tuple(x.max()+1 for x in all_idxs)
-    ss1 = {k:_sparse_scores(v, src, shape=shape) for k,v in ws.items()}
-    ss2 = {k:torch.sparse.sum(v, dim=-1) for k,v in ss1.items()}
-    ss3 = {k:torch.sparse.sum(v, dim=-1) for k,v in ss2.items()}
-    
-    scores = [x*(1/torch.max(x.values())) for x in ss3.values()]
-    return torch.sparse.sum(torch.stack(scores), dim=0)
-
-def ranked_indices(src, results):
-    cols = ['tlo', 'elo', 'page', 'score']
-    outcols = ['page', 'elo', 'tlo', 'score']
-    if len(results)==0:
-        return pd.DataFrame(columns=outcols)
-
-    sparse_scores = compute_sparse_score(src, results)
-    
-    indices = pd.DataFrame(
-        torch.cat([sparse_scores.indices().T, sparse_scores.values().unsqueeze(0).T], dim=-1).numpy(),
-        columns=cols
-    )
-    for col in cols[:-1]:
-        indices[col] = indices[col].astype(np.int64)
-    indices = indices.sort_values(by='score', ascending=False)
-    return indices[outcols]
+    def _embed2(self, model, data):
+        return model(**data,output_hidden_states=True).hidden_states[-1].mean(dim=1).squeeze()
 
 import re
-
-def get_lines(df, page, elo, tlo):
-    return df[(df.page==page)&(df.elo==elo)&(df.tlo==tlo)]
+from src.utils import uniq
 
 class Highlight:
     def __init__(self, keywords):
@@ -139,6 +83,9 @@ class Highlight:
         else:
             return text
 
+def get_lines(df, page, elo, tlo):
+    return df[(df.page==page)&(df.elo==elo)&(df.tlo==tlo)]
+
 def get_lil_results(src, rankings, highlight):
     lil_results = []
     
@@ -158,11 +105,6 @@ def get_lil_results(src, rankings, highlight):
         lil_results[-1][0] = '{}-{}-{} {} ({:.2f})'.format(tlo, elo, page, lil_results[-1][0].replace('*',''), row.score)
     return lil_results
 
-def uniq(seq):
-    seen = set()
-    seen_add = seen.add
-    return [x for x in seq if not (x in seen or seen_add(x))]
-
 def get_by_page(src, highlight):
     lil_results = []
     
@@ -179,70 +121,106 @@ def get_by_page(src, highlight):
             lil_results[-1][0] = '{}-{}-{} {}'.format(tlo, elo, page, lil_results[-1][0])
     return lil_results
 
-srcs = {
-    'hmds':SourceDIF(data_dir='data/dif/hmds'),
-    'rib':SourceDIF(data_dir='data/dif/rib'),
-}
+def get_by_page2(df, highlight, idxs_cols=['page', 'elo', 'tlo']):
+    lil_results = []
+    
+    for page, elo, tlo in uniq(df[idxs_cols].to_records(index=False).tolist()):
+        lil_results.append([])
+        lines = get_lines(df, page, elo, tlo)
+        
+        for x in lines.groupby('line'):
+            lil_results[-1].append(highlight(' '.join(x[1].content)))
+            
+        if len(lil_results[-1][0])>200:
+            lil_results[-2]+=lil_results.pop(-1)
+        else:
+            lil_results[-1][0] = '{}-{}-{} {}'.format(tlo, elo, page, lil_results[-1][0])
+    return lil_results
 
 fuzzymodels = FuzzyModels(
-    model_name='bert-base-uncased', 
-    path_dict = {
-        'hmds':'./outputs/lm_hmds-wiki_bert-uncased/pytorch_model.bin',
-        'rib':'./outputs/lm_rib-wiki_bert-uncased/pytorch_model.bin'
-    }
-)
-
-import glob
-
-pdf_urls = {
-    'hmds':glob.glob('data/tm/hmds/*pdf')[0],
-    'rib':glob.glob('data/tm/rib/*pdf')[0]
-}
-    
-def run():
-    state = SessionState.get(
-        full=[],
-        search=[]
+        model_name='bert-base-uncased', 
+        path_dict = {
+            'hmds':'./outputs/lm_hmds-wiki_bert-uncased/pytorch_model.bin',
+            'rib':'./outputs/lm_rib-wiki_bert-uncased/pytorch_model.bin'
+        }
     )
     
-    st.image('illuminet.png', use_column_width=True)
 
-    with st.beta_expander('Advanced Settings', expanded=False):
-        thresh = st.slider("Fuzzy Level", min_value=0, max_value=20, value=3, step=1)
-        topn = st.slider("Number of Results", min_value=1, max_value=100, value=10, step=1)
+def run():
+    srcs = {
+        'hmds':SourceDIF(data_dir='data/dif/hmds'),
+        'rib':SourceDIF(data_dir='data/dif/rib'),
+    }
+
+    pdf_urls = {
+        # 'hmds':glob.glob('data/tm/hmds/*pdf')[0],
+        # 'rib':glob.glob('data/tm/rib/*pdf')[0]
+        'hmds': 'http://insight.d2cybersecurity.com/data/tm/hmds/TM_hmds.pdf',
+        'rib': 'http://insight.d2cybersecurity.com/data/tm/rib/TM_rib.pdf#page=32'
+    }
+    state = SessionState.get(
+        full=[],
+        search=[],
+    )
+    st.image('FutruesCommand_MAITS.png', use_column_width=True)
         
-    col1, col2 = st.beta_columns(2)
-    
-    course = col1.selectbox('Select Technical Manual:', sorted(list(srcs), reverse=True))
+    course = st.sidebar.selectbox('Select Technical Manual:', sorted(list(srcs), reverse=True))
     state.full = get_by_page(srcs[course], Highlight([]))
     
-    col2.text("View Technical Manual:")
-    col2.write("   [{}-TM]({})".format(course, pdf_urls[course]))
+    with st.sidebar.beta_expander('Advanced Settings', expanded=False):
+        thresh = st.slider("Fuzzy Level", min_value=0, max_value=20, value=3, step=1)
+        topn = st.slider("Number of Results", min_value=1, max_value=100, value=10, step=1)
 
-    query = st.text_area("Enter Search Terms:", 'drag another ship')
+       
+        
+    st.text('Document List:')
+    st.write("   [{}-TM]({})".format(course, pdf_urls[course]))
+
+    query = st.text_area("Enter Search Terms:", '', height=1)
         
     results = {}
     
-    if st.button("Search"):
-        results = query_search(query, fuzzymodels, course, srcs[course], thresh=0, topk=thresh)
-
-    if len(results)>0:
-        with st.beta_expander("Show Match Terms", expanded=False):
-            st.write(format_results(results))
-
-        st.header('Search Results')
-
-        if len(results)>0:
-            rankings = ranked_indices(srcs[course], results).iloc[:topn]
-            highlight = Highlight([x[1] for y in results.values() for x in y])
-            state.search = get_lil_results(srcs[course], rankings, highlight)
-
-            for page in state.search:
-                if len(page)>1:            
-                    with st.beta_expander(page[0]):
-                        for line in page[1:]:
-                            st.write(line)
-
+    if st.button("Search"):   
                     
+        tokenized_data = {
+            q:{k:torch.LongTensor(v).unsqueeze(0) for k,v in fuzzymodels.tokenizer(q).items()}
+            for q in query.split()
+        }
+        
+        results = query_search3(tokenized_data, fuzzymodels, course, srcs[course], thresh=0, topk=thresh)
+        if len(results)>0:
+            with st.sidebar.beta_expander("Show Match Terms", expanded=False):
+                st.write(format_results(results))
+
+            st.header('Search Results')
+
+            if len(results)>0:
+                rankings = ranked_indices(srcs[course], results).iloc[:topn]
+                highlight = Highlight([x[1] for y in results.values() for x in y])
+                state.search = get_lil_results(srcs[course], rankings, highlight)
+
+                for i, page in enumerate(state.search):
+                    expanded = True if i==0 else False
+                    if len(page)>1:            
+                        with st.beta_expander(page[0], expanded=expanded):
+                            for line in page[1:]:
+                                st.write(line)
+          
+    with st.sidebar.beta_expander("Suggestion Box", expanded=True):
+        eg = st.text_area("What You Searched:", '', height=1)
+        good = st.text_area("What You Sought:", '', height=1)
+        bad = st.text_area("What You Got:", '', height=1)
+        
+        if st.button("Save Suggestions"):
+            if not eg or len(eg)==0:
+                st.write('Error: You must include "What You Searched"')
+            if not good or len(good)==0:
+                st.write('Error: You must include "What You Sought"')
+            if not bad or len(bad)==0:
+                st.write('Error: You must include "What You Got"')
+            if eg and good and bad and len(bad)>0 and len(good)>0 and len(eg)>0:
+                with open('suggestions.txt', "a") as f:
+                    f.write('|'.join([eg, good, bad])+'\n')     
+        
 if __name__ == "__main__":
     run()
